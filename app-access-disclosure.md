@@ -1,164 +1,102 @@
-# KCM Trade App – App Access Disclosure
+# Application Access Disclosure
 
 **Effective Date:** 27 January 2026  
-**Last Updated:** 27 January 2026  
-**App Version:** 1.1.14+103  
+**Last Updated:** 27 January 2026
+
+This Application Access Disclosure (the “Disclosure”) sets out information regarding access to applications and digital services operated under the **KCM Trade** brand by **Kohle Capital Markets Limited** (the “Company”, “we”, “us”, or “our”).
+
+This Disclosure is provided for transparency and to facilitate review by platform operators, regulators, and authorised reviewers, including but not limited to mobile application distribution platforms.
 
 ---
 
-## 1. Purpose of This Disclosure
+## 1. Scope of Application
 
-This App Access Disclosure explains **what device permissions and system access** are requested by the **KCM Trade Client Area App** (the “App”) and **why they are required**.
+This Disclosure applies to all mobile applications, web-based applications, and digital services operated, published, or distributed under the KCM Trade brand, whether accessed via:
 
-The App requests **only the minimum access necessary** to provide its core financial, security, and compliance-related features.
-
----
-
-## 2. Camera Access
-
-**Purpose:**
-- Identity verification (KYC)
-- Document capture (ID, proof of address)
-- Selfie and liveness verification (where required)
-
-**Important Notes:**
-- Camera access is requested **only when initiated by the user**
-- Images are used solely for verification and compliance purposes
-- Camera access is **not used in the background**
+- Mobile application stores  
+- Web platforms  
+- Application programming interfaces (APIs)  
+- Embedded or integrated services  
 
 ---
 
-## 3. Photo Library / Media Access
+## 2. Account-Based Access
 
-**Purpose:**
-- Uploading identity documents
-- Uploading proof of address or supporting files
+Certain features of the Services may be accessible only to registered users with an active account.
 
-**Important Notes:**
-- Access is limited to files selected by the user
-- The App does not scan or access other photos or media
+Account creation may require the submission of personal information and completion of identity verification procedures in accordance with the Company’s **Privacy Policy**, **AML and KYC Policy**, and **Terms of Service**.
 
 ---
 
-## 4. Microphone Access (If Enabled)
+## 3. Access Restrictions
 
-**Purpose:**
-- Customer support features (e.g. in-app calls or recordings, where applicable)
+Access to the Services may be restricted based on, without limitation:
 
-**Important Notes:**
-- Microphone access is **not used without user action**
-- Audio is not recorded unless explicitly initiated by the user
+- Regulatory or legal requirements  
+- Jurisdictional limitations  
+- User eligibility criteria  
+- Completion of required verification procedures  
 
----
-
-## 5. Biometric Authentication (Face ID / Touch ID / Fingerprint)
-
-**Purpose:**
-- Secure and convenient login
-- Account protection
-
-**Important Notes:**
-- Biometric data is processed **entirely on the device**
-- The App never stores or receives biometric data
-- The App only receives confirmation of successful authentication from the operating system
+The Company reserves the right to restrict or deny access to any user where required to comply with applicable laws, regulations, or platform policies.
 
 ---
 
-## 6. Location Access
+## 4. Reviewer Access for Platform Assessment
 
-**Purpose:**
-- Determining country or region for:
-  - Service eligibility
-  - Regulatory compliance
-  - Fraud prevention
+For the purposes of application review by platform operators (including Apple App Store, Google Play Store, and other authorised distribution platforms), access to the Services may be provided through one or more of the following methods:
 
-**Important Notes:**
-- Location access is limited to **country or regional level**
-- GPS access, if requested, is **optional**
-- Location data is **not tracked continuously**
+- Dedicated test or review accounts  
+- Guided access workflows  
+- Explanatory documentation outlining access procedures  
+
+Where live account access is not appropriate due to regulatory, security, or compliance considerations, sufficient information will be provided to enable a meaningful review of the application’s functionality.
 
 ---
 
-## 7. Notifications
+## 5. Security and Compliance Considerations
 
-**Purpose:**
-- Account alerts
-- Security notifications
-- Transaction and system updates
+In order to protect users, the integrity of the Services, and compliance with regulatory obligations, the Company may:
 
-**Important Notes:**
-- Users may manage notification preferences in device settings
-- Marketing notifications, where applicable, can be opted out
+- Limit reviewer access to non-production or restricted environments  
+- Mask or restrict access to sensitive data  
+- Disable certain transactional or financial functionalities  
 
----
-
-## 8. Network & Internet Access
-
-**Purpose:**
-- Secure communication with servers
-- Trading account access
-- Data synchronization
-- Security monitoring
-
-**Important Notes:**
-- All data transmissions are encrypted using secure protocols
-- The App does not intercept or monitor unrelated network traffic
+Such measures are implemented to ensure compliance with financial regulations, data protection laws, and security standards.
 
 ---
 
-## 9. Storage Access
+## 6. No Waiver of Legal or Regulatory Obligations
 
-**Purpose:**
-- Secure storage of session tokens
-- Temporary caching of non-sensitive data
-- Offline functionality (where applicable)
+Nothing in this Disclosure shall be construed as:
 
-**Important Notes:**
-- Sensitive data is stored using secure system storage (Keychain / Keystore)
-- Temporary files are automatically cleared
+- A waiver of any legal or regulatory obligation  
+- A grant of unrestricted access to the Services  
+- An entitlement to bypass security, compliance, or verification requirements  
 
----
-
-## 10. Third-Party SDK Access
-
-The App integrates third-party services for:
-- Analytics
-- Push notifications
-- Trading platforms
-- Identity verification
-- Customer support
-
-These services access data **only as necessary** to perform their functions and are bound by contractual and legal obligations.
+All access remains subject to applicable laws, regulations, and contractual terms.
 
 ---
 
-## 11. User Control
+## 7. Amendments
 
-Users may:
-- Grant or revoke permissions via device settings
-- Disable optional permissions without losing core app functionality (where applicable)
+The Company may amend this Disclosure from time to time to reflect changes in:
 
-Some permissions are required to comply with legal and regulatory obligations.
+- Legal or regulatory requirements  
+- Platform review policies  
+- Operational or security considerations  
 
----
-
-## 12. No Background Surveillance
-
-The App does **not**:
-- Record audio or video without user action
-- Track users continuously
-- Access personal data unrelated to its stated purpose
+Any amendments shall take effect upon publication, as indicated by the updated **Last Updated** date.
 
 ---
 
-## 13. Contact Information
+## 8. Contact Information
 
-For questions about app permissions or access:
+For enquiries relating to application access or review procedures, please contact:
 
-**Email:** cs@kcmtrade.com  
-**International Hotline:** +230 5297 0961  
-**Local Hotline:** +230 4672 000  
+**Kohle Capital Markets Limited**  
+Email: support@kcmtrade.com  
+Website: https://www.kcmtrade.com  
 
 ---
 
-**END OF APP ACCESS DISCLOSURE**
+This Disclosure forms part of the Company’s legal and compliance documentation and should be read in conjunction with other applicable policies and disclosures.
