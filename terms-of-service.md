@@ -1,280 +1,164 @@
-# KCM Trade App – Terms of Service
+# Terms of Service
 
 **Effective Date:** 27 January 2026  
-**Last Updated:** 27 January 2026  
-**App Version:** 1.1.14+103  
+**Last Updated:** 27 January 2026
+
+These Terms of Service (the “Terms”) govern access to and use of digital services, platforms, applications, and related products operated under the **KCM Trade** brand (the “Services”) by **Kohle Capital Markets Limited** (the “Company”, “we”, “us”, or “our”).
+
+By accessing or using the Services, you (“User”, “you”, or “your”) acknowledge that you have read, understood, and agree to be bound by these Terms, together with all policies and disclosures incorporated by reference.
 
 ---
 
-## 1. Introduction
+## 1. Scope of Services
 
-These Terms of Service (“**Terms**”) govern your access to and use of the **KCM Trade Client Area App** (the “**App**”), operated by **Kohle Capital Markets Limited**, trading as **KCM Trade** (“**KCM Trade**”, “**Company**”, “**we**”, “**us**”, or “**our**”).
+The Services provide execution-only access to financial instruments, which may include, without limitation:
 
-These Terms apply **exclusively to the App**, including:
-- iOS mobile application  
-- Android mobile application  
-- Progressive Web App (PWA)
+- Contracts for Difference (CFDs)  
+- Foreign exchange (forex) instruments  
+- Derivative instruments, including options, futures, swaps, and related products  
 
-By downloading, installing, accessing, or using the App, you confirm that you have read, understood, and agreed to be legally bound by these Terms.
+The Services may be made available through websites, mobile applications, application programming interfaces (APIs), and other digital delivery methods.
 
-If you do not agree, you must not use the App.
-
----
-
-## 2. Company Information
-
-**Legal Entity:** Kohle Capital Markets Limited  
-**Trading Name:** KCM Trade  
-**Registration Number:** C153797 C1/GBL  
-**D-U-N-S® Number:** 851762462  
-**Jurisdiction:** Republic of Mauritius  
-
-**Registered Office:**  
-Kohle Capital Markets Limited  
-C/o Credentia International Management Ltd  
-Ebene / Quatre Bornes  
-72201  
-Republic of Mauritius  
-
-**Contact Email (Support, Legal & Privacy):**  
-📧 cs@kcmtrade.com  
-
-**Telephone:**  
-📞 International Hotline: +230 5297 0961  
-📞 Local Hotline: +230 4672 000  
+Nothing in the Services constitutes investment advice, portfolio management, or discretionary trading services.
 
 ---
 
-## 3. Eligibility
+## 2. Eligibility and Account Registration
 
-- You must be **at least 18 years old**
-- You must have the **legal capacity** to enter into binding agreements
-- You must not be located in a **restricted or prohibited jurisdiction**
-- You must comply with all applicable laws and regulations
+Access to certain features of the Services requires the creation of an account.
 
-The Company reserves the right to refuse access at its sole discretion.
+By registering for an account, you represent and warrant that:
+- You have legal capacity to enter into binding contracts  
+- You are not prohibited from accessing the Services under applicable laws  
+- All information provided is accurate, complete, and not misleading  
 
----
-
-## 4. Relationship & Nature of Services
-
-### 4.1 Execution-Only Service
-
-The App provides **execution-only access** to client account services.
-
-- No investment advice is provided
-- No portfolio management is provided
-- No suitability or appropriateness assessment is provided
-- The Company acts as **principal and counterparty** to trades
-
-All trading decisions are made **solely by you**.
+The Company reserves the right to refuse, suspend, or terminate any account at its sole discretion.
 
 ---
 
-### 4.2 No Fiduciary Duty
+## 3. Identity Verification and Compliance
 
-Nothing in the App or these Terms creates:
-- A fiduciary relationship
-- An advisory relationship
-- A trust relationship
+Users may be required to complete identity verification procedures in accordance with the Company’s **AML and KYC Policy** and applicable laws.
 
----
-
-## 5. Account Registration & Security
-
-- You must provide accurate and complete information
-- You are responsible for maintaining confidentiality of credentials
-- You are responsible for all activities conducted through your account
-- Unauthorized use must be reported immediately
-
-The Company is not liable for losses caused by unauthorized access due to user negligence.
+Failure to complete required verification may result in restricted access, suspension, or termination of Services.
 
 ---
 
-## 6. Compliance, KYC & AML
+## 4. User Obligations
 
-You acknowledge and agree that:
+Users agree to:
+- Use the Services in compliance with applicable laws and regulations  
+- Maintain the confidentiality of account credentials  
+- Notify the Company promptly of any unauthorised access or security breach  
+- Refrain from fraudulent, abusive, or unlawful conduct  
 
-- Identity verification (KYC) is mandatory
-- Source of funds and source of wealth may be required
-- Enhanced due diligence may apply
-- Ongoing monitoring is conducted
-
-The Company may:
-- Suspend accounts
-- Restrict transactions
-- Freeze funds
-- Delay withdrawals
-- Terminate access
-
-**Without prior notice**, where required by law or regulation.
+Users are solely responsible for all activities conducted through their accounts.
 
 ---
 
-## 7. App Functionality & Availability
+## 5. Orders, Transactions, and Execution
 
-- App availability is **not guaranteed**
-- Features may change or be discontinued
-- Updates may be mandatory
-- Downtime may occur due to maintenance or external factors
+Orders submitted through the Services are subject to market conditions, system availability, and applicable execution policies.
 
-The Company is not responsible for losses arising from:
-- App unavailability
-- Connectivity issues
-- Device or operating system failures
+The Company may act as principal or counterparty to transactions. Execution may involve slippage, re-quotes, partial fills, or delays.
+
+Details regarding order handling and execution are set out in the Company’s Order Execution Policy.
 
 ---
 
-## 8. Orders, Pricing & Execution
+## 6. Fees, Charges, and Payments
 
-- Prices displayed are **indicative only**
-- Slippage (positive or negative) may occur
-- Re-quotes may occur
-- Partial fills may occur
-- Orders may be rejected or cancelled under certain conditions
+Users may be subject to fees, charges, spreads, commissions, financing costs, or other costs associated with the Services.
 
-The Company may correct or void transactions resulting from:
-- Pricing errors
-- System errors
-- Abnormal market conditions
+Applicable fees and charges are disclosed through the Services or in related documentation and may be amended from time to time.
 
 ---
 
-## 9. Risks & No Guarantees
+## 7. Risk Acknowledgement
 
-Trading involves **significant risk**, including:
-- Loss of capital
-- Losses exceeding deposits
-- Market volatility
-- Leverage amplification
+Users acknowledge and accept the risks associated with trading leveraged and derivative instruments, as described in the Company’s **Risk Disclosure Statement**.
 
-No guarantees are made regarding:
-- Profits
-- Execution prices
-- System availability
-- Order outcomes
-
-You trade **entirely at your own risk**.
+Users understand that losses may exceed initial deposits and that trading is not suitable for all individuals.
 
 ---
 
-## 10. Fees & Charges
+## 8. Technology and Platform Availability
 
-- Fees, commissions, spreads, and charges may apply
-- Fees may vary by instrument or account type
-- Detailed fee information is provided outside the App
+The Services rely on electronic systems and third-party infrastructure.
 
-You are responsible for all applicable costs.
+The Company does not guarantee uninterrupted, error-free, or secure access to the Services and is not responsible for losses arising from system failures, connectivity issues, or technical disruptions, except as required by law.
 
 ---
 
-## 11. Third-Party Services
+## 9. Intellectual Property
 
-The App integrates third-party services, including but not limited to:
-- Trading platforms (MT4 / MT5)
-- Analytics and notifications
-- Payment processors
-- Identity verification providers
-- AI and market data services
+All intellectual property rights in the Services, including software, content, trademarks, and proprietary technology, are owned by or licensed to the Company.
 
-The Company is not responsible for third-party failures.
+Users are granted a limited, non-exclusive, non-transferable licence to access and use the Services in accordance with these Terms.
 
 ---
 
-## 12. Intellectual Property
+## 10. Suspension and Termination
 
-All rights in the App, including:
-- Software
-- Content
-- Trademarks
-- Logos
-- Documentation
+The Company may suspend or terminate access to the Services, with or without notice, where:
+- Required by law or regulation  
+- A breach of these Terms is suspected or identified  
+- Security, compliance, or risk concerns arise  
 
-Are owned by or licensed to the Company.
-
-You are granted a **limited, non-exclusive, non-transferable, revocable license** to use the App for personal purposes only.
+Termination does not affect accrued rights or obligations.
 
 ---
 
-## 13. Prohibited Conduct
+## 11. Limitation of Liability
 
-You must not:
-- Use the App unlawfully
-- Circumvent security measures
-- Interfere with system integrity
-- Upload malicious code
-- Misuse services
-- Provide false information
+To the maximum extent permitted by law, the Company shall not be liable for any indirect, incidental, consequential, or special damages arising out of or in connection with the Services.
 
-Violation may result in immediate suspension or termination.
+Nothing in these Terms limits liability where such limitation is prohibited by applicable law.
 
 ---
 
-## 14. Suspension & Termination
+## 12. Indemnity
 
-The Company may:
-- Suspend or terminate access
-- Close accounts
-- Liquidate positions
-- Freeze funds
-
-At its sole discretion, with or without notice, subject to law.
+Users agree to indemnify and hold harmless the Company from any claims, losses, or liabilities arising from:
+- Breach of these Terms  
+- Unlawful or improper use of the Services  
+- Violation of applicable laws or third-party rights  
 
 ---
 
-## 15. Limitation of Liability
+## 13. Regulatory and Jurisdictional Matters
 
-To the maximum extent permitted by law:
-- The Company is not liable for indirect or consequential losses
-- Liability is limited to direct losses only
-- No liability for lost profits, data, or opportunities
+The Services are offered subject to regulatory and jurisdictional restrictions.
 
----
-
-## 16. Indemnity
-
-You agree to indemnify and hold harmless the Company against all claims, losses, and expenses arising from:
-- Breach of these Terms
-- Misuse of the App
-- Violation of laws or regulations
+Users are responsible for ensuring that their use of the Services complies with applicable laws in their jurisdiction.
 
 ---
 
-## 17. Privacy
+## 14. Amendments
 
-Personal data is processed in accordance with the **KCM Trade App Privacy Policy**, which forms an integral part of these Terms.
+The Company may amend these Terms from time to time to reflect changes in:
+- Laws or regulations  
+- Regulatory guidance or platform policies  
+- Services or operational practices  
 
----
-
-## 18. Changes to These Terms
-
-The Company may amend these Terms at any time.
-
-Changes may be communicated via:
-- In-app notifications
-- Email
-- Updated publication
-
-Continued use constitutes acceptance of updated Terms.
+Amendments take effect upon publication, as indicated by the updated **Last Updated** date.
 
 ---
 
-## 19. Governing Law & Jurisdiction
+## 15. Governing Law and Jurisdiction
 
-These Terms are governed by the laws applicable to **Kohle Capital Markets Limited**, without prejudice to mandatory consumer protection laws.
-
-Courts of competent jurisdiction shall have exclusive authority.
+These Terms are governed by and construed in accordance with the laws of the **Republic of Mauritius**, unless otherwise required by applicable law.
 
 ---
 
-## 20. Contact
+## 16. Contact Information
 
-For questions regarding these Terms:
+For enquiries relating to these Terms or the Services, please contact:
 
-📧 **cs@kcmtrade.com**  
-📞 **+230 5297 0961** (International)  
-📞 **+230 4672 000** (Local)
+**Kohle Capital Markets Limited**  
+Email: support@kcmtrade.com  
+Website: https://www.kcmtrade.com  
 
 ---
 
-**END OF TERMS OF SERVICE**
+By accessing or using the Services, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service.
