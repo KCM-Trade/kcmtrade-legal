@@ -16,7 +16,3 @@ defaults:
       path: ""
     values:
       layout: "default"
-
-# Optional (choose one)
-# If you want /privacy-policy/ style URLs:
-permalink: pretty
