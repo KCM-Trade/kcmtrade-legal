@@ -1,4 +1,4 @@
-# KCM Trade  
+[# KCM Trade  
 ## Legal, Regulatory, and Compliance Documentation Repository
 
 This repository contains the official legal, regulatory, and compliance documentation applicable to digital services, platforms, and applications operated under the **KCM Trade** brand by **Kohle Capital Markets Limited** (the “Company”).
@@ -162,3 +162,4 @@ Website: https://www.kcmtrade.com
 ---
 
 © 2026 Kohle Capital Markets Limited. All rights reserved.
+](https://kcm-trade.github.io/kcmtrade-legal/privacy-policy.html  )
