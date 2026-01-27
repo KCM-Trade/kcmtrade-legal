@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="{{ site.description | escape }}">
+  <title>{% if page.title %}{{ page.title | escape }} — {% endif %}{{ site.title | escape }}</title>
+
+  <link rel="stylesheet" href="{{ '/assets/css/kcm.css' | relative_url }}">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="brand" href="{{ '/' | relative_url }}" aria-label="KCM Trade Legal Home">
+        <img
+          class="brand-logo"
+          src="https://cdn.prod.website-files.com/5ff2829edadccfad347a090a/66668e19e6b035b4ffadd53d_logo.png"
+          alt="KCM Trade"
+          loading="eager"
+          decoding="async"
+        >
+        <span class="brand-text">
+          <span class="brand-title">KCM Trade</span>
+          <span class="brand-subtitle">Legal & Compliance</span>
+        </span>
+      </a>
+
+      <nav class="site-nav" aria-label="Legal navigation">
+        {% include nav.html %}
+      </nav>
+    </div>
+  </header>
+
+  <main id="main" class="site-main">
+    <div class="container">
+      {% if page.title %}
+        <div class="page-head">
+          <h1 class="page-title">{{ page.title | escape }}</h1>
+          {% if page.last_updated %}
+            <p class="page-meta">Last Updated: {{ page.last_updated | escape }}</p>
+          {% endif %}
+        </div>
+      {% endif %}
+
+      <article class="content">
+        {{ content }}
+      </article>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <div class="footer-left">
+        <div class="footer-title">Kohle Capital Markets Limited</div>
+        <div class="footer-note">© {{ "now" | date: "%Y" }}. All rights reserved.</div>
+      </div>
+      <div class="footer-right">
+        <a href="https://www.kcmtrade.com" rel="noopener" target="_blank">kcmtrade.com</a>
+      </div>
+    </div>
+  </footer>
+</body>
+</html>
