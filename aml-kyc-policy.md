@@ -1,145 +1,160 @@
-# Anti-Money Laundering (AML) & Know-Your-Customer (KYC) Policy
+# Anti-Money Laundering (AML) and Know-Your-Customer (KYC) Policy
 
 **Effective Date:** 27 January 2026  
 **Last Updated:** 27 January 2026
 
-This Anti-Money Laundering (“AML”) and Know-Your-Customer (“KYC”) Policy describes the measures adopted by **Kohle Capital Markets Limited** (“Company”, “we”, “us”, or “our”) in connection with the provision of services through **KCM Trade** (the “Services”).
+This Anti-Money Laundering and Know-Your-Customer Policy (the “Policy”) sets out the principles, standards, and procedures adopted by **Kohle Capital Markets Limited** (the “Company”, “we”, “us”, or “our”) in connection with the provision of services under the **KCM Trade** platform (the “Services”).
 
-This policy is intended to comply with applicable anti-money laundering and counter-terrorism financing laws and regulations, including requirements imposed by relevant regulatory authorities.
-
----
-
-## 1. Purpose of This Policy
-
-The purpose of this AML & KYC Policy is to:
-
-- Prevent money laundering, terrorism financing, and other financial crimes
-- Establish procedures for client identification and verification
-- Ensure ongoing monitoring of client activity
-- Comply with applicable regulatory and legal obligations
+This Policy forms part of the Company’s overall compliance framework and is intended to ensure compliance with applicable anti-money laundering (“AML”), counter-terrorism financing (“CTF”), and financial crime prevention laws, regulations, regulatory guidance, and platform governance requirements, including those applicable to mobile application distribution platforms.
 
 ---
 
-## 2. Scope of Application
+## 1. Purpose and Objectives
 
-This policy applies to:
+The objectives of this Policy are to:
 
-- All users who register for or access the Services
-- All products and services offered through KCM Trade
-- All deposits, withdrawals, trades, and related transactions
-
-The Company applies a **risk-based approach** to AML and KYC compliance.
-
----
-
-## 3. Client Identification & Verification (KYC)
-
-To access certain features of the Services, users may be required to complete identity verification procedures.
-
-### 3.1 Information Collected
-We may request and verify the following information:
-
-- Full legal name
-- Date of birth
-- Nationality
-- Residential address
-- Government-issued identification documents
-- Proof of address
-- Source of funds and/or source of wealth information
-
-Failure to provide accurate or complete information may result in account restrictions or refusal of service.
+- Prevent the use of the Services for money laundering, terrorism financing, fraud, or other financial crimes  
+- Establish robust client identification and verification procedures  
+- Apply a risk-based approach to customer due diligence  
+- Monitor transactions and user activity on an ongoing basis  
+- Ensure compliance with applicable regulatory and legal obligations  
 
 ---
 
-## 4. Verification Methods
+## 2. Scope and Application
 
-Identity verification may be conducted through:
+This Policy applies to:
 
-- Manual review
-- Automated verification systems
-- Third-party identity verification providers
+- All users who register for, access, or use the Services  
+- All accounts, transactions, deposits, withdrawals, and trading activity  
+- All products and services made available through the KCM Trade platform  
 
-We reserve the right to request additional documentation at any time.
-
----
-
-## 5. Ongoing Monitoring
-
-The Company monitors client activity on an ongoing basis to:
-
-- Detect suspicious or unusual transactions
-- Identify high-risk behavior
-- Ensure consistency with the user’s profile and declared source of funds
-
-Monitoring may include transaction reviews, behavioral analysis, and periodic re-verification.
+Compliance with this Policy is a condition of access to and continued use of the Services.
 
 ---
 
-## 6. Enhanced Due Diligence (EDD)
+## 3. Risk-Based Approach
 
-Enhanced Due Diligence may be applied where higher risk is identified, including but not limited to:
+The Company applies a risk-based approach to AML and KYC compliance, whereby the nature, extent, and frequency of due diligence measures are determined based on an assessment of relevant risk factors, including but not limited to:
 
-- Politically Exposed Persons (PEPs)
-- High-risk jurisdictions
-- Unusual transaction patterns
-- Large or complex transactions
-
-EDD may require additional documentation, approvals, or enhanced monitoring.
+- Customer profile and behaviour  
+- Geographic location and jurisdictional risk  
+- Nature and volume of transactions  
+- Product and service risk  
 
 ---
 
-## 7. Account Restrictions & Suspension
+## 4. Client Identification and Verification (KYC)
 
-We reserve the right, at our sole discretion, to:
+### 4.1 Mandatory Verification
 
-- Suspend or restrict accounts
-- Delay or refuse transactions
-- Freeze funds
-- Terminate business relationships
+Users may be required to complete identity verification procedures prior to accessing certain features of the Services, including account activation, deposits, withdrawals, and trading.
 
-This may occur where:
-- Required verification is not completed
-- Information provided is false or misleading
-- Suspicious activity is detected
-- Legal or regulatory obligations require action
+### 4.2 Information Collected
 
----
+For identification and verification purposes, the Company may collect, verify, and process information including, but not limited to:
 
-## 8. Reporting of Suspicious Activity
+- Full legal name  
+- Date of birth  
+- Nationality and country of residence  
+- Residential address  
+- Government-issued identification documents  
+- Proof of address documentation  
+- Source of funds and/or source of wealth information  
 
-Where required by law, suspicious activities may be reported to the relevant authorities.
-
-Such reporting may occur **without prior notice** to the user, where permitted or required by applicable law.
+The Company reserves the right to request additional information or documentation at any time.
 
 ---
 
-## 9. Data Protection
+## 5. Verification Methods
 
-Personal data collected for AML and KYC purposes is processed in accordance with our **Privacy Policy** and applicable data protection laws.
+Identity verification may be conducted using one or more of the following methods:
 
-Data is stored securely and retained only for as long as required by law or regulatory obligations.
+- Manual document review  
+- Automated verification technologies  
+- Third-party identity verification and compliance service providers  
 
----
-
-## 10. Regulatory Compliance
-
-Kohle Capital Markets Limited is committed to complying with all applicable AML, CTF, and financial crime prevention regulations within the jurisdictions in which it operates.
-
-This AML & KYC Policy forms part of the Company’s broader compliance framework and may be updated from time to time.
+Verification methods may evolve in line with technological developments and regulatory expectations.
 
 ---
 
-## 11. Changes to This Policy
+## 6. Ongoing Monitoring
 
-We may amend this AML & KYC Policy at any time to reflect changes in laws, regulations, or internal practices.
+The Company conducts ongoing monitoring of customer activity to:
 
-Any updates will be published with a revised **“Last Updated”** date.
+- Detect unusual, suspicious, or potentially unlawful transactions  
+- Ensure consistency between customer activity and the declared profile  
+- Identify changes in risk level  
+
+Monitoring may include transaction analysis, behavioural monitoring, and periodic re-verification.
 
 ---
 
-## 12. Contact Information
+## 7. Enhanced Due Diligence (EDD)
 
-For questions regarding this AML & KYC Policy, please contact:
+Enhanced Due Diligence measures may be applied in higher-risk situations, including but not limited to:
+
+- Politically Exposed Persons (PEPs)  
+- Customers from high-risk or sanctioned jurisdictions  
+- Complex, unusual, or large transactions  
+- Other circumstances identified through risk assessment  
+
+EDD may involve additional documentation, approvals, and enhanced monitoring procedures.
+
+---
+
+## 8. Account Restrictions, Suspension, and Termination
+
+The Company reserves the right, at its sole discretion and without limitation, to:
+
+- Restrict or suspend access to the Services  
+- Delay, refuse, or reverse transactions  
+- Freeze accounts or funds  
+- Terminate the business relationship  
+
+Such actions may be taken where:
+- Required verification has not been completed  
+- Information provided is inaccurate, incomplete, or misleading  
+- Suspicious or unlawful activity is detected  
+- Required by applicable laws, regulations, or regulatory authorities  
+
+---
+
+## 9. Reporting of Suspicious Activity
+
+Where required or permitted by applicable law, the Company may report suspicious activities to the relevant authorities.
+
+Such reporting may occur without prior notice to the user, where disclosure is restricted or prohibited by law.
+
+---
+
+## 10. Data Protection and Record Retention
+
+Personal data collected for AML and KYC purposes is processed in accordance with the Company’s **Privacy Policy** and applicable data protection laws.
+
+Records relating to customer identification, verification, and transactions are retained for such periods as required by applicable legal and regulatory obligations.
+
+---
+
+## 11. Regulatory Compliance
+
+The Company is committed to maintaining compliance with applicable AML, CTF, and financial crime prevention regulations in the jurisdictions in which it operates or offers Services.
+
+This Policy does not create any additional rights in favour of users and does not limit the Company’s ability to take any action required to comply with legal or regulatory obligations.
+
+---
+
+## 12. Amendments
+
+The Company may amend this Policy from time to time to reflect changes in laws, regulations, regulatory guidance, platform requirements, or internal practices.
+
+Any amendments will be effective upon publication, as indicated by the updated **Last Updated** date.
+
+---
+
+## 13. Contact Information
+
+For enquiries relating to this Policy or compliance matters, please contact:
 
 **Kohle Capital Markets Limited**  
 Email: support@kcmtrade.com  
@@ -147,4 +162,4 @@ Website: https://www.kcmtrade.com
 
 ---
 
-By using the Services, you acknowledge that you have read, understood, and agree to this AML & KYC Policy.
+By accessing or using the Services, you acknowledge that you have read, understood, and agreed to this Anti-Money Laundering and Know-Your-Customer Policy.
