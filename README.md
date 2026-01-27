@@ -1,7 +1,7 @@
 # KCM Trade  
 ## Legal, Regulatory, and Compliance Documentation Repository
 
-This repository contains the official legal, regulatory, and compliance documentation for digital services, platforms, and applications operated under the **KCM Trade** brand by **Kohle Capital Markets Limited** (the “Company”).
+This repository contains the official legal, regulatory, and compliance documentation applicable to digital services, platforms, and applications operated under the **KCM Trade** brand by **Kohle Capital Markets Limited** (the “Company”).
 
 The documents published herein are intended to support transparency, regulatory compliance, and platform governance requirements, including those applicable to mobile application distribution platforms such as the Google Play Store, Apple App Store, and other equivalent marketplaces.
 
@@ -17,16 +17,19 @@ This repository serves as the authoritative public source for legal and complian
 - Software development kits (SDKs)  
 - Related digital services  
 
-operated or distributed under the KCM Trade brand.
+operated, published, or distributed under the KCM Trade brand.
 
-These documents are referenced from application listings, in-app disclosures, web interfaces, and compliance communications.
+These documents are referenced from application listings, in-app disclosures, websites, and compliance communications.
 
 ---
 
-## 2. About the Company
+## 2. Company Information
 
 **Legal Entity Name:**  
 Kohle Capital Markets Limited
+
+**Trading Name:**  
+KCM Trade
 
 **Jurisdiction of Incorporation:**  
 Republic of Mauritius
@@ -51,7 +54,7 @@ These documents should be read together, as they are interrelated and incorporat
 
 ---
 
-## 4. Repository Structure and Documents
+## 4. Repository Contents
 
 ### 4.1 Core Legal Documents
 
@@ -79,6 +82,10 @@ These documents should be read together, as they are interrelated and incorporat
   https://kcm-trade.github.io/kcmtrade-legal/aml-kyc-policy  
   Describes the Company’s anti-money laundering, counter-terrorism financing, and client verification framework.
 
+- **Complaints Policy**  
+  https://kcm-trade.github.io/kcmtrade-legal/complaints-policy  
+  Sets out the procedures for the submission, handling, investigation, and escalation of complaints, including escalation to the Financial Services Commission of Mauritius.
+
 - **Data Safety and Processing Disclosure**  
   https://kcm-trade.github.io/kcmtrade-legal/data-safety  
   Summarises data processing practices in alignment with mobile application platform disclosure requirements.
@@ -89,7 +96,7 @@ These documents should be read together, as they are interrelated and incorporat
 
 ---
 
-### 4.3 Platform Review and Access
+### 4.3 Platform Review, Access, and Support
 
 - **Application Access Disclosure**  
   https://kcm-trade.github.io/kcmtrade-legal/app-access-disclosure  
@@ -97,7 +104,7 @@ These documents should be read together, as they are interrelated and incorporat
 
 - **Contact Information**  
   https://kcm-trade.github.io/kcmtrade-legal/contact  
-  Sets out official contact and support details for legal, compliance, and user enquiries.
+  Sets out official customer support and compliance contact details, including email and telephone support.
 
 ---
 
@@ -109,7 +116,7 @@ The documents in this repository are intended to support compliance with, withou
 - Apple App Store Review Guidelines and App Privacy disclosures  
 - Other mobile application distribution platform governance frameworks  
 
-The availability of applications on such platforms does not constitute endorsement or approval by the platform operator.
+The availability of applications on such platforms does not constitute endorsement, approval, or recommendation by the platform operator.
 
 ---
 
@@ -120,7 +127,7 @@ Each document includes an **Effective Date** and **Last Updated** date.
 The Company may update documents from time to time to reflect changes in:
 
 - Laws and regulations  
-- Regulatory guidance  
+- Regulatory guidance or supervisory expectations  
 - Platform governance requirements  
 - Business operations or technology  
 
@@ -148,6 +155,8 @@ For enquiries relating to these documents or compliance matters, please refer to
 
 **Kohle Capital Markets Limited**  
 Email: support@kcmtrade.com  
+Telephone (International): +230 5297 0961  
+Telephone (Local): +230 4672 000  
 Website: https://www.kcmtrade.com  
 
 ---
