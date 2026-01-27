@@ -1,0 +1,15 @@
+title: "KCM Trade Legal"
+description: "Official legal, regulatory, and compliance documentation for KCM Trade."
+url: "https://kcm-trade.github.io"
+baseurl: "/kcmtrade-legal"
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# Keep it simple and compatible with GitHub Pages
+plugins:
+  - jekyll-sitemap
+
+# Optional: make URLs end with .html automatically
+permalink: pretty
