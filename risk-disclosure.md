@@ -1,188 +1,136 @@
-# KCM Trade App – Risk Disclosure Statement
+# Risk Disclosure Statement
 
 **Effective Date:** 27 January 2026  
-**Last Updated:** 27 January 2026  
-**App Version:** 1.1.14+103  
+**Last Updated:** 27 January 2026
+
+This Risk Disclosure Statement (the “Disclosure”) is issued by **Kohle Capital Markets Limited** (the “Company”, “we”, “us”, or “our”) in relation to digital services, platforms, and applications operated under the **KCM Trade** brand (the “Services”).
+
+This Disclosure is intended to inform users of the nature and risks associated with trading in leveraged and derivative financial instruments and should be read in conjunction with the Company’s Terms of Service, Regulatory and Licensing Disclosure, Order Execution Policy, and other applicable legal documentation.
 
 ---
 
-## 1. Important Risk Warning
+## 1. General Risk Warning
 
-Trading in leveraged financial instruments such as **Contracts for Difference (CFDs)**, **foreign exchange (FX)**, and other derivative products involves a **high level of risk** and may not be suitable for all investors.
+Trading in leveraged financial instruments involves a high degree of risk and may not be suitable for all investors.
 
-You may lose **some or all of your invested capital**, and in certain circumstances, losses may **exceed your initial deposit**.
+Users may sustain losses in excess of their initial investment. Past performance is not a reliable indicator of future results.
 
-You should carefully consider whether you understand how these products work and whether you can afford to take the high risk of losing money.
+Before engaging in trading activities, users should carefully consider their financial situation, investment objectives, level of experience, and risk tolerance.
 
 ---
 
-## 2. No Investment Advice
+## 2. Nature of the Products
 
-The **KCM Trade Client Area App** (the “**App**”) provides **execution-only services**.
+The Services may provide access to financial instruments, including but not limited to:
 
-- The Company does **not** provide investment advice, trading advice, or recommendations.
-- Any market information, tools, analytics, or commentary provided through the App are **for informational purposes only**.
-- You are solely responsible for all trading decisions.
+- Contracts for Difference (CFDs)  
+- Foreign exchange (forex) instruments  
+- Derivative instruments, including options, futures, swaps, and related products  
 
-Nothing in the App constitutes:
-- Investment advice
-- Financial advice
-- Trading recommendations
-- A solicitation to trade
+These instruments are complex and may not be suitable for all users.
 
 ---
 
 ## 3. Leverage Risk
 
-Leverage allows you to open positions larger than your initial investment.  
-While leverage can magnify profits, it also **magnifies losses**.
+Many financial instruments offered through the Services involve leverage, which can magnify both gains and losses.
 
-Small market movements may have a **disproportionately large impact** on your account balance and may result in rapid losses.
-
----
-
-## 4. Market Risk & Volatility
-
-Financial markets can be volatile and unpredictable due to:
-- Economic events
-- Political developments
-- Market sentiment
-- Liquidity conditions
-
-Prices may change rapidly, and positions may be closed at prices different from those expected.
+A relatively small market movement may have a disproportionately large impact on a user’s position, potentially resulting in rapid and significant losses.
 
 ---
 
-## 5. Execution Risk
+## 4. Market Volatility and Liquidity Risk
 
-Trading through electronic platforms involves risks including:
+Financial markets may be volatile, and prices may change rapidly due to economic events, market conditions, or other factors.
 
-- Slippage (positive or negative)
-- Re-quotes
-- Partial fills
-- Order rejection
-- Delays in execution
-
-Under abnormal market conditions, orders may be executed at prices significantly different from requested prices.
+Periods of low liquidity may increase the risk of slippage, delayed execution, or the inability to close positions at desired prices.
 
 ---
 
-## 6. Counterparty Risk
+## 5. Counterparty and Execution Risk
 
-The Company may act as **principal and counterparty** to client transactions.
+In certain transactions, the Company may act as principal or counterparty.
 
-This means:
-- Your trades are executed against the Company
-- The Company’s interests may differ from yours
-
-Details regarding execution arrangements are set out in the Order Execution Policy.
+Execution of orders is subject to market conditions, system availability, and liquidity. Slippage, re-quotes, partial fills, or execution delays may occur.
 
 ---
 
-## 7. Liquidity Risk
+## 6. Margin and Liquidation Risk
 
-Certain instruments may have limited liquidity, which can result in:
-- Difficulty opening or closing positions
-- Wider spreads
-- Increased slippage
+Trading on margin involves the risk that positions may be automatically closed if margin requirements are not met.
 
----
-
-## 8. Margin & Forced Liquidation Risk
-
-If your account equity falls below required margin levels:
-
-- Margin calls may occur
-- Positions may be **closed automatically**
-- Funds may be liquidated **without prior notice**
-
-You are responsible for monitoring your account and margin requirements at all times.
+Such liquidation may occur without prior notice and may result in losses that exceed the funds available in a user’s account.
 
 ---
 
-## 9. Technology & Connectivity Risk
+## 7. Technology and Platform Risk
 
-Trading through the App involves risks related to:
-- Internet connectivity
-- Device performance
-- Software or hardware failure
-- Power outages
-- Third-party service disruptions
+The Services are delivered through electronic systems, including websites, mobile applications, APIs, and third-party platforms.
 
-The Company is not responsible for losses resulting from such events.
+Users acknowledge the risk of system failures, connectivity issues, latency, hardware or software malfunctions, and other technical disruptions that may affect access to the Services or execution of transactions.
 
 ---
 
-## 10. Third-Party Risk
+## 8. Third-Party Service Risk
 
-The App integrates third-party services, including trading platforms, payment processors, and identity verification providers.
+The Services may rely on third-party service providers, including liquidity providers, technology vendors, and infrastructure providers.
 
-The Company does not control these third parties and is not responsible for failures, delays, or errors caused by them.
-
----
-
-## 11. Regulatory & Legal Risk
-
-Regulatory requirements may change and affect:
-- Trading conditions
-- Product availability
-- Account restrictions
-- Reporting obligations
-
-The Company may take actions required by law, including suspending accounts or restricting access.
+Failures, delays, or disruptions affecting such third parties may impact the availability or performance of the Services.
 
 ---
 
-## 12. Past Performance
+## 9. Regulatory and Legal Risk
 
-Past performance is **not indicative of future results**.
+Changes in laws, regulations, regulatory guidance, or enforcement practices may affect the availability, legality, or terms of the Services.
 
-Historical data, charts, or performance metrics do not guarantee future profitability.
-
----
-
-## 13. Responsibility of the User
-
-You are solely responsible for:
-- Understanding the risks involved
-- Assessing the suitability of trading
-- Managing your positions and risk exposure
-- Complying with applicable laws and regulations
-
-If you do not fully understand these risks, you should seek independent professional advice before trading.
+Users are responsible for ensuring that their use of the Services complies with applicable laws in their jurisdiction.
 
 ---
 
-## 14. No Guarantees
+## 10. No Guarantee of Profit
 
-The Company does **not guarantee**:
-- Profits
-- Trading outcomes
-- Market availability
-- Execution prices
-- System uptime
+There is no guarantee that users will achieve profits through the use of the Services.
 
-All trading is conducted **at your own risk**.
+Trading results may vary, and losses may be substantial.
 
 ---
 
-## 15. Acceptance of Risk
+## 11. No Investment Advice
 
-By accessing or using the App, you acknowledge that:
-- You have read and understood this Risk Disclosure Statement
-- You accept all risks associated with trading
-- You agree that trading is undertaken at your own risk
+The Services are provided on an execution-only basis.
 
----
-
-## 16. Contact Information
-
-For questions regarding this Risk Disclosure Statement:
-
-**Email:** cs@kcmtrade.com  
-**International Hotline:** +230 5297 0961  
-**Local Hotline:** +230 4672 000  
+Nothing in the Services or this Disclosure constitutes investment advice, trading recommendations, or an offer to manage investments on behalf of users.
 
 ---
 
-**END OF RISK DISCLOSURE STATEMENT**
+## 12. Suitability and Independent Advice
+
+Users are solely responsible for assessing the suitability of the Services and the risks associated with trading.
+
+Users should seek independent professional advice where appropriate.
+
+---
+
+## 13. Amendments
+
+The Company may amend this Disclosure from time to time to reflect changes in:
+
+- Applicable laws or regulations  
+- Regulatory guidance or platform governance requirements  
+- Products, services, or operational practices  
+
+Any amendments shall take effect upon publication, as indicated by the updated **Last Updated** date.
+
+---
+
+## 14. Contact Information
+
+For enquiries relating to this Risk Disclosure Statement, please contact:
+
+**Kohle Capital Markets Limited**  
+Email: support@kcmtrade.com  
+Website: https://www.kcmtrade.com  
+
+---
+
+By accessing or using the Services, you acknowledge that you have read, understood, and accepted the risks described in this Risk Disclosure Statement.
