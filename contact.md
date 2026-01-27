@@ -3,11 +3,11 @@
 **Effective Date:** 27 January 2026  
 **Last Updated:** 27 January 2026
 
-This page provides official contact and support information for **KCM Trade**, operated by **Kohle Capital Markets Limited**.
+This Contact Information page sets out the official communication channels for digital services, platforms, and applications operated under the **KCM Trade** brand by **Kohle Capital Markets Limited** (the “Company”).
 
 ---
 
-## Company Information
+## 1. Company Information
 
 **Legal Entity Name:**  
 Kohle Capital Markets Limited
@@ -20,45 +20,53 @@ Republic of Mauritius
 
 ---
 
-## Customer Support
+## 2. Official Communication Channels
 
-For general enquiries, technical support, or account-related questions, please contact us using the details below:
+The following contact details constitute the Company’s authorised communication channels for enquiries relating to the Services, including account matters, technical support, legal notices, and compliance-related enquiries.
 
+### Email Support
 **Email:**  
 support@kcmtrade.com
 
-We aim to respond to all enquiries within a reasonable timeframe during normal business hours.
+### Telephone Support
+
+**International Hotline:**  
++230 5297 0961
+
+**Local Hotline:**  
++230 4672 000
+
+Telephone support availability may be subject to business hours and operational capacity. Calls may be recorded or monitored where permitted by applicable law.
 
 ---
 
-## Regulatory & Compliance Enquiries
+## 3. Support and Compliance Enquiries
 
-For matters relating to compliance, regulatory disclosures, or legal policies, please contact us via the same official support channel:
+Enquiries received through the official communication channels may be reviewed and handled by the relevant internal departments, including customer support, compliance, or legal functions, as appropriate.
 
-**Email:**  
-support@kcmtrade.com
-
-Your enquiry may be forwarded to the appropriate department for review.
+Responses are provided within a reasonable timeframe during normal business operations.
 
 ---
 
-## Important Notice
+## 4. Important Notice
 
-KCM Trade provides execution-only trading services. Support communications do not constitute investment advice, trading recommendations, or financial guidance.
+Communications with the Company do not constitute investment advice, trading recommendations, or financial guidance.
 
-Users are encouraged to review the following documents for more information:
+Users are encouraged to review the Company’s legal and regulatory documentation, including but not limited to:
 
-- Privacy Policy  
 - Terms of Service  
-- Risk Disclosure  
-- Regulatory & Licensing Disclosure  
-- AML & KYC Policy  
+- Privacy Policy  
+- Risk Disclosure Statement  
+- Regulatory and Licensing Disclosure  
+- AML and KYC Policy  
 
 ---
 
-## Updates to This Page
+## 5. Updates to This Page
 
-We may update this Contact Information page from time to time. Any changes will be reflected by updating the **“Last Updated”** date above.
+The Company may update this Contact Information page from time to time to reflect operational, regulatory, or organisational changes.
+
+Any updates shall take effect upon publication, as indicated by the updated **Last Updated** date.
 
 ---
 
