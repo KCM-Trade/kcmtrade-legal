@@ -1,361 +1,138 @@
-# KCM Trade App – Data Safety & Privacy Disclosure  
-(Apple App Store · Google Play · Huawei AppGallery)
+# Data Safety and Processing Disclosure
 
-**App Name:** KCM Trade Client Area App  
-**Applies To:** iOS, Android, PWA  
-**Last Updated:** 27 January 2026  
+**Effective Date:** 27 January 2026  
+**Last Updated:** 27 January 2026
 
----
+This Data Safety and Processing Disclosure (the “Disclosure”) describes how **Kohle Capital Markets Limited** (the “Company”, “we”, “us”, or “our”) collects, uses, stores, and protects data in connection with digital services operated under the **KCM Trade** brand (the “Services”).
 
-# PART A — GOOGLE PLAY DATA SAFETY FORM
-
-## A1. Does the app collect or share user data?
-✅ Yes, this app collects and shares user data.
+This Disclosure is intended to support transparency and compliance with applicable data protection laws, regulatory requirements, and platform governance standards, including those applicable to mobile application distribution platforms.
 
 ---
 
-## A2. Data Collected
+## 1. Scope of Application
 
-### Personal Information
-**Collected:** Yes  
-**Shared:** Yes  
-
-**Types:**
-- Name
-- Email address
-- Phone number
-- Date of birth
-- Country of residence
-
-**Purpose:**
-- Account creation and management
-- Identity verification
-- Regulatory compliance
-- Customer support
+This Disclosure applies to all mobile applications, web applications, websites, software development kits (SDKs), application programming interfaces (APIs), and related digital services operated or distributed by the Company under the KCM Trade brand.
 
 ---
 
-### Financial Information
-**Collected:** Yes  
-**Shared:** Yes  
+## 2. Categories of Data Collected
 
-**Types:**
-- Trading account data
-- Transaction history
-- Deposit and withdrawal information
-- Payment method details
+Depending on the nature of the Services and user interaction, the Company may collect and process the following categories of data:
 
-**Purpose:**
-- Trading services
-- Payment processing
-- Legal and regulatory compliance
+### 2.1 Personal and Account Information
+- Name, date of birth, nationality, and contact details  
+- Residential address and identification information  
+- Account credentials and verification status  
 
----
+### 2.2 Financial and Transactional Data
+- Account balances and transaction records  
+- Deposit and withdrawal information  
+- Trading and activity history  
 
-### Identity Verification (Sensitive)
-**Collected:** Yes  
-**Shared:** Yes  
+### 2.3 Technical and Usage Data
+- Device identifiers and operating system information  
+- IP address and network information  
+- Application usage, performance, and diagnostic data  
 
-**Types:**
-- Government-issued ID
-- Proof of address
-- Verification images/documents
-
-**Purpose:**
-- KYC / AML compliance
-- Fraud prevention
-- Legal obligations
+### 2.4 Verification and Compliance Data
+- Identity verification documentation  
+- Source of funds or source of wealth information  
+- Compliance assessments and audit records  
 
 ---
 
-### App Activity
-**Collected:** Yes  
-**Shared:** No  
+## 3. Purpose of Data Processing
 
-**Types:**
-- App interactions
-- Feature usage
-- Session activity
+Data is collected and processed for the following purposes:
 
-**Purpose:**
-- Analytics
-- Performance monitoring
-- Security
+- Provision, operation, and maintenance of the Services  
+- Identity verification, fraud prevention, and compliance with AML and KYC obligations  
+- Transaction processing and account management  
+- Security monitoring and risk management  
+- Legal and regulatory compliance  
+- Service improvement and technical optimisation  
 
 ---
 
-### Device or Other IDs
-**Collected:** Yes  
-**Shared:** No  
+## 4. Data Sharing and Disclosure
 
-**Types:**
-- Device identifiers
-- Push notification tokens
+The Company may share data with:
 
-**Purpose:**
-- App functionality
-- Security
-- Notifications
+- Affiliated entities within the corporate group  
+- Third-party service providers acting on the Company’s instructions  
+- Technology, hosting, analytics, messaging, and verification providers  
+- Regulatory authorities, law enforcement, or other parties where required by law  
+
+Data is shared only to the extent necessary and subject to contractual and legal safeguards.
 
 ---
 
-### Location
-**Collected:** Yes  
-**Shared:** No  
+## 5. Data Security Measures
 
-**Type:**
-- Approximate location (country/region)
+The Company implements reasonable technical and organisational measures designed to protect data against unauthorised access, alteration, disclosure, or destruction.
 
-**Purpose:**
-- Regulatory compliance
-- Service eligibility
-- Fraud prevention
+Such measures may include, without limitation:
 
----
-
-### Photos & Videos
-**Collected:** Yes  
-**Shared:** Yes  
-
-**Types:**
-- User-uploaded photos/documents
-
-**Purpose:**
-- Identity verification
-- Compliance requirements
+- Encryption in transit and at rest, where appropriate  
+- Access controls and authentication mechanisms  
+- Monitoring and logging of system activity  
+- Regular review of security practices  
 
 ---
 
-### Audio
-**Collected:** No  
-**Shared:** No  
+## 6. Data Retention
+
+Data is retained only for as long as necessary to fulfil the purposes described in this Disclosure or to comply with applicable legal, regulatory, or contractual obligations.
+
+Retention periods may vary depending on the type of data and applicable requirements.
 
 ---
 
-## A3. Data Sharing
+## 7. User Rights and Controls
 
-**Does the app share user data with third parties?**  
-✅ Yes
+Subject to applicable laws, users may have rights in relation to their personal data, including the right to request access, correction, or deletion.
 
-**Categories of recipients:**
-- Payment processors
-- Identity verification providers
-- Trading platforms
-- Analytics and notification providers
-- Customer support providers
-- Regulators and authorities (where required by law)
+Requests may be subject to legal, regulatory, or compliance limitations and verification of identity.
 
 ---
 
-## A4. Data Security
-- Encrypted in transit: ✅ Yes  
-- Encrypted at rest: ✅ Yes (where applicable)  
-- Industry-standard security practices: ✅ Yes  
+## 8. Cross-Border Data Transfers
+
+Data may be processed or stored in jurisdictions other than the user’s country of residence, subject to appropriate safeguards and in compliance with applicable data protection laws.
 
 ---
 
-## A5. Data Retention & Deletion
-- Users may request deletion: ✅ Yes  
-- Some data retained for legal reasons: ✅ Yes  
+## 9. Platform-Specific Disclosures
 
-**Explanation:**  
-Certain data must be retained to comply with financial services, AML, and regulatory record-keeping obligations.
+This Disclosure is intended to align with platform-specific data disclosure frameworks, including but not limited to:
 
----
+- Google Play Data Safety requirements  
+- Apple App Privacy disclosures  
 
-## A6. Advertising
-- Data used for advertising: ❌ No  
-- Ad personalization: ❌ No  
-- Third-party ads: ❌ No  
+The information provided herein is intended to be consistent with declarations made to such platforms.
 
 ---
 
-## A7. Optional vs Required Data
-⚠️ Some data is mandatory, some optional.
+## 10. Amendments
 
-Mandatory data is required for legal, regulatory, and security purposes. Optional permissions may be managed via device settings.
+The Company may amend this Disclosure from time to time to reflect changes in:
 
----
+- Applicable laws or regulations  
+- Platform governance or disclosure requirements  
+- Technology, security practices, or business operations  
 
-# PART B — APPLE APP STORE PRIVACY DISCLOSURE
-
-## B1. Does the app collect data?
-✅ Yes
+Any amendments shall take effect upon publication, as indicated by the updated **Last Updated** date.
 
 ---
 
-## B2. Data Collected and Linked to the User
+## 11. Contact Information
 
-### Contact Information
-- Name
-- Email address
-- Phone number
+For enquiries relating to data safety or data processing practices, please contact:
 
-**Purpose:**
-- App functionality
-- Account management
-- Customer support
-- Legal compliance
+**Kohle Capital Markets Limited**  
+Email: support@kcmtrade.com  
+Website: https://www.kcmtrade.com  
 
 ---
 
-### Financial Information
-- Transaction data
-- Trading account data
-- Payment information
-
-**Purpose:**
-- App functionality
-- Payments
-- Regulatory compliance
-
----
-
-### Identifiers
-- User ID
-- Device identifiers
-- Push notification tokens
-
-**Purpose:**
-- App functionality
-- Security
-
----
-
-### Usage Data
-- App interactions
-- Feature usage
-- Session activity
-
-**Purpose:**
-- Analytics
-- Performance
-- Security
-
----
-
-### Location
-- Approximate location (country/region)
-
-**Purpose:**
-- Regulatory compliance
-- Fraud prevention
-
----
-
-### Photos & Documents
-- User-uploaded photos/documents
-
-**Purpose:**
-- Identity verification
-- Compliance
-
----
-
-## B3. Data Not Collected
-- Audio recordings
-- Contacts
-- Health data
-- Sensitive personal traits
-- Advertising identifiers for tracking
-
----
-
-## B4. Tracking
-**Does the app track users across apps or websites owned by other companies?**  
-❌ No
-
----
-
-## B5. Data Usage Summary
-
-| Purpose | Applies |
-|------|------|
-| App Functionality | ✅ |
-| Legal & Regulatory Compliance | ✅ |
-| Security & Fraud Prevention | ✅ |
-| Analytics | ✅ |
-| Advertising | ❌ |
-| Cross-App Tracking | ❌ |
-
----
-
-# PART C — HUAWEI APPGALLERY PRIVACY & DATA SECURITY DISCLOSURE
-
-## C1. Data Collection Disclosure
-The App collects personal data necessary to:
-- Provide financial and trading services
-- Verify user identity
-- Comply with legal and regulatory obligations
-- Ensure system security and fraud prevention
-
----
-
-## C2. Categories of Data Collected
-- Personal identification data
-- Financial and transaction data
-- Identity verification documents
-- Device and application usage data
-- Approximate location (country/region)
-
----
-
-## C3. Purpose of Data Processing
-- Account management
-- Trading and payment services
-- KYC / AML compliance
-- Customer support
-- Risk management
-- Legal and regulatory compliance
-
----
-
-## C4. Data Sharing
-Data may be shared with:
-- Financial institutions and payment processors
-- Identity verification providers
-- Trading platforms
-- Technology service providers
-- Regulatory and governmental authorities where required
-
----
-
-## C5. Data Storage & Security
-- Data is stored on secure servers with access controls
-- Encryption is applied in transit and at rest (where applicable)
-- Data is retained in accordance with legal and regulatory requirements
-
----
-
-## C6. User Rights
-Users may request:
-- Access to their personal data
-- Correction of inaccurate data
-- Deletion of data (subject to legal retention obligations)
-
-Requests may be submitted via:  
-📧 cs@kcmtrade.com
-
----
-
-## C7. No Improper Data Use
-The App does **not**:
-- Collect unnecessary data
-- Perform hidden background surveillance
-- Sell personal data
-- Use data for advertising or profiling
-
----
-
-# PART D — CONSISTENCY & COMPLIANCE STATEMENT
-
-This disclosure is consistent with:
-- KCM Trade App Privacy Policy
-- KCM Trade App Terms of Service
-- AML / CTF obligations
-- Applicable data protection laws
-- Apple App Store, Google Play, and Huawei AppGallery requirements
-
----
-
-**END OF DATA SAFETY & PRIVACY DISCLOSURE**
+This Disclosure forms part of the Company’s legal and compliance documentation and should be read in conjunction with the Company’s Privacy Policy and other applicable disclosures.
