@@ -3,111 +3,126 @@
 **Effective Date:** 27 January 2026  
 **Last Updated:** 27 January 2026
 
-This Cookie Policy explains how **Kohle Capital Markets Limited** (“Company”, “we”, “us”, or “our”) uses cookies and similar technologies when you access our websites, web applications, and mobile applications related to **KCM Trade** (collectively, the “Services”).
+This Cookie Policy (the “Policy”) explains how **Kohle Capital Markets Limited** (the “Company”, “we”, “us”, or “our”) uses cookies and similar technologies in connection with digital services operated under the **KCM Trade** brand (the “Services”).
 
-This policy should be read together with our **Privacy Policy**.
-
----
-
-## 1. What Are Cookies?
-
-Cookies are small text files stored on your device (computer, smartphone, tablet) when you visit a website or use an application. Cookies help us:
-
-- Ensure proper functionality
-- Improve performance and security
-- Analyze usage
-- Provide a better user experience
-
-Cookies may be **session-based** (deleted when you close your browser) or **persistent** (stored for a defined period).
+This Policy applies to all websites, mobile applications, web applications, and related digital platforms operated by the Company and should be read together with the Company’s **Privacy Policy**.
 
 ---
 
-## 2. Types of Cookies We Use
+## 1. Definition of Cookies and Similar Technologies
 
-### 2.1 Strictly Necessary Cookies
-These cookies are essential for the operation of our Services and cannot be disabled.
+Cookies are small text files stored on a user’s device when accessing a website or digital service. Similar technologies may include local storage, software development kits (SDKs), pixels, device identifiers, or other tracking technologies used to perform similar functions.
 
-They are used for:
-- User authentication and session management
-- Security and fraud prevention
-- Load balancing
-- Account login and access control
-
-Without these cookies, the Services may not function correctly.
+For the purposes of this Policy, references to “cookies” include all such technologies.
 
 ---
 
-### 2.2 Performance & Analytics Cookies
-These cookies help us understand how users interact with our Services by collecting anonymous statistical data.
+## 2. Purpose of Cookies
 
-They allow us to:
-- Monitor performance
-- Improve app and website usability
-- Detect errors and crashes
+The Company uses cookies and similar technologies for the following purposes:
 
-Examples of tools used:
-- Analytics platforms (e.g. Matomo, Google Analytics or equivalent)
-
-Data collected is aggregated and does not directly identify individual users.
+- To ensure the proper functioning, security, and integrity of the Services  
+- To facilitate authentication and session management  
+- To improve performance and usability  
+- To analyse usage and technical performance  
+- To comply with legal, regulatory, and platform requirements  
 
 ---
 
-### 2.3 Functional Cookies
-These cookies allow us to remember user preferences and settings, such as:
-- Language selection
-- Region or country
-- Interface preferences
+## 3. Categories of Cookies Used
 
-They enhance user experience but are not strictly required for basic functionality.
+### 3.1 Strictly Necessary Cookies
+
+These cookies are essential for the operation of the Services and enable core functionalities such as:
+
+- User authentication and access control  
+- Security and fraud prevention  
+- Load balancing and service continuity  
+
+The Services cannot function properly without these cookies.
 
 ---
 
-### 2.4 Third-Party Cookies
-Some cookies may be placed by trusted third-party service providers who assist us in delivering our Services, including:
+### 3.2 Performance and Analytics Cookies
 
-- Analytics providers  
-- Push notification services  
-- Authentication services  
-- Embedded content or APIs  
+These cookies collect aggregated and anonymised information regarding how users interact with the Services, including technical and usage data.
+
+Such cookies are used to:
+
+- Monitor system performance and stability  
+- Identify errors or technical issues  
+- Improve the design and functionality of the Services  
+
+Analytics services may be provided internally or by trusted third-party providers.
+
+---
+
+### 3.3 Functional Cookies
+
+Functional cookies enable the Services to remember user preferences and settings, including but not limited to:
+
+- Language preferences  
+- Regional settings  
+- Interface customisation  
+
+These cookies enhance usability but are not essential to basic service functionality.
+
+---
+
+### 3.4 Third-Party Cookies and Technologies
+
+The Company may permit trusted third-party service providers to place cookies or similar technologies on user devices in connection with the Services.
+
+Such providers may include:
+
+- Analytics and performance monitoring providers  
+- Push notification and messaging services  
+- Authentication and security service providers  
+- Embedded content or integrated service providers  
 
 Third-party cookies are subject to the respective providers’ privacy and cookie policies.
 
 ---
 
-## 3. Cookies in Mobile Applications
+## 4. Cookies in Mobile Applications
 
-Our mobile applications may not use traditional browser cookies, but may use **similar technologies**, such as:
+Mobile applications operated under the KCM Trade brand may not use traditional browser cookies but may use equivalent technologies, including SDKs, device identifiers, and local storage.
 
-- SDK identifiers
-- Local storage
-- Device tokens
-
-These technologies serve similar purposes, including analytics, security, and push notifications, and are governed by our Privacy Policy.
+These technologies serve similar purposes to cookies and are used in accordance with this Policy and the Company’s **Privacy Policy**.
 
 ---
 
-## 4. How You Can Manage Cookies
+## 5. User Control and Management
 
-You can control or delete cookies through your browser or device settings. Please note:
+Users may manage or disable cookies through browser or device settings, subject to the limitations of their device or operating system.
 
-- Disabling certain cookies may affect functionality
-- Some features may not be available if cookies are blocked
-
-For mobile applications, permissions and tracking preferences can be managed through your device settings.
+Please note that disabling certain cookies or similar technologies may result in reduced functionality or limited access to certain features of the Services.
 
 ---
 
-## 5. Changes to This Cookie Policy
+## 6. Data Protection and Retention
 
-We may update this Cookie Policy from time to time to reflect changes in legal requirements, technology, or business practices.
+Information collected through cookies and similar technologies is processed in accordance with the Company’s **Privacy Policy** and applicable data protection laws.
 
-Any updates will be posted on this page with a revised **“Last Updated”** date.
+Data is retained only for as long as necessary to fulfil the purposes described in this Policy or as required by law or regulatory obligations.
 
 ---
 
-## 6. Contact Information
+## 7. Changes to This Policy
 
-If you have any questions about this Cookie Policy or our data practices, please contact us:
+The Company may amend this Cookie Policy from time to time to reflect changes in:
+
+- Legal or regulatory requirements  
+- Technology or business practices  
+- Platform governance or review policies  
+
+Any amendments shall take effect upon publication, as indicated by the updated **Last Updated** date.
+
+---
+
+## 8. Contact Information
+
+For questions regarding this Cookie Policy or the Company’s data practices, please contact:
 
 **Kohle Capital Markets Limited**  
 Email: support@kcmtrade.com  
@@ -115,4 +130,4 @@ Website: https://www.kcmtrade.com
 
 ---
 
-By using our Services, you acknowledge that you have read and understood this Cookie Policy.
+By accessing or using the Services, you acknowledge that you have read and understood this Cookie Policy.
