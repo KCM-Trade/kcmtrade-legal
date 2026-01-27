@@ -1,134 +1,107 @@
-# KCM Trade App – Legal Documentation
+# KCM Trade – Legal & Compliance Documents
 
-This repository contains the **official legal documentation** for the **KCM Trade Client Area App**, published and maintained by **Kohle Capital Markets Limited**.
+This repository contains the official legal, regulatory, and compliance documents for **KCM Trade**, operated by **Kohle Capital Markets Limited**.
 
-All documents in this repository are **authoritative**, **version-controlled**, and **publicly accessible** to meet app-store, regulatory, and user transparency requirements.
+All documents are publicly hosted and accessible to support:
+- Google Play Store compliance
+- Regulatory transparency
+- User disclosure requirements for financial and trading applications
 
----
-
-## 📌 About KCM Trade
-
-**Legal Entity:** Kohle Capital Markets Limited  
-**Trading Name:** KCM Trade  
-**Registration Number:** C153797 C1/GBL  
-**D-U-N-S® Number:** 851762462  
-**Jurisdiction:** Republic of Mauritius  
-
-**Registered Office:**  
-Kohle Capital Markets Limited  
-C/o Credentia International Management Ltd  
-Ebene / Quatre Bornes  
-72201  
-Republic of Mauritius  
-
-**Contact Email (Support, Privacy & Legal):**  
-📧 cs@kcmtrade.com  
-
-**Telephone:**  
-📞 International Hotline: +230 5297 0961  
-📞 Local Hotline: +230 4672 000  
+🔗 **Base URL:**  
+https://kcm-trade.github.io/kcmtrade-legal/
 
 ---
 
-## 🎯 Purpose of This Repository
+## About KCM Trade
 
-This repository exists to:
+**KCM Trade** is a digital trading platform providing execution-only access to financial instruments.
 
-- Provide **public access** to the legal documents governing the KCM Trade Client Area App
-- Satisfy **Apple App Store**, **Google Play**, **Huawei AppGallery**, and **Microsoft Store** legal requirements
-- Support **regulatory compliance**, audits, and reviews
-- Maintain a **clear version history** of legal documents
-- Ensure transparency for users and partners
+Services are operated by **Kohle Capital Markets Limited**, a legally incorporated entity subject to applicable regulatory and compliance obligations.
+
+⚠️ Trading involves significant risk. Users should carefully review all disclosures before using the Services.
 
 ---
 
-## 📱 Scope
+## 📄 Legal & Policy Documents (Direct Links)
 
-The documents in this repository apply **only** to:
+### Core Legal Documents
+- 🔗 **Privacy Policy**  
+  https://kcm-trade.github.io/kcmtrade-legal/privacy-policy
 
-- **KCM Trade Client Area App**
-  - iOS application
-  - Android application
-  - Progressive Web App (PWA)
+- 🔗 **Terms of Service**  
+  https://kcm-trade.github.io/kcmtrade-legal/terms-of-service
 
-They do **not** replace or override:
-- Website legal documents
-- Client Agreement
-- AML / CTF policies
-- Order Execution Policy
-- Conflict of Interest Policy
-- Risk Disclosure statements
+- 🔗 **Risk Disclosure Statement**  
+  https://kcm-trade.github.io/kcmtrade-legal/risk-disclosure
 
-Where applicable, those documents are incorporated **by reference**.
+- 🔗 **Regulatory & Licensing Disclosure**  
+  https://kcm-trade.github.io/kcmtrade-legal/regulatory-licensing-disclosure
 
 ---
 
-## 📄 Documents Included
+### Compliance & Platform Policies
+- 🔗 **AML & KYC Policy**  
+  https://kcm-trade.github.io/kcmtrade-legal/aml-kyc-policy
 
-Typical documents published in this repository include:
+- 🔗 **Data Safety Disclosure (Google Play)**  
+  https://kcm-trade.github.io/kcmtrade-legal/data-safety
 
-- **Privacy Policy**  
-- **Terms of Use / Terms of Service**  
-- **Risk Disclosures**  
-- **App-specific legal notices**  
-
-Each document clearly states its **effective date** and **last updated date**.
-
----
-
-## 🔐 Legal & Regulatory Context
-
-KCM Trade provides **execution-only trading services** in accordance with applicable laws and regulations.  
-The App involves **financial services and leveraged products**, which carry a high degree of risk.
-
-Users are responsible for ensuring they understand all risks and legal obligations before using the App.
+- 🔗 **Cookie Policy**  
+  https://kcm-trade.github.io/kcmtrade-legal/cookie-policy
 
 ---
 
-## 🧾 Version Control & Updates
+### App Review & Support
+- 🔗 **App Access Disclosure**  
+  https://kcm-trade.github.io/kcmtrade-legal/app-access-disclosure
 
-- All changes to legal documents are tracked using Git version control
-- Historical versions remain publicly accessible
-- Material updates may be reflected:
-  - In-app
-  - Via email
-  - Through updated publication in this repository
-
-Continued use of the App after updates constitutes acceptance of the revised terms, where permitted by law.
+- 🔗 **Contact Information**  
+  https://kcm-trade.github.io/kcmtrade-legal/contact
 
 ---
 
-## 🛑 Intellectual Property Notice
+## Usage & References
 
-All documents in this repository are:
+These documents may be referenced from:
+- Google Play Store listings
+- Android & iOS mobile applications
+- In-app WebViews
+- Official websites
+- Regulatory and compliance communications
 
-- © Kohle Capital Markets Limited
-- **All rights reserved**
-
-No license is granted for:
-- Reproduction
-- Modification
-- Redistribution
-- Commercial or non-commercial reuse
-
-Unauthorized use of these documents is prohibited.
+Each document includes an **Effective Date** and **Last Updated** date for clarity and version control.
 
 ---
 
-## ⚖️ Governing Law
+## Updates & Maintenance
 
-Unless otherwise stated in a specific document, the legal documents in this repository are governed by the laws applicable to **Kohle Capital Markets Limited**, without prejudice to mandatory consumer or data protection laws.
+Documents in this repository may be updated to reflect:
+- Regulatory or legal changes
+- Platform policy updates (e.g. Google Play)
+- Business or operational updates
 
----
-
-## 📬 Contact
-
-For any questions relating to the documents in this repository:
-
-📧 **cs@kcmtrade.com**  
-📞 **+230 5297 0961** (International)  
-📞 **+230 4672 000** (Local)
+Any changes will be reflected by updating the **Last Updated** date in the relevant document.
 
 ---
 
-**END OF README**
+## Important Notice
+
+Nothing in this repository constitutes:
+- Investment advice
+- Trading recommendations
+- Financial guidance
+
+Users are solely responsible for understanding trading risks and determining whether the Services are suitable for them.
+
+---
+
+## Contact
+
+For enquiries related to these documents or compliance matters:
+
+📧 **support@kcmtrade.com**  
+🌐 **https://www.kcmtrade.com**
+
+---
+
+© 2026 Kohle Capital Markets Limited. All rights reserved.
