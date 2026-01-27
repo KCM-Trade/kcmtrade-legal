@@ -1,151 +1,122 @@
-# KCM Trade App – Regulatory & Licensing Disclosure
+# Regulatory and Licensing Disclosure
 
 **Effective Date:** 27 January 2026  
-**Last Updated:** 27 January 2026  
-**App Version:** 1.1.14+103  
+**Last Updated:** 27 January 2026
+
+This Regulatory and Licensing Disclosure (the “Disclosure”) is issued by **Kohle Capital Markets Limited** (the “Company”, “we”, “us”, or “our”) in relation to digital services, platforms, and applications operated under the **KCM Trade** brand (the “Services”).
+
+This Disclosure is provided for transparency and to meet applicable legal, regulatory, and platform governance requirements, including those applicable to mobile application distribution platforms.
 
 ---
 
-## 1. Purpose of This Disclosure
+## 1. Corporate Information
 
-This Regulatory & Licensing Disclosure provides information regarding the **legal status, regulatory authorisation, and licensing** of the entity providing services through the **KCM Trade Client Area App** (the “**App**”).
-
-This disclosure is provided for **informational and transparency purposes only** and does not constitute investment advice, legal advice, or a solicitation to trade.
-
----
-
-## 2. Corporate Structure
-
-The services provided through the App are offered by **Kohle Capital Markets Limited**, which is part of the **KCM Group**.
-
-**Parent Company:**  
-KCM Group Holdings Limited
-
----
-
-## 3. Company Information
-
-**Legal Entity:** Kohle Capital Markets Limited  
-**Trading Name:** KCM Trade  
-
-**Regulatory Authority:**  
-Mauritius Financial Services Commission (FSC)
-
-**Regulatory Number:**  
-C117022600  
+**Legal Entity Name:**  
+Kohle Capital Markets Limited
 
 **Jurisdiction of Incorporation:**  
-Republic of Mauritius  
+Republic of Mauritius
 
-**Registered Business Address:**  
-The Cyberati Lounge  
-Ground Floor, The Catalyst  
-Silicon Avenue, 40 Cybercity  
-Ebene 72201  
-Republic of Mauritius  
+**Registration Number:**  
+C153797 C1/GBL
 
 ---
 
-## 4. Regulatory Status
+## 2. Regulatory Status
 
-Kohle Capital Markets Limited is **regulated by the Mauritius Financial Services Commission (FSC)** and is authorised to provide execution-only investment services in accordance with applicable laws and regulations.
+Kohle Capital Markets Limited is licensed and regulated in accordance with the laws of the Republic of Mauritius.
 
-The Company operates within the scope of its regulatory authorisation and complies with relevant financial services legislation.
+The Company holds the following authorisations:
 
----
+- **Global Business Licence** issued under the Financial Services Act 2007  
+- **Investment Dealer (Full Service Dealer, excluding Underwriting) Licence** issued under the Securities Act 2005  
 
-## 5. Nature of Services
-
-The App provides access to **execution-only trading services**.
-
-- The Company does **not** provide investment advice
-- The Company does **not** provide portfolio management
-- The Company does **not** act as a fiduciary to users
-
-All trading decisions are made **solely by the user**.
+The Company is regulated by the **Financial Services Commission of Mauritius (FSC Mauritius)**.
 
 ---
 
-## 6. High-Risk Investment Warning
+## 3. Scope of Authorised Activities
 
-Trading **Foreign Exchange (Forex)** and **Contracts for Difference (CFDs)** is **highly leveraged** and involves a **significant risk of loss**.
+Under its regulatory authorisations, the Company is permitted to provide execution-only services in relation to financial instruments, including but not limited to:
 
-You may lose **some or all of your invested capital**, and such products may not be suitable for all investors.
+- Contracts for Difference (CFDs)  
+- Foreign exchange (forex) instruments  
+- Derivative instruments, including options, futures, swaps, and related products  
 
-You should ensure that you fully understand how these products work and whether you can afford to take the high risk of losing money.
-
-The information provided through the App or on related websites:
-- Does **not** constitute investment advice
-- Does **not** constitute a recommendation
-- Should **not** be considered an offer to acquire financial products or services
+Services are provided on an execution-only basis. The Company does not provide investment advice, portfolio management, or discretionary trading services unless expressly stated otherwise in applicable contractual documentation.
 
 ---
 
-## 7. Jurisdictional Restrictions
+## 4. Role of the Company in Transactions
 
-The Company does **not** offer services to residents of certain jurisdictions, including but not limited to:
+In connection with certain transactions, the Company may act as principal or counterparty to client trades.
 
-- United States of America (USA)
-- Canada
-- Japan
-- North Korea
-- Iran
-- Syria
-- Sudan
-
-Users are responsible for ensuring that access to and use of the App is lawful in their jurisdiction.
+Prices may be derived from third-party liquidity providers, and execution may be subject to market conditions, including slippage, re-quotes, and partial fills, as further described in the Company’s Order Execution Policy and Terms of Service.
 
 ---
 
-## 8. Australia-Specific Disclosure
+## 5. Jurisdictional Restrictions
 
-If you reside in **Australia**, services are **not provided** through this App.
+The availability of the Services may be restricted in certain jurisdictions due to legal or regulatory requirements.
 
-Australian residents should visit:
+The Company does not offer or solicit services in jurisdictions where such activities would be unlawful or require registration, licensing, or authorisation that the Company does not hold.
 
-👉 **https://www.kcmtradeplus.com.au**
-
-This website is operated by **Kohle Capital Markets Pty Limited**, which is authorised and regulated in Australia and holds **Australian Financial Services Licence (AFSL) No. 489437**.
+Users are responsible for ensuring that their access to and use of the Services complies with applicable laws in their jurisdiction.
 
 ---
 
-## 9. No Offer or Solicitation
+## 6. Risk Warning
 
-Nothing in the App or this disclosure constitutes:
-- An offer to sell
-- A solicitation to buy
-- A recommendation to trade
-- Investment, financial, or legal advice
+Trading in leveraged financial instruments involves a high level of risk and may not be suitable for all investors.
 
-Any trading activity is undertaken **solely at the user’s own initiative and risk**.
+Users may sustain losses in excess of their initial deposits. Past performance is not indicative of future results.
+
+Users should carefully consider their financial circumstances and risk tolerance before engaging in trading activities.
 
 ---
 
-## 10. Changes to This Disclosure
+## 7. Relationship with Digital Distribution Platforms
 
-This Regulatory & Licensing Disclosure may be updated from time to time to reflect:
-- Regulatory changes
-- Licensing updates
-- Legal or compliance requirements
+The Services may be made available through websites, mobile applications, and third-party digital distribution platforms, including mobile application stores.
 
-Updated versions will be published through the App or associated legal documentation.
+The availability of the Services on such platforms does not constitute endorsement, approval, or recommendation by the platform operator.
 
----
-
-## 11. Contact Information
-
-For regulatory or licensing enquiries:
-
-**Email:** cs@kcmtrade.com  
-**International Hotline:** +230 5297 0961  
-**Local Hotline:** +230 4672 000  
+Platform operators are not responsible for the Services, the content of the Services, or the Company’s regulatory status.
 
 ---
 
-## 12. Governing Law
+## 8. No Regulatory Advice or Guarantee
 
-This Regulatory & Licensing Disclosure is governed by the laws applicable to **Kohle Capital Markets Limited**, without prejudice to mandatory regulatory or consumer protection laws.
+Nothing in this Disclosure shall be construed as:
+
+- A representation that the Services are suitable for any particular user  
+- Investment, legal, or regulatory advice  
+- A guarantee of regulatory approval in any jurisdiction  
+
+Users should seek independent professional advice where appropriate.
 
 ---
 
-**END OF REGULATORY & LICENSING DISCLOSURE**
+## 9. Amendments
+
+The Company may amend this Disclosure from time to time to reflect changes in:
+
+- Regulatory status or authorisations  
+- Applicable laws or regulatory guidance  
+- Business operations or service offerings  
+
+Any amendments shall take effect upon publication, as indicated by the updated **Last Updated** date.
+
+---
+
+## 10. Contact Information
+
+For enquiries relating to regulatory or licensing matters, please contact:
+
+**Kohle Capital Markets Limited**  
+Email: support@kcmtrade.com  
+Website: https://www.kcmtrade.com  
+
+---
+
+This Disclosure forms part of the Company’s legal and compliance documentation and should be read in conjunction with the Company’s Terms of Service, Risk Disclosure, Privacy Policy, and other applicable policies.
