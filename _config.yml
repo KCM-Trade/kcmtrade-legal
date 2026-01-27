@@ -7,9 +7,16 @@ markdown: kramdown
 kramdown:
   input: GFM
 
-# Keep it simple and compatible with GitHub Pages
 plugins:
   - jekyll-sitemap
 
-# Optional: make URLs end with .html automatically
+# Force ALL pages/posts/markdown files to use the default layout unless overridden
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
+# Optional (choose one)
+# If you want /privacy-policy/ style URLs:
 permalink: pretty
