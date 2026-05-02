@@ -6,7 +6,13 @@ last_updated: 27 January 2026
 
 This site publishes the official legal, regulatory, and compliance documentation for services operated under the **KCM Trade** brand by **Kohle Capital Markets Limited**.
 
-## Documents
+## Regulatory Documents
+
+- [Regulatory Documents]({{ '/regulatory-documents.html' | relative_url }}) — Licences, legal opinions, and regulatory correspondence
+
+---
+
+## Legal & Compliance Policies
 
 - [Privacy Policy]({{ '/privacy-policy.html' | relative_url }})
 - [Terms of Service]({{ '/terms-of-service.html' | relative_url }})

@@ -41,14 +41,15 @@
           <span class="brand-subtitle">Legal & Compliance</span>
         </span>
       </a>
-      <nav class="site-nav" aria-label="Site navigation">
-        {% include nav.html %}
-      </nav>
     </div>
   </header>
 
   <main id="main" class="site-main">
     <div class="container">
+      {% assign current = page.url | remove: 'index.html' %}
+      {% unless current == '/' or current == '' %}
+        <a class="back-btn" href="{{ '/' | relative_url }}">&#8592; Back to Index</a>
+      {% endunless %}
       {% if page.title %}
         <div class="page-head">
           <h1 class="page-title">{{ page.title | escape }}</h1>
