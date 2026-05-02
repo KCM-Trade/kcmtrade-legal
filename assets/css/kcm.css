@@ -105,6 +105,12 @@ a:hover{text-decoration:underline}
   background:rgba(245,197,0,.08);
   text-decoration:none;
 }
+.nav-list a[aria-current="page"]{
+  border-color:rgba(245,197,0,.55);
+  background:rgba(245,197,0,.12);
+  color:var(--kcm-yellow);
+  font-weight:600;
+}
 
 .site-main{padding:28px 0 44px}
 .page-head{
@@ -198,6 +204,8 @@ a:hover{text-decoration:underline}
   flex-wrap:wrap;
 }
 .footer-title{font-weight:700}
+.footer-note{color:var(--muted);font-size:13px;margin-top:2px}
+.footer-right a{color:var(--muted);font-size:13px}
 .footer-note{color:var(--muted);font-size:13px}
 .site-footer a{color:var(--muted)}
 .site-footer a:hover{color:var(--kcm-yellow);text-decoration:none}

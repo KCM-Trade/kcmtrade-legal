@@ -8,13 +8,13 @@ This site publishes the official legal, regulatory, and compliance documentation
 
 ## Documents
 
-- [Privacy Policy](/kcmtrade-legal/privacy-policy.html)
-- [Terms of Service](/kcmtrade-legal/terms-of-service.html)
-- [Risk Disclosure Statement](/kcmtrade-legal/risk-disclosure.html)
-- [Regulatory and Licensing Disclosure](/kcmtrade-legal/regulatory-licensing-disclosure.html)
-- [AML and KYC Policy](/kcmtrade-legal/aml-kyc-policy.html)
-- [Complaints Policy](/kcmtrade-legal/complaints-policy.html)
-- [Data Safety and Processing Disclosure](/kcmtrade-legal/data-safety.html)
-- [Cookie Policy](/kcmtrade-legal/cookie-policy.html)
-- [Application Access Disclosure](/kcmtrade-legal/app-access-disclosure.html)
-- [Contact Information](/kcmtrade-legal/contact.html)
+- [Privacy Policy]({{ '/privacy-policy.html' | relative_url }})
+- [Terms of Service]({{ '/terms-of-service.html' | relative_url }})
+- [Risk Disclosure Statement]({{ '/risk-disclosure.html' | relative_url }})
+- [Regulatory and Licensing Disclosure]({{ '/regulatory-licensing-disclosure.html' | relative_url }})
+- [AML and KYC Policy]({{ '/aml-kyc-policy.html' | relative_url }})
+- [Complaints Policy]({{ '/complaints-policy.html' | relative_url }})
+- [Data Safety and Processing Disclosure]({{ '/data-safety.html' | relative_url }})
+- [Cookie Policy]({{ '/cookie-policy.html' | relative_url }})
+- [Application Access Disclosure]({{ '/app-access-disclosure.html' | relative_url }})
+- [Contact Information]({{ '/contact.html' | relative_url }})

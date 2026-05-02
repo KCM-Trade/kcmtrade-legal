@@ -3,7 +3,22 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <meta name="description" content="{{ site.description | escape }}">
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 | escape }}{% else %}{{ site.description | escape }}{% endif %}">
+  <meta name="theme-color" content="#1E2749">
+
+  <!-- Open Graph -->
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="{{ site.title | escape }}">
+  <meta property="og:title" content="{% if page.title %}{{ page.title | escape }} — {% endif %}{{ site.title | escape }}">
+  <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 | escape }}{% else %}{{ site.description | escape }}{% endif %}">
+  <meta property="og:url" content="{{ site.url }}{{ site.baseurl }}{{ page.url }}">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="{% if page.title %}{{ page.title | escape }} — {% endif %}{{ site.title | escape }}">
+  <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 | escape }}{% else %}{{ site.description | escape }}{% endif %}">
+
+  <link rel="canonical" href="{{ site.url }}{{ site.baseurl }}{{ page.url }}">
   <title>{% if page.title %}{{ page.title | escape }} — {% endif %}{{ site.title | escape }}</title>
 
   <link rel="stylesheet" href="{{ '/assets/css/kcm.css' | relative_url }}">
@@ -26,6 +41,9 @@
           <span class="brand-subtitle">Legal & Compliance</span>
         </span>
       </a>
+      <nav class="site-nav" aria-label="Site navigation">
+        {% include nav.html %}
+      </nav>
     </div>
   </header>
 
@@ -53,7 +71,7 @@
         <div class="footer-note">© {{ "now" | date: "%Y" }}. All rights reserved.</div>
       </div>
       <div class="footer-right">
-        <a href="https://www.kcmtrade.com" rel="noopener" target="_blank">kcmtrade.com</a>
+        <a href="https://www.kcmtrade.com" rel="noopener noreferrer" target="_blank">kcmtrade.com</a>
       </div>
     </div>
   </footer>

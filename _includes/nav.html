@@ -1,16 +1,17 @@
 <ul class="nav-list">
-  <li><a href="{{ '/' | relative_url }}">Home</a></li>
+  {% assign p = page.url | remove: 'index.html' %}
+  <li><a href="{{ '/' | relative_url }}"{% if p == '/' or p == '' %} aria-current="page"{% endif %}>Home</a></li>
 
-  <li><a href="{{ '/privacy-policy.html' | relative_url }}">Privacy Policy</a></li>
-  <li><a href="{{ '/terms-of-service.html' | relative_url }}">Terms of Service</a></li>
-  <li><a href="{{ '/risk-disclosure.html' | relative_url }}">Risk Disclosure</a></li>
-  <li><a href="{{ '/regulatory-licensing-disclosure.html' | relative_url }}">Regulatory & Licensing</a></li>
+  <li><a href="{{ '/privacy-policy.html' | relative_url }}"{% if p == '/privacy-policy.html' %} aria-current="page"{% endif %}>Privacy Policy</a></li>
+  <li><a href="{{ '/terms-of-service.html' | relative_url }}"{% if p == '/terms-of-service.html' %} aria-current="page"{% endif %}>Terms of Service</a></li>
+  <li><a href="{{ '/risk-disclosure.html' | relative_url }}"{% if p == '/risk-disclosure.html' %} aria-current="page"{% endif %}>Risk Disclosure</a></li>
+  <li><a href="{{ '/regulatory-licensing-disclosure.html' | relative_url }}"{% if p == '/regulatory-licensing-disclosure.html' %} aria-current="page"{% endif %}>Regulatory &amp; Licensing</a></li>
 
-  <li><a href="{{ '/aml-kyc-policy.html' | relative_url }}">AML & KYC Policy</a></li>
-  <li><a href="{{ '/complaints-policy.html' | relative_url }}">Complaints Policy</a></li>
+  <li><a href="{{ '/aml-kyc-policy.html' | relative_url }}"{% if p == '/aml-kyc-policy.html' %} aria-current="page"{% endif %}>AML &amp; KYC Policy</a></li>
+  <li><a href="{{ '/complaints-policy.html' | relative_url }}"{% if p == '/complaints-policy.html' %} aria-current="page"{% endif %}>Complaints Policy</a></li>
 
-  <li><a href="{{ '/data-safety.html' | relative_url }}">Data Safety</a></li>
-  <li><a href="{{ '/cookie-policy.html' | relative_url }}">Cookie Policy</a></li>
-  <li><a href="{{ '/app-access-disclosure.html' | relative_url }}">App Access Disclosure</a></li>
-  <li><a href="{{ '/contact.html' | relative_url }}">Contact</a></li>
+  <li><a href="{{ '/data-safety.html' | relative_url }}"{% if p == '/data-safety.html' %} aria-current="page"{% endif %}>Data Safety</a></li>
+  <li><a href="{{ '/cookie-policy.html' | relative_url }}"{% if p == '/cookie-policy.html' %} aria-current="page"{% endif %}>Cookie Policy</a></li>
+  <li><a href="{{ '/app-access-disclosure.html' | relative_url }}"{% if p == '/app-access-disclosure.html' %} aria-current="page"{% endif %}>App Access Disclosure</a></li>
+  <li><a href="{{ '/contact.html' | relative_url }}"{% if p == '/contact.html' %} aria-current="page"{% endif %}>Contact</a></li>
 </ul>
