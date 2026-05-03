@@ -13,7 +13,9 @@ This Disclosure is provided for transparency and to facilitate review by platfor
 
 This Disclosure applies to all mobile applications, web-based applications, and digital services operated, published, or distributed under the KCM Trade brand, whether accessed via:
 
-- Mobile application stores  
+- Apple App Store  
+- Google Play Store  
+- Huawei AppGallery  
 - Web platforms  
 - Application programming interfaces (APIs)  
 - Embedded or integrated services  
@@ -43,7 +45,7 @@ The Company reserves the right to restrict or deny access to any user where requ
 
 ## 4. Reviewer Access for Platform Assessment
 
-For the purposes of application review by platform operators (including Apple App Store, Google Play Store, and other authorised distribution platforms), access to the Services may be provided through one or more of the following methods:
+For the purposes of application review by platform operators (including Apple App Store, Google Play Store, Huawei AppGallery, and other authorised distribution platforms), access to the Services may be provided through one or more of the following methods:
 
 - Dedicated test or review accounts  
 - Guided access workflows  
@@ -67,11 +69,28 @@ The KCM Trade application is built on and integrates the following technology co
 | Signals and education | Acuity Trading |
 | Live support chat | Convrs.io |
 | Website hosting | Webflow (via Cloudflare DNS) |
+| Push notifications | OneSignal; Firebase Cloud Messaging (FCM) |
+| Mobile attribution and analytics | AppsFlyer |
+| Transactional email (OTP delivery) | SendGrid / Amazon SES (SMTP fallback) |
+| Social registration authentication | Google Sign-In; Apple Sign-In (iOS); Microsoft MSAL |
+| Address verification (KYC) | Google Maps Platform |
+
+### 4.4 Device Permissions
+
+The KCM Trade application requests the following device permissions at runtime. Each permission is requested only when required for the relevant functionality:
+
+| Permission | Purpose | Platform(s) |
+|---|---|---|
+| **Camera** | QR code scanning for partner referral links; document photo capture for KYC upload | iOS, Android, Huawei |
+| **Photo Library / Media Storage** | Image and document selection for KYC verification and file upload | iOS, Android, Huawei |
+| **Location (approximate)** | Country geo-check at app launch to determine applicable CRM server and enforce jurisdictional access restrictions | iOS, Android, Huawei |
+| **Biometrics (Face ID / Touch ID / Fingerprint)** | App lock authentication and quick login — biometric data is processed locally on-device and is not transmitted externally | iOS, Android, Huawei |
+| **Push Notifications** | Account alerts, transaction status updates, and platform communications | iOS, Android, Huawei, Web |
+| **App Tracking Transparency (ATT)** | iOS-only consent prompt required before AppsFlyer attribution tracking is activated | iOS only |
 
 ### 4.3 KYC-Gated Features
 
-Certain features, including live trading, deposits, and withdrawals, are restricted to users who have completed identity verification in accordance with the Company's AML and KYC obligations. This restriction exists to comply with the requirements of the Financial Services Commission of Mauritius and applicable financial crime prevention laws. Demo accounts provided for review purposes are pre-verified and are not subject to these restrictions.
-Where live account access is not appropriate due to regulatory, security, or compliance considerations, sufficient information will be provided to enable a meaningful review of the application’s functionality.
+Certain features, including live trading, deposits, and withdrawals, are restricted to users who have completed identity verification in accordance with the Company's AML and KYC obligations. This restriction exists to comply with the requirements of the Financial Services Commission of Mauritius and applicable financial crime prevention laws. Demo accounts provided for review purposes are pre-verified and are not subject to these restrictions.Where live account access is not appropriate due to regulatory, security, or compliance considerations, sufficient information will be provided to enable a meaningful review of the application’s functionality.
 
 ---
 

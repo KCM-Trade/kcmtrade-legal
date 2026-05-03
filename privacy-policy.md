@@ -41,6 +41,10 @@ Depending on the nature of the Services and user interaction, the Company may co
 - Device identifiers, operating system, and application version data  
 - IP address and network information  
 - Log files, usage metrics, and diagnostic data  
+- Mobile attribution identifiers and app install source data (via AppsFlyer SDK)  
+- Push notification tokens and device registration identifiers (via OneSignal and Firebase Cloud Messaging)  
+- In-app conversion event and campaign attribution data  
+- Device permission states, including camera, location, biometric authentication, and notification access  
 
 ### 2.5 Compliance and Risk Management Information
 - Source of funds or source of wealth information  
@@ -85,6 +89,9 @@ The Company may disclose personal data to:
 - Regulatory authorities, law enforcement agencies, or courts where required by law  
 
 All disclosures are subject to appropriate contractual, technical, and organisational safeguards.
+
+---
+
 ### 5.1 Named Third-Party Service Providers
 
 The Company currently engages the following principal third-party service providers in connection with the delivery of the Services:
@@ -100,8 +107,19 @@ The Company currently engages the following principal third-party service provid
 | **Convrs.io** | Live chat and in-app client support |
 | **Webflow** | Website hosting and content management |
 | **Cloudflare** | DNS, CDN, and network security infrastructure |
+| **AppsFlyer** | Mobile attribution, in-app conversion event analytics, install tracking, and deep link routing |
+| **OneSignal** | Push notification delivery across iOS, Android, Huawei AppGallery, and Web PWA |
+| **Firebase (Google)** | Firebase Cloud Messaging (FCM) for push notification delivery; app instance analytics |
+| **SendGrid (Twilio)** | Transactional email delivery — OTP verification codes for registration and email changes |
+| **Amazon Web Services (SES)** | Transactional email delivery — SMTP fallback for OTP delivery |
+| **Google Maps Platform** | Address geocoding and residential address verification during KYC form completion |
+| **Google Sign-In** | Social authentication option during new account registration |
+| **Apple Sign-In** | Social authentication option during new account registration (iOS only) |
+| **Microsoft (Azure AD / MSAL)** | Social authentication option during new account registration |
+| **Localizely** | Over-the-air delivery of translated app UI strings to end-user devices |
 
 Each provider is engaged under contractual terms that restrict processing to the purposes for which data is shared.
+
 ---
 
 ## 6. Cross-Border Data Transfers
@@ -148,6 +166,7 @@ This Policy is intended to align with platform-specific privacy disclosure requi
 
 - Google Play Store  
 - Apple App Store  
+- Huawei AppGallery  
 - Other mobile application distribution platforms  
 
 Declarations made to such platforms are intended to be consistent with this Policy.

@@ -1,7 +1,7 @@
 # Cookie Policy
 
 **Effective Date:** 27 January 2026  
-**Last Updated:** 27 January 2026
+**Last Updated:** 3 May 2026
 
 This Cookie Policy (the “Policy”) explains how **Kohle Capital Markets Limited** (the “Company”, “we”, “us”, or “our”) uses cookies and similar technologies in connection with digital services operated under the **KCM Trade** brand (the “Services”).
 
@@ -73,14 +73,16 @@ These cookies enhance usability but are not essential to basic service functiona
 
 The Company may permit trusted third-party service providers to place cookies or similar technologies on user devices in connection with the Services.
 
-Such providers may include:
+The following SDK-based technologies are currently active in the KCM Trade mobile application:
 
-- Analytics and performance monitoring providers  
-- Push notification and messaging services  
-- Authentication and security service providers  
-- Embedded content or integrated service providers  
+| Technology | Provider | Purpose |
+|---|---|---|
+| **AppsFlyer SDK** | AppsFlyer | Mobile attribution, install tracking, in-app conversion event analytics, and OneLink deep link routing. Collects device identifiers and install source data. Subject to App Tracking Transparency (ATT) consent on iOS. |
+| **OneSignal SDK** | OneSignal | Push notification delivery across iOS, Android, Huawei AppGallery, and Web PWA. Collects and stores device push notification tokens. |
+| **Firebase SDK (FCM)** | Google | Firebase Cloud Messaging for push notification delivery. Collects app instance IDs and FCM registration tokens. |
+| **Localizely SDK** | Localizely | Over-the-air delivery of translated UI strings. Stores language preference and OTA delivery state locally on device. |
 
-Third-party cookies are subject to the respective providers’ privacy and cookie policies.
+Third-party SDKs are subject to the respective providers' own privacy and cookie policies. The Company does not sell data collected through these technologies to third parties.
 
 ---
 

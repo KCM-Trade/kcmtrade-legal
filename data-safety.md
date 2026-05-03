@@ -33,6 +33,10 @@ Depending on the nature of the Services and user interaction, the Company may co
 - Device identifiers and operating system information  
 - IP address and network information  
 - Application usage, performance, and diagnostic data  
+- Mobile attribution identifiers and app install source data  
+- Push notification tokens and device registration identifiers  
+- In-app conversion event and campaign attribution data  
+- Device permission states, including camera, location, biometric authentication, and notification access  
 
 ### 2.4 Verification and Compliance Data
 - Identity verification documentation  
@@ -82,6 +86,16 @@ The Company engages the following categories of third-party service providers in
 | **Convrs.io** | Live support chat and in-app messaging | [convrs.io](https://convrs.io/) |
 | **Webflow** | Website hosting and content delivery | [webflow.com](https://webflow.com/) |
 | **Cloudflare** | DNS management, DDoS protection, and CDN services | [cloudflare.com](https://www.cloudflare.com/) |
+| **AppsFlyer** | Mobile attribution, in-app conversion event analytics, install tracking, and deep link routing | [appsflyer.com](https://www.appsflyer.com/) |
+| **OneSignal** | Push notification delivery across iOS, Android, Huawei AppGallery, and Web PWA | [onesignal.com](https://onesignal.com/) |
+| **Firebase (Google)** | Firebase Cloud Messaging (FCM) for push notification delivery; app instance analytics | [firebase.google.com](https://firebase.google.com/) |
+| **SendGrid (Twilio)** | Transactional email delivery — OTP verification codes for registration and email changes | [sendgrid.com](https://sendgrid.com/) |
+| **Amazon Web Services (SES)** | Transactional email delivery — SMTP fallback for OTP delivery | [aws.amazon.com](https://aws.amazon.com/) |
+| **Google Maps Platform** | Address geocoding and residential address verification during KYC form completion | [cloud.google.com/maps-platform](https://cloud.google.com/maps-platform/) |
+| **Google Sign-In** | Social authentication option during new account registration | [accounts.google.com](https://accounts.google.com/) |
+| **Apple Sign-In** | Social authentication option during new account registration (iOS only) | [appleid.apple.com](https://appleid.apple.com/) |
+| **Microsoft (Azure AD / MSAL)** | Social authentication option during new account registration | [microsoft.com](https://www.microsoft.com/) |
+| **Localizely** | Over-the-air delivery of translated app UI strings to end-user devices | [localizely.com](https://localizely.com/) |
 
 The list above reflects current principal sub-processors and may be updated from time to time. Users may request a current list by contacting the Company.
 
@@ -100,7 +114,7 @@ Such measures may include, without limitation:
 
 ---
 
-## 6. Data Retention
+## 7. Data Retention
 
 Data is retained only for as long as necessary to fulfil the purposes described in this Disclosure or to comply with applicable legal, regulatory, or contractual obligations.
 
@@ -108,7 +122,7 @@ Retention periods may vary depending on the type of data and applicable requirem
 
 ---
 
-## 7. User Rights and Controls
+## 8. User Rights and Controls
 
 Subject to applicable laws, users may have rights in relation to their personal data, including the right to request access, correction, or deletion.
 
@@ -116,24 +130,25 @@ Requests may be subject to legal, regulatory, or compliance limitations and veri
 
 ---
 
-## 8. Cross-Border Data Transfers
+## 9. Cross-Border Data Transfers
 
 Data may be processed or stored in jurisdictions other than the user’s country of residence, subject to appropriate safeguards and in compliance with applicable data protection laws.
 
 ---
 
-## 9. Platform-Specific Disclosures
+## 10. Platform-Specific Disclosures
 
 This Disclosure is intended to align with platform-specific data disclosure frameworks, including but not limited to:
 
 - Google Play Data Safety requirements  
 - Apple App Privacy disclosures  
+- Huawei AppGallery app compliance requirements  
 
 The information provided herein is intended to be consistent with declarations made to such platforms.
 
 ---
 
-## 10. Amendments
+## 11. Amendments
 
 The Company may amend this Disclosure from time to time to reflect changes in:
 
@@ -145,7 +160,7 @@ Any amendments shall take effect upon publication, as indicated by the updated *
 
 ---
 
-## 11. Contact Information
+## 12. Contact Information
 
 For enquiries relating to data safety or data processing practices, please contact:
 
