@@ -26,4 +26,5 @@ This site publishes the official legal, regulatory, and compliance documentation
 - [Data Safety and Processing Disclosure]({{ '/data-safety.html' | relative_url }})
 - [Cookie Policy]({{ '/cookie-policy.html' | relative_url }})
 - [Application Access Disclosure]({{ '/app-access-disclosure.html' | relative_url }})
+- [Jurisdictional Availability]({{ '/jurisdictional-availability.html' | relative_url }}) *(licensed regions, restricted jurisdictions, app store configuration)*
 - [Contact Information]({{ '/contact.html' | relative_url }})
