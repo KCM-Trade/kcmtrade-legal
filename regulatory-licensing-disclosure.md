@@ -99,27 +99,13 @@ Jurisdiction-specific legal opinions confirming the Company's regulatory positio
 
 ## 6. Related Entity — Australian Services
 
-Residents and eligible retail and wholesale investors in **Australia** are served by a related entity operating under the **KCM Trade Plus** brand:
+Residents and eligible investors in **Australia** are served by a separate related entity operating under the **KCM Trade Plus** brand:
 
-| Detail | Information |
-|---|---|
-| **Legal Entity** | Kohle Capital Markets Pty Ltd |
-| **Trading Name** | KCM Trade Plus |
-| **ABN** | 26 612 429 553 |
-| **ACN** | 612 429 553 |
-| **AFSL No.** | 489437 |
-| **Licence Effective** | 18 September 2023 |
-| **Regulator** | Australian Securities and Investments Commission (ASIC) |
-| **Registered Address** | Level 2, 673 Bourke Street, Melbourne VIC 3000, Australia |
-| **Website** | [kcmtradeplus.com.au](https://www.kcmtradeplus.com.au/) |
-| **Email** | [cs@kcmtrade.com.au](mailto:cs@kcmtrade.com.au) |
-| **Phone** | +61 02 8211 0406 |
+**Kohle Capital Markets Pty Ltd** (ABN: 26 612 429 553) — AFSL No. 489437, regulated by ASIC, registered at Level 2, 673 Bourke Street, Melbourne VIC 3000.
 
-The Australian entity is authorised under its AFSL to provide general financial product advice to retail and wholesale clients in relation to deposit products, derivatives, and foreign exchange contracts, and to deal in derivatives and foreign exchange contracts on behalf of clients.
+This entity is **legally separate** from Kohle Capital Markets Limited and operates under its own licence, client agreements, and disclosure documents. This Disclosure applies solely to Kohle Capital Markets Limited (Mauritius).
 
-Kohle Capital Markets Pty Ltd operates separately from Kohle Capital Markets Limited (Mauritius) and is subject to its own terms, disclosures, product disclosure statements, target market determinations, and applicable Australian law and ASIC requirements. Dispute resolution for Australian clients is handled through the **Australian Financial Complaints Authority (AFCA)**.
-
-This Disclosure applies solely to Kohle Capital Markets Limited (Mauritius) and the KCM Trade brand. For Australian services, please refer to [kcmtradeplus.com.au](https://www.kcmtradeplus.com.au/) and the [AFSL document]({{ '/docs/kohle-capital-markets-pty-ltd-afsl-489437-2023.pdf' | relative_url }}){:target="_blank" rel="noopener noreferrer"} on the [Regulatory Documents]({{ '/regulatory-documents.html' | relative_url }}) page.
+For full details, refer to the dedicated [Australian Entity — KCM Trade Plus]({{ '/australia-disclosure.html' | relative_url }}) page and the [AFSL document]({{ '/docs/kohle-capital-markets-pty-ltd-afsl-489437-2023.pdf' | relative_url }}){:target="_blank" rel="noopener noreferrer"} on the [Regulatory Documents]({{ '/regulatory-documents.html' | relative_url }}) page.
 
 ---
 

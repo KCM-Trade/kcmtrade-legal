@@ -1,10 +1,12 @@
 ---
 layout: default
 title: Legal & Compliance
-last_updated: 3 May 2026
+last_updated: 4 May 2026
 ---
 
-This site publishes the official legal, regulatory, and compliance documentation for services operated under the **KCM Trade** brand by **Kohle Capital Markets Limited**.
+This site publishes the official legal, regulatory, and compliance documentation for services operated under the **KCM Trade** brand by **Kohle Capital Markets Limited** (Mauritius).
+
+> For services in Australia, please see the [Australian Entity — KCM Trade Plus]({{ '/australia-disclosure.html' | relative_url }}) page, which relates to the separate entity **Kohle Capital Markets Pty Ltd** (AFSL 489437).
 
 ## Regulatory Documents
 
@@ -18,6 +20,7 @@ This site publishes the official legal, regulatory, and compliance documentation
 - [Terms of Service]({{ '/terms-of-service.html' | relative_url }})
 - [Risk Disclosure Statement]({{ '/risk-disclosure.html' | relative_url }})
 - [Regulatory and Licensing Disclosure]({{ '/regulatory-licensing-disclosure.html' | relative_url }})
+- [Australian Entity — KCM Trade Plus]({{ '/australia-disclosure.html' | relative_url }}) *(Kohle Capital Markets Pty Ltd, AFSL 489437)*
 - [AML and KYC Policy]({{ '/aml-kyc-policy.html' | relative_url }})
 - [Complaints Policy]({{ '/complaints-policy.html' | relative_url }})
 - [Data Safety and Processing Disclosure]({{ '/data-safety.html' | relative_url }})
