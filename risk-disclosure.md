@@ -1,5 +1,9 @@
-**Effective Date:** 27 January 2026  
-**Last Updated:** 27 January 2026
+---
+layout: default
+title: Risk Disclosure Statement
+effective_date: 27 January 2026
+last_updated: 27 January 2026
+---
 
 This Risk Disclosure Statement (the “Disclosure”) is issued by **Kohle Capital Markets Limited** (the “Company”, “we”, “us”, or “our”) in relation to digital services, platforms, and applications operated under the **KCM Trade** brand (the “Services”).
 

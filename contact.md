@@ -1,5 +1,9 @@
-**Effective Date:** 27 January 2026  
-**Last Updated:** 27 January 2026
+---
+layout: default
+title: Contact Information
+effective_date: 27 January 2026
+last_updated: 27 January 2026
+---
 
 This Contact Information page sets out the official communication channels for digital services, platforms, and applications operated under the **KCM Trade** brand by **Kohle Capital Markets Limited** (the “Company”).
 

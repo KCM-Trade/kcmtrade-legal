@@ -126,7 +126,3 @@ Silicon Avenue, 40 Cybercity, Ebène 72201
 Republic of Mauritius  
 
 Refer to the [Contact]({{ '/contact.html' | relative_url }}) page for current contact details.
-
----
-
-*Last Updated: 4 May 2026*

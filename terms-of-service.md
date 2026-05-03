@@ -1,5 +1,9 @@
-**Effective Date:** 27 January 2026  
-**Last Updated:** 3 May 2026
+---
+layout: default
+title: Terms of Service
+effective_date: 27 January 2026
+last_updated: 3 May 2026
+---
 
 These Terms of Service (the “Terms”) govern access to and use of digital services, platforms, applications, and related products operated under the **KCM Trade** brand (the “Services”) by **Kohle Capital Markets Limited** (the “Company”, “we”, “us”, or “our”).
 

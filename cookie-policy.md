@@ -1,5 +1,9 @@
-**Effective Date:** 27 January 2026  
-**Last Updated:** 4 May 2026
+---
+layout: default
+title: Cookie Policy
+effective_date: 27 January 2026
+last_updated: 4 May 2026
+---
 
 This Cookie Policy (the “Policy”) explains how **Kohle Capital Markets Limited** (the “Company”, “we”, “us”, or “our”) uses cookies and similar technologies in connection with digital services operated under the **KCM Trade** brand (the “Services”).
 

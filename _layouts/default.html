@@ -53,8 +53,8 @@
       {% if page.title %}
         <div class="page-head">
           <h1 class="page-title">{{ page.title | escape }}</h1>
-          {% if page.last_updated %}
-            <p class="page-meta">Last Updated: {{ page.last_updated | escape }}</p>
+          {% if page.effective_date or page.last_updated %}
+            <p class="page-meta">{% if page.effective_date %}Effective: {{ page.effective_date | escape }}{% if page.last_updated %} &middot; {% endif %}{% endif %}{% if page.last_updated %}Last Updated: {{ page.last_updated | escape }}{% endif %}</p>
           {% endif %}
         </div>
       {% endif %}

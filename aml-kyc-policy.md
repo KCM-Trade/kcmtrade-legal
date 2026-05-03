@@ -1,5 +1,9 @@
-**Effective Date:** 27 January 2026  
-**Last Updated:** 3 May 2026
+---
+layout: default
+title: AML and KYC Policy
+effective_date: 27 January 2026
+last_updated: 3 May 2026
+---
 
 This Anti-Money Laundering and Know-Your-Customer Policy (the “Policy”) sets out the principles, standards, and procedures adopted by **Kohle Capital Markets Limited** (the “Company”, “we”, “us”, or “our”) in connection with the provision of services under the **KCM Trade** platform (the “Services”).
 

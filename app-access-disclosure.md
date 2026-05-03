@@ -1,5 +1,9 @@
-**Effective Date:** 27 January 2026  
-**Last Updated:** 3 May 2026
+---
+layout: default
+title: Application Access Disclosure
+effective_date: 27 January 2026
+last_updated: 3 May 2026
+---
 
 This Application Access Disclosure (the “Disclosure”) sets out information regarding access to applications and digital services operated under the **KCM Trade** brand by **Kohle Capital Markets Limited** (the “Company”, “we”, “us”, or “our”).
 

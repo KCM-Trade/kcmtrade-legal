@@ -137,7 +137,3 @@ Trading in derivatives and foreign exchange contracts involves a **high level of
 You may incur losses substantially greater than your initial investment. You should only trade with money you can afford to lose. Past performance is not indicative of future results.
 
 Before engaging with any financial product, you should read the relevant Product Disclosure Statement (PDS) and Target Market Determination (TMD) provided by the product issuer, and seek independent professional advice where appropriate.
-
----
-
-*Last Updated: 4 May 2026*
