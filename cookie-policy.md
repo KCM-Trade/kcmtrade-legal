@@ -1,5 +1,3 @@
-# Cookie Policy
-
 **Effective Date:** 27 January 2026  
 **Last Updated:** 4 May 2026
 

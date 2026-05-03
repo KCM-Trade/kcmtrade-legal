@@ -1,5 +1,3 @@
-# Application Access Disclosure
-
 **Effective Date:** 27 January 2026  
 **Last Updated:** 3 May 2026
 
