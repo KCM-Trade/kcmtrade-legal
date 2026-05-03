@@ -1,7 +1,7 @@
 # Privacy Policy
 
 **Effective Date:** 27 January 2026  
-**Last Updated:** 27 January 2026
+**Last Updated:** 3 May 2026
 
 This Privacy Policy (the “Policy”) describes how **Kohle Capital Markets Limited** (the “Company”, “we”, “us”, or “our”) collects, uses, stores, discloses, and protects personal data in connection with digital services operated under the **KCM Trade** brand (the “Services”).
 
@@ -85,7 +85,23 @@ The Company may disclose personal data to:
 - Regulatory authorities, law enforcement agencies, or courts where required by law  
 
 All disclosures are subject to appropriate contractual, technical, and organisational safeguards.
+### 5.1 Named Third-Party Service Providers
 
+The Company currently engages the following principal third-party service providers in connection with the delivery of the Services:
+
+| Provider | Function |
+|---|---|
+| **FX Back Office (FXBO)** | CRM, account administration, and back-office operations |
+| **ShuftiPro** | Identity verification, KYC document processing, biometric verification, and AML screening |
+| **Pelican Trading** | Copy trading infrastructure and trade replication |
+| **Acuity Trading** | Market signals, analysis tools, and financial education content |
+| **MetaQuotes (MT4 / MT5)** | Trading platform and order execution environment |
+| **Leverate** | Trading platform technology and liquidity infrastructure |
+| **Convrs.io** | Live chat and in-app client support |
+| **Webflow** | Website hosting and content management |
+| **Cloudflare** | DNS, CDN, and network security infrastructure |
+
+Each provider is engaged under contractual terms that restrict processing to the purposes for which data is shared.
 ---
 
 ## 6. Cross-Border Data Transfers

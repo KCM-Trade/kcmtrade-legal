@@ -1,7 +1,7 @@
 # Anti-Money Laundering (AML) and Know-Your-Customer (KYC) Policy
 
 **Effective Date:** 27 January 2026  
-**Last Updated:** 27 January 2026
+**Last Updated:** 3 May 2026
 
 This Anti-Money Laundering and Know-Your-Customer Policy (the “Policy”) sets out the principles, standards, and procedures adopted by **Kohle Capital Markets Limited** (the “Company”, “we”, “us”, or “our”) in connection with the provision of services under the **KCM Trade** platform (the “Services”).
 
@@ -73,6 +73,8 @@ Identity verification may be conducted using one or more of the following method
 - Manual document review  
 - Automated verification technologies  
 - Third-party identity verification and compliance service providers  
+
+The Company currently utilises **ShuftiPro** ([shuftipro.com](https://shuftipro.com/)) as its primary identity verification and KYC service provider. ShuftiPro performs document verification, biometric identity checks, liveness detection, and sanctions/PEP screening on behalf of the Company. Data processed through ShuftiPro is handled in accordance with ShuftiPro's data processing agreements and the Company's **Privacy Policy**.
 
 Verification methods may evolve in line with technological developments and regulatory expectations.
 

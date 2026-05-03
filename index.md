@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Legal & Compliance
-last_updated: 27 January 2026
+last_updated: 3 May 2026
 ---
 
 This site publishes the official legal, regulatory, and compliance documentation for services operated under the **KCM Trade** brand by **Kohle Capital Markets Limited**.

@@ -1,7 +1,7 @@
 # Data Safety and Processing Disclosure
 
 **Effective Date:** 27 January 2026  
-**Last Updated:** 27 January 2026
+**Last Updated:** 3 May 2026
 
 This Data Safety and Processing Disclosure (the “Disclosure”) describes how **Kohle Capital Markets Limited** (the “Company”, “we”, “us”, or “our”) collects, uses, stores, and protects data in connection with digital services operated under the **KCM Trade** brand (the “Services”).
 
@@ -67,7 +67,27 @@ Data is shared only to the extent necessary and subject to contractual and legal
 
 ---
 
-## 5. Data Security Measures
+## 5. Third-Party Sub-Processors
+
+The Company engages the following categories of third-party service providers in connection with the operation of the Services. Each provider processes data only as necessary to deliver the relevant service, under contractual obligations consistent with applicable data protection requirements.
+
+| Provider | Role | Website |
+|---|---|---|
+| **FX Back Office (FXBO)** | Client relationship management (CRM), account administration, and back-office operations | [fxbackoffice.com](https://fxbackoffice.com/) |
+| **ShuftiPro** | Identity verification, KYC document review, biometric checks, and AML screening | [shuftipro.com](https://shuftipro.com/) |
+| **Pelican Trading** | Copy trading infrastructure and trade replication services | [pelicantrading.io](https://pelicantrading.io/) |
+| **Acuity Trading** | Market signals, analysis tools, and financial education content delivery | [acuitytrading.com](https://acuitytrading.com/) |
+| **MetaQuotes (MT4 / MT5)** | Trading platform infrastructure and order execution environment | [metaquotes.net](https://www.metaquotes.net/) |
+| **Leverate** | Trading platform technology and liquidity infrastructure | [leverate.com](https://leverate.com/) |
+| **Convrs.io** | Live support chat and in-app messaging | [convrs.io](https://convrs.io/) |
+| **Webflow** | Website hosting and content delivery | [webflow.com](https://webflow.com/) |
+| **Cloudflare** | DNS management, DDoS protection, and CDN services | [cloudflare.com](https://www.cloudflare.com/) |
+
+The list above reflects current principal sub-processors and may be updated from time to time. Users may request a current list by contacting the Company.
+
+---
+
+## 6. Data Security Measures
 
 The Company implements reasonable technical and organisational measures designed to protect data against unauthorised access, alteration, disclosure, or destruction.
 

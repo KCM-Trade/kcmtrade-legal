@@ -1,7 +1,7 @@
 # Application Access Disclosure
 
 **Effective Date:** 27 January 2026  
-**Last Updated:** 27 January 2026
+**Last Updated:** 3 May 2026
 
 This Application Access Disclosure (the “Disclosure”) sets out information regarding access to applications and digital services operated under the **KCM Trade** brand by **Kohle Capital Markets Limited** (the “Company”, “we”, “us”, or “our”).
 
@@ -48,7 +48,29 @@ For the purposes of application review by platform operators (including Apple Ap
 - Dedicated test or review accounts  
 - Guided access workflows  
 - Explanatory documentation outlining access procedures  
+### 4.1 Demo Account Availability
 
+The Company provides pre-verified demo (paper trading) accounts for use by platform reviewers. Demo accounts allow access to the application's core features — including account dashboard, trading interface, copy trading, signals, and education content — without the use of real funds or exposure to live markets.
+
+Demo account credentials for reviewer use are available upon request and will be supplied directly to the relevant platform review team through the official review submission process.
+
+### 4.2 Technology Infrastructure
+
+The KCM Trade application is built on and integrates the following technology components:
+
+| Component | Provider |
+|---|---|
+| Trading platform | MetaQuotes MT4 / MT5 and Leverate |
+| CRM and back-office | FX Back Office (FXBO) |
+| Identity verification (KYC) | ShuftiPro |
+| Copy trading | Pelican Trading |
+| Signals and education | Acuity Trading |
+| Live support chat | Convrs.io |
+| Website hosting | Webflow (via Cloudflare DNS) |
+
+### 4.3 KYC-Gated Features
+
+Certain features, including live trading, deposits, and withdrawals, are restricted to users who have completed identity verification in accordance with the Company's AML and KYC obligations. This restriction exists to comply with the requirements of the Financial Services Commission of Mauritius and applicable financial crime prevention laws. Demo accounts provided for review purposes are pre-verified and are not subject to these restrictions.
 Where live account access is not appropriate due to regulatory, security, or compliance considerations, sufficient information will be provided to enable a meaningful review of the application’s functionality.
 
 ---

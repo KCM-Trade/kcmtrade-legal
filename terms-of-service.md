@@ -1,7 +1,7 @@
 # Terms of Service
 
 **Effective Date:** 27 January 2026  
-**Last Updated:** 27 January 2026
+**Last Updated:** 3 May 2026
 
 These Terms of Service (the “Terms”) govern access to and use of digital services, platforms, applications, and related products operated under the **KCM Trade** brand (the “Services”) by **Kohle Capital Markets Limited** (the “Company”, “we”, “us”, or “our”).
 
@@ -16,6 +16,12 @@ The Services provide execution-only access to financial instruments, which may i
 - Contracts for Difference (CFDs)  
 - Foreign exchange (forex) instruments  
 - Derivative instruments, including options, futures, swaps, and related products  
+
+In addition to execution services, the Services may include:
+
+- **Copy Trading** — the ability to replicate the positions of other traders, provided through Pelican Trading infrastructure. Copy trading is subject to additional terms and risk disclosures. Past performance of any copied strategy does not guarantee future results.
+- **Signals and Market Analysis** — market signals, analysis tools, and commentary provided through Acuity Trading. Signals are for informational purposes only and do not constitute investment advice.
+- **Education Content** — financial markets education materials provided for informational purposes only. Nothing in the education content constitutes a personal recommendation or investment advice.
 
 The Services may be made available through websites, mobile applications, application programming interfaces (APIs), and other digital delivery methods.
 
@@ -84,9 +90,9 @@ Users understand that losses may exceed initial deposits and that trading is not
 
 ## 8. Technology and Platform Availability
 
-The Services rely on electronic systems and third-party infrastructure.
+The Services rely on electronic systems and third-party infrastructure, including but not limited to MetaQuotes MT4/MT5 and Leverate for trading platform functionality, FX Back Office (FXBO) for account management, ShuftiPro for identity verification, Pelican Trading for copy trading, Acuity Trading for signals and education, and Convrs.io for live support.
 
-The Company does not guarantee uninterrupted, error-free, or secure access to the Services and is not responsible for losses arising from system failures, connectivity issues, or technical disruptions, except as required by law.
+The Company does not guarantee uninterrupted, error-free, or secure access to the Services and is not responsible for losses arising from system failures, connectivity issues, third-party service outages, or technical disruptions, except as required by law.
 
 ---
 
