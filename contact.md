@@ -69,7 +69,3 @@ Users are encouraged to review the Company’s legal and regulatory documentatio
 The Company may update this Contact Information page from time to time to reflect operational, regulatory, or organisational changes.
 
 Any updates shall take effect upon publication, as indicated by the updated **Last Updated** date.
-
----
-
-© 2026 Kohle Capital Markets Limited. All rights reserved.
