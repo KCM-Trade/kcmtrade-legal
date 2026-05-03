@@ -1,7 +1,7 @@
 # Regulatory and Licensing Disclosure
 
 **Effective Date:** 27 January 2026  
-**Last Updated:** 27 January 2026
+**Last Updated:** 3 May 2026
 
 This Regulatory and Licensing Disclosure (the “Disclosure”) is issued by **Kohle Capital Markets Limited** (the “Company”, “we”, “us”, or “our”) in relation to digital services, platforms, and applications operated under the **KCM Trade** brand (the “Services”).
 
@@ -17,7 +17,15 @@ Kohle Capital Markets Limited
 **Jurisdiction of Incorporation:**  
 Republic of Mauritius
 
-**Registration Number:**  
+**Date of Incorporation:**  
+20 February 2018
+
+**Registered Office:**  
+C/o Credentia International Management Ltd  
+The Cyberati Lounge, Ground Floor, The Catalyst, Silicon Avenue  
+40 Cybercity, 72201 Ebène, Republic of Mauritius
+
+**Company Registration Number (Registrar of Companies, Mauritius):**  
 C153797 C1/GBL
 
 ---
@@ -26,12 +34,14 @@ C153797 C1/GBL
 
 Kohle Capital Markets Limited is licensed and regulated in accordance with the laws of the Republic of Mauritius.
 
-The Company holds the following authorisations:
+The Company holds the following authorisations issued by the **Financial Services Commission of Mauritius (FSC Mauritius)**:
 
-- **Global Business Licence** issued under the Financial Services Act 2007  
-- **Investment Dealer (Full Service Dealer, excluding Underwriting) Licence** issued under the Securities Act 2005  
+| Authorisation | Licence No. | Code | Legal Basis | Effective Date |
+|---|---|---|---|---|
+| **Global Business Licence** | C117022600 | FS-4.1 | Section 72(6) of the Financial Services Act 2007 | 1 March 2018 |
+| **Investment Dealer (Full Service Dealer, Excluding Underwriting) Licence** | C117022600 | SEC-2.1B | Section 29 of the Securities Act 2005; Rule 4 of the Securities (Licensing) Rules 2007; Financial Services (Consolidated Licensing and Fees) Rules 2008 | 1 March 2018 |
 
-The Company is regulated by the **Financial Services Commission of Mauritius (FSC Mauritius)**.
+Copies of the licences are available on the [Regulatory Documents]({{ '/regulatory-documents.html' | relative_url }}) page.
 
 ---
 
@@ -42,6 +52,12 @@ Under its regulatory authorisations, the Company is permitted to provide executi
 - Contracts for Difference (CFDs)  
 - Foreign exchange (forex) instruments  
 - Derivative instruments, including options, futures, swaps, and related products  
+
+In addition to execution services, the Services include:
+
+- **Copy Trading** — the ability to replicate the positions of other traders via third-party infrastructure. Copy trading is provided on an execution-only basis and does not constitute investment advice or portfolio management.
+- **Market Signals and Analysis** — market signals and analysis tools provided for informational purposes only and not constituting personal recommendations or investment advice.
+- **Financial Education Content** — educational materials provided for informational purposes only.
 
 Services are provided on an execution-only basis. The Company does not provide investment advice, portfolio management, or discretionary trading services unless expressly stated otherwise in applicable contractual documentation.
 
@@ -55,13 +71,22 @@ Prices may be derived from third-party liquidity providers, and execution may be
 
 ---
 
-## 5. Jurisdictional Restrictions
+## 5. Jurisdictional Scope and Restrictions
 
-The availability of the Services may be restricted in certain jurisdictions due to legal or regulatory requirements.
+The Company's Business Plan, as approved by the FSC and as amended by Written Resolutions of Directors dated 2 May 2024, designates a global client base across a broad range of jurisdictions, including but not limited to jurisdictions in Asia, Europe, Africa, the Americas, and Oceania.
 
-The Company does not offer or solicit services in jurisdictions where such activities would be unlawful or require registration, licensing, or authorisation that the Company does not hold.
+The Company may onboard clients from any jurisdiction, subject to:
+
+- Compliance with applicable licensing conditions imposed by the FSC  
+- Completion of client due diligence and, where required, enhanced due diligence measures  
+- Compliance with applicable local laws, licensing requirements, and regulatory restrictions  
+- Applicable sanctions screening obligations  
+
+Notwithstanding the above, the availability of the Services may be restricted in certain jurisdictions due to legal or regulatory requirements. The Company does not offer or solicit services in jurisdictions where such activities would be unlawful or require registration, licensing, or authorisation that the Company does not hold.
 
 Users are responsible for ensuring that their access to and use of the Services complies with applicable laws in their jurisdiction.
+
+Jurisdiction-specific legal opinions confirming the Company's regulatory position in certain markets are available on the [Regulatory Documents]({{ '/regulatory-documents.html' | relative_url }}) page.
 
 ---
 
