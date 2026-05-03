@@ -1,7 +1,7 @@
 # Data Safety and Processing Disclosure
 
 **Effective Date:** 27 January 2026  
-**Last Updated:** 3 May 2026
+**Last Updated:** 4 May 2026
 
 This Data Safety and Processing Disclosure (the “Disclosure”) describes how **Kohle Capital Markets Limited** (the “Company”, “we”, “us”, or “our”) collects, uses, stores, and protects data in connection with digital services operated under the **KCM Trade** brand (the “Services”).
 
@@ -37,6 +37,9 @@ Depending on the nature of the Services and user interaction, the Company may co
 - Push notification tokens and device registration identifiers  
 - In-app conversion event and campaign attribution data  
 - Device permission states, including camera, location, biometric authentication, and notification access  
+- Website and web application analytics data, including page views, session events, and interaction data, collected via Google Analytics 4 and Google Tag Manager  
+- Advertising conversion and remarketing data collected via the Meta (Facebook) Pixel on the Company's website and client portal  
+- Anonymised website performance metrics collected via Cloudflare Web Analytics  
 
 ### 2.4 Verification and Compliance Data
 - Identity verification documentation  
@@ -55,6 +58,8 @@ Data is collected and processed for the following purposes:
 - Security monitoring and risk management  
 - Legal and regulatory compliance  
 - Service improvement and technical optimisation  
+- Website and application analytics to understand usage patterns and improve user experience  
+- Marketing analytics and advertising effectiveness measurement, including conversion tracking via third-party analytics and advertising platforms  
 
 ---
 
@@ -85,7 +90,7 @@ The Company engages the following categories of third-party service providers in
 | **Leverate** | Trading platform technology and liquidity infrastructure | [leverate.com](https://leverate.com/) |
 | **Convrs.io** | Live support chat and in-app messaging | [convrs.io](https://convrs.io/) |
 | **Webflow** | Website hosting and content delivery | [webflow.com](https://webflow.com/) |
-| **Cloudflare** | DNS management, DDoS protection, and CDN services | [cloudflare.com](https://www.cloudflare.com/) |
+| **Cloudflare** | DNS management, DDoS protection, CDN services, and anonymised web analytics (Cloudflare Web Analytics beacon) | [cloudflare.com](https://www.cloudflare.com/) |
 | **AppsFlyer** | Mobile attribution, in-app conversion event analytics, install tracking, and deep link routing | [appsflyer.com](https://www.appsflyer.com/) |
 | **OneSignal** | Push notification delivery across iOS, Android, Huawei AppGallery, and Web PWA | [onesignal.com](https://onesignal.com/) |
 | **Firebase (Google)** | Firebase Cloud Messaging (FCM) for push notification delivery; app instance analytics | [firebase.google.com](https://firebase.google.com/) |
@@ -96,6 +101,8 @@ The Company engages the following categories of third-party service providers in
 | **Apple Sign-In** | Social authentication option during new account registration (iOS only) | [appleid.apple.com](https://appleid.apple.com/) |
 | **Microsoft (Azure AD / MSAL)** | Social authentication option during new account registration | [microsoft.com](https://www.microsoft.com/) |
 | **Localizely** | Over-the-air delivery of translated app UI strings to end-user devices | [localizely.com](https://localizely.com/) |
+| **Google Analytics 4 / Google Tag Manager** | Website and client portal analytics — session data, page views, and interaction events. Google Tag Manager serves as a container for deploying and managing analytics and marketing tags. | [analytics.google.com](https://analytics.google.com/) |
+| **Meta (Facebook) Pixel** | Advertising conversion tracking and marketing analytics on the Company's website and client portal, operated by Meta Platforms, Inc. | [facebook.com/business/ads](https://www.facebook.com/business/ads/) |
 
 The list above reflects current principal sub-processors and may be updated from time to time. Users may request a current list by contacting the Company.
 

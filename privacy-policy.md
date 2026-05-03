@@ -1,7 +1,7 @@
 # Privacy Policy
 
 **Effective Date:** 27 January 2026  
-**Last Updated:** 3 May 2026
+**Last Updated:** 4 May 2026
 
 This Privacy Policy (the “Policy”) describes how **Kohle Capital Markets Limited** (the “Company”, “we”, “us”, or “our”) collects, uses, stores, discloses, and protects personal data in connection with digital services operated under the **KCM Trade** brand (the “Services”).
 
@@ -45,6 +45,9 @@ Depending on the nature of the Services and user interaction, the Company may co
 - Push notification tokens and device registration identifiers (via OneSignal and Firebase Cloud Messaging)  
 - In-app conversion event and campaign attribution data  
 - Device permission states, including camera, location, biometric authentication, and notification access  
+- Website and web application analytics data, including page views, session duration, and interaction events, collected via Google Analytics 4 and Google Tag Manager  
+- Advertising effectiveness and conversion data collected via the Meta (Facebook) Pixel on the Company's web and client portal properties  
+- Cloudflare Web Analytics data, including anonymised page view metrics and performance indicators  
 
 ### 2.5 Compliance and Risk Management Information
 - Source of funds or source of wealth information  
@@ -64,6 +67,8 @@ Personal data is processed for one or more of the following purposes:
 - Security monitoring and system integrity  
 - Compliance with legal, regulatory, and contractual obligations  
 - Improvement and optimisation of the Services  
+- Website and application analytics to understand usage patterns and improve user experience  
+- Marketing analytics and advertising effectiveness measurement, including conversion tracking via third-party analytics and advertising platforms  
 
 ---
 
@@ -117,6 +122,9 @@ The Company currently engages the following principal third-party service provid
 | **Apple Sign-In** | Social authentication option during new account registration (iOS only) |
 | **Microsoft (Azure AD / MSAL)** | Social authentication option during new account registration |
 | **Localizely** | Over-the-air delivery of translated app UI strings to end-user devices |
+| **Google Analytics 4 / Google Tag Manager** | Website and client portal analytics — session data, page views, interaction events, and conversion tracking. Google Tag Manager also serves as a container for deploying and managing additional analytics and marketing tags. |
+| **Meta (Facebook) Pixel** | Advertising conversion tracking and marketing analytics on the Company's website and client portal. The Meta Pixel may collect browsing and interaction data from both unauthenticated and authenticated sessions and transmit it to Meta Platforms, Inc. pursuant to Meta's data processing terms. |
+| **Cloudflare Web Analytics** | Anonymised website performance and page view analytics, collected via the Cloudflare Beacon script. Operates separately from Cloudflare's DNS and CDN functions. |
 
 Each provider is engaged under contractual terms that restrict processing to the purposes for which data is shared.
 

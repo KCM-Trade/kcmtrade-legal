@@ -1,7 +1,7 @@
 # Regulatory and Licensing Disclosure
 
 **Effective Date:** 27 January 2026  
-**Last Updated:** 3 May 2026
+**Last Updated:** 4 May 2026
 
 This Regulatory and Licensing Disclosure (the “Disclosure”) is issued by **Kohle Capital Markets Limited** (the “Company”, “we”, “us”, or “our”) in relation to digital services, platforms, and applications operated under the **KCM Trade** brand (the “Services”).
 
@@ -82,7 +82,14 @@ The Company may onboard clients from any jurisdiction, subject to:
 - Compliance with applicable local laws, licensing requirements, and regulatory restrictions  
 - Applicable sanctions screening obligations  
 
-Notwithstanding the above, the availability of the Services may be restricted in certain jurisdictions due to legal or regulatory requirements. The Company does not offer or solicit services in jurisdictions where such activities would be unlawful or require registration, licensing, or authorisation that the Company does not hold.
+Notwithstanding the above, the Company **does not** offer or solicit services to residents of the following jurisdictions:
+
+- **United States of America** (including US persons and entities under CFTC / NFA jurisdiction)  
+- **Canada** (including Canadian persons subject to provincial securities regulation)  
+- **Japan** (under the Financial Instruments and Exchange Act)  
+- **North Korea**, **Iran**, **Syria**, and **Sudan** (sanctioned jurisdictions under applicable international sanctions regimes)  
+
+This list is not exhaustive. The availability of the Services may additionally be restricted in other jurisdictions due to evolving legal or regulatory requirements. The Company reserves the right to restrict access from any jurisdiction at any time without notice.
 
 Users are responsible for ensuring that their access to and use of the Services complies with applicable laws in their jurisdiction.
 
@@ -90,7 +97,33 @@ Jurisdiction-specific legal opinions confirming the Company's regulatory positio
 
 ---
 
-## 6. Risk Warning
+## 6. Related Entity — Australian Services
+
+Residents and eligible retail and wholesale investors in **Australia** are served by a related entity operating under the **KCM Trade Plus** brand:
+
+| Detail | Information |
+|---|---|
+| **Legal Entity** | Kohle Capital Markets Pty Ltd |
+| **Trading Name** | KCM Trade Plus |
+| **ABN** | 26 612 429 553 |
+| **ACN** | 612 429 553 |
+| **AFSL No.** | 489437 |
+| **Licence Effective** | 18 September 2023 |
+| **Regulator** | Australian Securities and Investments Commission (ASIC) |
+| **Registered Address** | Level 2, 673 Bourke Street, Melbourne VIC 3000, Australia |
+| **Website** | [kcmtradeplus.com.au](https://www.kcmtradeplus.com.au/) |
+| **Email** | [cs@kcmtrade.com.au](mailto:cs@kcmtrade.com.au) |
+| **Phone** | +61 02 8211 0406 |
+
+The Australian entity is authorised under its AFSL to provide general financial product advice to retail and wholesale clients in relation to deposit products, derivatives, and foreign exchange contracts, and to deal in derivatives and foreign exchange contracts on behalf of clients.
+
+Kohle Capital Markets Pty Ltd operates separately from Kohle Capital Markets Limited (Mauritius) and is subject to its own terms, disclosures, product disclosure statements, target market determinations, and applicable Australian law and ASIC requirements. Dispute resolution for Australian clients is handled through the **Australian Financial Complaints Authority (AFCA)**.
+
+This Disclosure applies solely to Kohle Capital Markets Limited (Mauritius) and the KCM Trade brand. For Australian services, please refer to [kcmtradeplus.com.au](https://www.kcmtradeplus.com.au/) and the [AFSL document]({{ '/docs/kohle-capital-markets-pty-ltd-afsl-489437-2023.pdf' | relative_url }}){:target="_blank" rel="noopener noreferrer"} on the [Regulatory Documents]({{ '/regulatory-documents.html' | relative_url }}) page.
+
+---
+
+## 7. Risk Warning
 
 Trading in leveraged financial instruments involves a high level of risk and may not be suitable for all investors.
 
@@ -100,7 +133,7 @@ Users should carefully consider their financial circumstances and risk tolerance
 
 ---
 
-## 7. Relationship with Digital Distribution Platforms
+## 8. Relationship with Digital Distribution Platforms
 
 The Services may be made available through websites, mobile applications, and third-party digital distribution platforms, including mobile application stores.
 
@@ -110,7 +143,7 @@ Platform operators are not responsible for the Services, the content of the Serv
 
 ---
 
-## 8. No Regulatory Advice or Guarantee
+## 9. No Regulatory Advice or Guarantee
 
 Nothing in this Disclosure shall be construed as:
 
@@ -122,7 +155,7 @@ Users should seek independent professional advice where appropriate.
 
 ---
 
-## 9. Amendments
+## 10. Amendments
 
 The Company may amend this Disclosure from time to time to reflect changes in:
 

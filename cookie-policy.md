@@ -1,7 +1,7 @@
 # Cookie Policy
 
 **Effective Date:** 27 January 2026  
-**Last Updated:** 3 May 2026
+**Last Updated:** 4 May 2026
 
 This Cookie Policy (the “Policy”) explains how **Kohle Capital Markets Limited** (the “Company”, “we”, “us”, or “our”) uses cookies and similar technologies in connection with digital services operated under the **KCM Trade** brand (the “Services”).
 
@@ -25,6 +25,7 @@ The Company uses cookies and similar technologies for the following purposes:
 - To facilitate authentication and session management  
 - To improve performance and usability  
 - To analyse usage and technical performance  
+- To measure the effectiveness of marketing and advertising campaigns  
 - To comply with legal, regulatory, and platform requirements  
 
 ---
@@ -73,7 +74,7 @@ These cookies enhance usability but are not essential to basic service functiona
 
 The Company may permit trusted third-party service providers to place cookies or similar technologies on user devices in connection with the Services.
 
-The following SDK-based technologies are currently active in the KCM Trade mobile application:
+The following SDK-based technologies are currently active in the **KCM Trade mobile application**:
 
 | Technology | Provider | Purpose |
 |---|---|---|
@@ -82,7 +83,27 @@ The following SDK-based technologies are currently active in the KCM Trade mobil
 | **Firebase SDK (FCM)** | Google | Firebase Cloud Messaging for push notification delivery. Collects app instance IDs and FCM registration tokens. |
 | **Localizely SDK** | Localizely | Over-the-air delivery of translated UI strings. Stores language preference and OTA delivery state locally on device. |
 
-Third-party SDKs are subject to the respective providers' own privacy and cookie policies. The Company does not sell data collected through these technologies to third parties.
+The following technologies are active on the **Company's website and client portal** (mt5.kohlecapital.com):
+
+| Technology | Provider | Purpose | Cookie Names Set |
+|---|---|---|---|
+| **Google Analytics 4 (GA4)** | Google LLC | Website and portal analytics — session data, page views, and user interaction events. Measurement ID: `G-QP62FWD8V8`. | `_ga`, `_ga_*`, `_gid` |
+| **Google Tag Manager (GTM)** | Google LLC | Container tag management system for deploying and managing analytics and marketing scripts. Container IDs: `GTM-W53RMVSL`, `GTM-KSMDCH3`. | None directly (manages other tags) |
+| **Cloudflare Web Analytics** | Cloudflare, Inc. | Anonymised website performance and page view analytics via the Cloudflare Beacon script. Privacy-preserving; does not set persistent cookies. | None (uses navigator.sendBeacon) |
+
+Third-party SDKs and tracking technologies are subject to the respective providers' own privacy and cookie policies. The Company does not sell data collected through these technologies to third parties.
+
+---
+
+### 3.5 Marketing and Advertising Technologies
+
+The Company uses the following technologies to measure advertising effectiveness and support marketing analytics on its website and client portal:
+
+| Technology | Provider | Purpose | Cookie Names Set |
+|---|---|---|---|
+| **Meta Pixel (Facebook Pixel)** | Meta Platforms, Inc. | Advertising conversion tracking and marketing analytics. The Pixel may collect browsing and interaction data from website and client portal visitors, including authenticated sessions, and transmit it to Meta. Pixel ID: `1667654250728894`. | `_fbp`, `_fbc` |
+
+Users in jurisdictions where consent is required for marketing cookies may withdraw consent at any time through applicable browser or device controls. For Meta Pixel data, users may also manage preferences via the Meta Ad Preferences centre at [facebook.com/ads/preferences](https://www.facebook.com/ads/preferences/).
 
 ---
 

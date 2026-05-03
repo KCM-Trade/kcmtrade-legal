@@ -1,19 +1,27 @@
 ---
 layout: default
 title: Regulatory Documents
-last_updated: 3 May 2026
+last_updated: 4 May 2026
 ---
 
-This page provides access to official regulatory and licensing documents issued to or in respect of **Kohle Capital Markets Limited** (KCM Trade). These documents are made available for verification purposes by authorised parties, counterparties, and regulators.
+This page provides access to official regulatory and licensing documents issued to or in respect of **Kohle Capital Markets Limited** (KCM Trade) and its related Australian entity **Kohle Capital Markets Pty Ltd** (KCM Trade Plus). These documents are made available for verification purposes by authorised parties, counterparties, and regulators.
 
 ---
 
-## Licences
+## Licences — Kohle Capital Markets Limited (Mauritius)
 
 | Document | Description |
 |---|---|
 | [Global Business Licence]({{ '/docs/kcml-global-business-licence-2020-01-28.pdf' | relative_url }}){:target="_blank" rel="noopener noreferrer"} | FSC Mauritius — Global Business Licence (Licence No. C117022600, Code FS-4.1) issued to Kohle Capital Markets Limited under Section 72(6) of the Financial Services Act. Effective 1 March 2018; certificate dated 28 January 2020. |
 | [Investment Dealer Licence]({{ '/docs/kcml-investment-dealer-licence-2020-01-28.pdf' | relative_url }}){:target="_blank" rel="noopener noreferrer"} | FSC Mauritius — Investment Dealer (Full Service Dealer, Excluding Underwriting) Licence (Licence No. C117022600, Code SEC-2.1B) issued to Kohle Capital Markets Limited pursuant to Section 29 of the Securities Act 2005, Rule 4 of the Securities (Licensing) Rules 2007, and the Financial Services (Consolidated Licensing and Fees) Rules 2008. Effective 1 March 2018; certificate dated 28 January 2020. |
+
+---
+
+## Licences — Kohle Capital Markets Pty Ltd (Australia)
+
+| Document | Description |
+|---|---|
+| [Australian Financial Services Licence — AFSL 489437]({{ '/docs/kohle-capital-markets-pty-ltd-afsl-489437-2023.pdf' | relative_url }}){:target="_blank" rel="noopener noreferrer"} | Australian Securities and Investments Commission (ASIC) — Australian Financial Services Licence (AFSL No. 489437) issued to Kohle Capital Markets Pty Ltd (ABN: 26 612 429 553; ACN: 612 429 553) pursuant to Section 913B of the Corporations Act 2001. Authorises the provision of general financial product advice to retail and wholesale clients in relation to deposit products, derivatives, and foreign exchange contracts; and dealing in derivatives and foreign exchange contracts. Effective 18 September 2023. |
 
 ---
 
