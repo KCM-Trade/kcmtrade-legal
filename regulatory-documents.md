@@ -75,11 +75,10 @@ You can independently verify KCM Trade's regulatory status directly on the offic
 
 **Register of Licensees:** [fscmauritius.org](https://www.fscmauritius.org/en){:target="_blank" rel="noopener noreferrer"}
 
-1. Go to **https://www.fscmauritius.org/en**
-2. Under the **Supervision** menu, select **Register of Licensee**
-3. On the Register of Licensees page, click **Register of Licensee** again
-4. In the **Name** field, type **Kohle Capital Markets Limited** and click **Submit**
-5. The result will show: **Kohle Capital Markets Limited** — Licence No. C117022600 — Type of Licence: SEC-2.1B Investment Dealer (Full Service Dealer excluding Underwriting)
+1. Go to **https://www.fscmauritius.org**
+2. On the top navigation bar, click **Register of Licensees**
+3. In the **Name** field, type **Kohle Capital Markets Limited** and click **Submit**
+4. The result will show: **Kohle Capital Markets Limited** — Licence No. C117022600 — Type of Licence: SEC-2.1B Investment Dealer (Full Service Dealer excluding Underwriting)
 
 ---
 
