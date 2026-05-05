@@ -156,4 +156,4 @@ Website: https://www.kcmtrade.com
 
 ---
 
-This Policy forms part of the Company’s legal and compliance documentation and should be read in conjunction with the Company’s Terms of Service, Privacy Policy, Risk Disclosure Statement, Regulatory and Licensing Disclosure, AML and KYC Policy, and other applicable disclosures.
+This Policy forms part of the Company's legal and compliance documentation and should be read in conjunction with the Company's Terms of Service, Privacy Policy, Risk Disclosure Statement, Regulatory and Licensing Disclosure, AML and KYC Policy, and other applicable disclosures. The [Complaint Handling Procedure](https://mt5.kohlecapital.com/uploads/public/company-documents/2023/08/28/0afc6b802be145ae88073b6cb371b63d.pdf){:target="_blank" rel="noopener noreferrer"} document provided at account registration sets out the same process in the format presented during onboarding.

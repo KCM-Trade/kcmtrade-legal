@@ -2,7 +2,7 @@
 layout: default
 title: Data Safety and Processing Disclosure
 effective_date: 1 March 2018
-last_updated: 4 May 2026
+last_updated: 5 May 2026
 ---
 
 This Data Safety and Processing Disclosure (the “Disclosure”) describes how **Kohle Capital Markets Limited** (the “Company”, “we”, “us”, or “our”) collects, uses, stores, and protects data in connection with digital services operated under the **KCM Trade** brand (the “Services”).

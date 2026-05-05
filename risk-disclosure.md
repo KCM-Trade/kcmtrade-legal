@@ -7,7 +7,7 @@ last_updated: 5 May 2026
 
 This Risk Disclosure Statement (the “Disclosure”) is issued by **Kohle Capital Markets Limited** (the “Company”, “we”, “us”, or “our”) in relation to digital services, platforms, and applications operated under the **KCM Trade** brand (the “Services”).
 
-This Disclosure is intended to inform users of the nature and risks associated with trading in leveraged and derivative financial instruments and should be read in conjunction with the Company’s Terms of Service, Regulatory and Licensing Disclosure, Order Execution Policy, and other applicable legal documentation.
+This Disclosure is intended to inform users of the nature and risks associated with trading in leveraged and derivative financial instruments and should be read in conjunction with the Company's Terms of Service, Regulatory and Licensing Disclosure, [Order Execution Policy](https://mt5.kohlecapital.com/uploads/public/company-documents/2023/08/28/39fbff2753561a6a6e997a869186d015.pdf){:target="_blank" rel="noopener noreferrer"}, and other applicable legal documentation.
 
 ---
 
@@ -29,7 +29,7 @@ The Services may provide access to financial instruments, including but not limi
 - Foreign exchange (forex) instruments  
 - Derivative instruments, including options, futures, swaps, and related products  
 
-These instruments are complex and may not be suitable for all users.
+These instruments are complex and may not be suitable for all users. Full specifications for each available instrument — including trading hours, margin requirements, spreads, swap rates, and contract sizes — are set out in the Company's [Product Specification](https://mt5.kohlecapital.com/uploads/public/company-documents/2023/08/28/2ecbc2a508df38127f6d132de7b90400.pdf){:target="_blank" rel="noopener noreferrer"}.
 
 ---
 

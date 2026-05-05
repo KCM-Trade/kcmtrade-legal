@@ -60,7 +60,7 @@ The Company reserves the right to refuse, suspend, or terminate any account at i
 
 ## 3. Identity Verification and Compliance
 
-Users may be required to complete identity verification procedures in accordance with the Company’s **AML and KYC Policy** and applicable laws.
+Users may be required to complete identity verification procedures in accordance with the Company's [AML Policy](https://mt5.kohlecapital.com/uploads/public/company-documents/2023/08/28/841a91292bb5ce6a23d1ddf73c753189.pdf){:target="_blank" rel="noopener noreferrer"} and applicable laws.
 
 Failure to complete required verification may result in restricted access, suspension, or termination of Services.
 
@@ -124,7 +124,7 @@ Applicable fees and charges are disclosed through the Services or in related doc
 
 ## 9. Risk Acknowledgement
 
-Users acknowledge and accept the risks associated with trading leveraged and derivative instruments, as described in the Company’s **Risk Disclosure Statement**.
+Users acknowledge and accept the risks associated with trading leveraged and derivative instruments, as described in the Company's [Risk Disclosure Statement](https://mt5.kohlecapital.com/uploads/public/company-documents/2023/08/28/4ff398f3fa372f9bb8f117c55f499bf8.pdf){:target="_blank" rel="noopener noreferrer"}.
 
 Users understand that losses may exceed initial deposits and that trading is not suitable for all individuals.
 

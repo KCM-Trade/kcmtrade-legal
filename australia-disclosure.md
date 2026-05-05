@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Australian Entity — KCM Trade Plus
-last_updated: 4 May 2026
+last_updated: 5 May 2026
 ---
 
 > **Important Notice:** This page relates exclusively to **Kohle Capital Markets Pty Ltd**, the Australian entity operating under the **KCM Trade Plus** brand. It is a legally separate entity from Kohle Capital Markets Limited (Mauritius), which operates the **KCM Trade** brand globally. If you are an international client (outside Australia), please refer to the [KCM Trade Legal & Compliance]({{ '/' | relative_url }}) pages.
