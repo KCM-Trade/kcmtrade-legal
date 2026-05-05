@@ -2,7 +2,7 @@
 layout: default
 title: Risk Disclosure Statement
 effective_date: 27 January 2026
-last_updated: 27 January 2026
+last_updated: 5 May 2026
 ---
 
 This Risk Disclosure Statement (the “Disclosure”) is issued by **Kohle Capital Markets Limited** (the “Company”, “we”, “us”, or “our”) in relation to digital services, platforms, and applications operated under the **KCM Trade** brand (the “Services”).
@@ -65,7 +65,31 @@ Such liquidation may occur without prior notice and may result in losses that ex
 
 ---
 
-## 7. Technology and Platform Risk
+## 7. Currency and Exchange Rate Risk
+
+When trading foreign exchange instruments or financial products denominated in currencies other than a user's base currency, exchange rate fluctuations may adversely affect the value of positions, profits, or losses.
+
+Currency risk is present throughout the life of a position and may result in additional losses that are independent of any movement in the underlying instrument.
+
+---
+
+## 8. Overnight Financing and Swap Rate Risk
+
+Positions held open overnight or over weekends may be subject to financing charges, commonly referred to as swap rates or rollover costs.
+
+Such charges accrue on a daily basis and may represent a significant cumulative cost where positions are held for extended periods. Swap rates may be positive or negative depending on the direction of the trade and prevailing interest rate differentials. Applicable rates are published through the trading platform and are subject to change without prior notice.
+
+---
+
+## 9. Gap Risk
+
+Financial markets may open at prices significantly different from the previous close — commonly referred to as "gapping" — due to events occurring outside trading hours, including economic data releases, geopolitical developments, or other market-moving announcements.
+
+Gap events may result in orders being executed at prices materially worse than intended, and losses may exceed any stop-loss orders placed or the available account balance.
+
+---
+
+## 10. Technology and Platform Risk
 
 The Services are delivered through electronic systems, including websites, mobile applications, APIs, and third-party platforms.
 
@@ -73,7 +97,7 @@ Users acknowledge the risk of system failures, connectivity issues, latency, har
 
 ---
 
-## 8. Third-Party Service Risk
+## 11. Third-Party Service Risk
 
 The Services may rely on third-party service providers, including liquidity providers, technology vendors, and infrastructure providers.
 
@@ -81,7 +105,7 @@ Failures, delays, or disruptions affecting such third parties may impact the ava
 
 ---
 
-## 9. Regulatory and Legal Risk
+## 12. Regulatory and Legal Risk
 
 Changes in laws, regulations, regulatory guidance, or enforcement practices may affect the availability, legality, or terms of the Services.
 
@@ -89,7 +113,7 @@ Users are responsible for ensuring that their use of the Services complies with 
 
 ---
 
-## 10. No Guarantee of Profit
+## 13. No Guarantee of Profit
 
 There is no guarantee that users will achieve profits through the use of the Services.
 
@@ -97,7 +121,7 @@ Trading results may vary, and losses may be substantial.
 
 ---
 
-## 11. No Investment Advice
+## 14. No Investment Advice
 
 The Services are provided on an execution-only basis.
 
@@ -105,7 +129,7 @@ Nothing in the Services or this Disclosure constitutes investment advice, tradin
 
 ---
 
-## 12. Suitability and Independent Advice
+## 15. Suitability and Independent Advice
 
 Users are solely responsible for assessing the suitability of the Services and the risks associated with trading.
 
@@ -113,7 +137,7 @@ Users should seek independent professional advice where appropriate.
 
 ---
 
-## 13. Amendments
+## 16. Amendments
 
 The Company may amend this Disclosure from time to time to reflect changes in:
 
@@ -125,7 +149,7 @@ Any amendments shall take effect upon publication, as indicated by the updated *
 
 ---
 
-## 14. Contact Information
+## 17. Contact Information
 
 For enquiries relating to this Risk Disclosure Statement, please contact:
 

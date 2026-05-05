@@ -2,7 +2,7 @@
 layout: default
 title: Terms of Service
 effective_date: 27 January 2026
-last_updated: 3 May 2026
+last_updated: 5 May 2026
 ---
 
 These Terms of Service (the “Terms”) govern access to and use of digital services, platforms, applications, and related products operated under the **KCM Trade** brand (the “Services”) by **Kohle Capital Markets Limited** (the “Company”, “we”, “us”, or “our”).
@@ -74,7 +74,17 @@ Details regarding order handling and execution are set out in the Company’s Or
 
 ---
 
-## 6. Fees, Charges, and Payments
+## 6. Client Money and Segregation
+
+Funds deposited by users are held in accordance with the Company's client money obligations under the regulations of the **Financial Services Commission of Mauritius (FSC Mauritius)** applicable to licensed Investment Dealers.
+
+Client funds are maintained in designated client money accounts that are held separately from the Company's own operational funds. In the event of the Company's insolvency, client money is not available to the general creditors of the Company, subject to the provisions of applicable law and the terms of the relevant banking arrangements.
+
+The Company is not a bank or deposit-taking institution and does not guarantee interest on deposited funds unless expressly stated otherwise in applicable documentation.
+
+---
+
+## 7. Fees, Charges, and Payments
 
 Users may be subject to fees, charges, spreads, commissions, financing costs, or other costs associated with the Services.
 
@@ -82,7 +92,7 @@ Applicable fees and charges are disclosed through the Services or in related doc
 
 ---
 
-## 7. Risk Acknowledgement
+## 8. Risk Acknowledgement
 
 Users acknowledge and accept the risks associated with trading leveraged and derivative instruments, as described in the Company’s **Risk Disclosure Statement**.
 
@@ -90,7 +100,7 @@ Users understand that losses may exceed initial deposits and that trading is not
 
 ---
 
-## 8. Technology and Platform Availability
+## 9. Technology and Platform Availability
 
 The Services rely on electronic systems and third-party infrastructure, including but not limited to MetaQuotes MT4/MT5 and Leverate for trading platform functionality, FX Back Office (FXBO) for account management, ShuftiPro for identity verification, Pelican Trading for copy trading, Acuity Trading for signals and education, and Convrs.io for live support.
 
@@ -98,7 +108,7 @@ The Company does not guarantee uninterrupted, error-free, or secure access to th
 
 ---
 
-## 9. Intellectual Property
+## 10. Intellectual Property
 
 All intellectual property rights in the Services, including software, content, trademarks, and proprietary technology, are owned by or licensed to the Company.
 
@@ -106,7 +116,7 @@ Users are granted a limited, non-exclusive, non-transferable licence to access a
 
 ---
 
-## 10. Suspension and Termination
+## 11. Suspension and Termination
 
 The Company may suspend or terminate access to the Services, with or without notice, where:
 - Required by law or regulation  
@@ -117,7 +127,7 @@ Termination does not affect accrued rights or obligations.
 
 ---
 
-## 11. Limitation of Liability
+## 12. Limitation of Liability
 
 To the maximum extent permitted by law, the Company shall not be liable for any indirect, incidental, consequential, or special damages arising out of or in connection with the Services.
 
@@ -125,7 +135,7 @@ Nothing in these Terms limits liability where such limitation is prohibited by a
 
 ---
 
-## 12. Indemnity
+## 13. Indemnity
 
 Users agree to indemnify and hold harmless the Company from any claims, losses, or liabilities arising from:
 - Breach of these Terms  
@@ -134,7 +144,7 @@ Users agree to indemnify and hold harmless the Company from any claims, losses, 
 
 ---
 
-## 13. Regulatory and Jurisdictional Matters
+## 14. Regulatory and Jurisdictional Matters
 
 The Services are offered subject to regulatory and jurisdictional restrictions.
 
@@ -142,7 +152,7 @@ Users are responsible for ensuring that their use of the Services complies with 
 
 ---
 
-## 14. Amendments
+## 15. Amendments
 
 The Company may amend these Terms from time to time to reflect changes in:
 - Laws or regulations  
@@ -153,13 +163,13 @@ Amendments take effect upon publication, as indicated by the updated **Last Upda
 
 ---
 
-## 15. Governing Law and Jurisdiction
+## 16. Governing Law and Jurisdiction
 
 These Terms are governed by and construed in accordance with the laws of the **Republic of Mauritius**, unless otherwise required by applicable law.
 
 ---
 
-## 16. Contact Information
+## 17. Contact Information
 
 For enquiries relating to these Terms or the Services, please contact:
 

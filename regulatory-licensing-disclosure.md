@@ -2,7 +2,7 @@
 layout: default
 title: Regulatory and Licensing Disclosure
 effective_date: 27 January 2026
-last_updated: 4 May 2026
+last_updated: 5 May 2026
 ---
 
 This Regulatory and Licensing Disclosure (the “Disclosure”) is issued by **Kohle Capital Markets Limited** (the “Company”, “we”, “us”, or “our”) in relation to digital services, platforms, and applications operated under the **KCM Trade** brand (the “Services”).
@@ -155,7 +155,7 @@ Any amendments shall take effect upon publication, as indicated by the updated *
 
 ---
 
-## 10. Contact Information
+## 11. Contact Information
 
 For enquiries relating to regulatory or licensing matters, please contact:
 

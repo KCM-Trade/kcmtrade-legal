@@ -2,7 +2,7 @@
 layout: default
 title: AML and KYC Policy
 effective_date: 27 January 2026
-last_updated: 3 May 2026
+last_updated: 5 May 2026
 ---
 
 This Anti-Money Laundering and Know-Your-Customer Policy (the “Policy”) sets out the principles, standards, and procedures adopted by **Kohle Capital Markets Limited** (the “Company”, “we”, “us”, or “our”) in connection with the provision of services under the **KCM Trade** platform (the “Services”).
@@ -142,7 +142,15 @@ Records relating to customer identification, verification, and transactions are 
 
 ## 11. Regulatory Compliance
 
-The Company is committed to maintaining compliance with applicable AML, CTF, and financial crime prevention regulations in the jurisdictions in which it operates or offers Services.
+The Company is committed to maintaining compliance with applicable AML, CTF, and financial crime prevention regulations, including but not limited to:
+
+- The **Financial Intelligence and Anti-Money Laundering Act 2002** (FIAMLA) of the Republic of Mauritius and the **Financial Intelligence and Anti-Money Laundering Regulations 2018** made thereunder
+- AML/CFT Guidelines issued by the **Financial Services Commission of Mauritius (FSC Mauritius)** applicable to Investment Dealers licensed under the Securities Act 2005
+- The **United Nations (Financial Prohibitions, Arms Embargo and Travel Ban) Act 2019** and other applicable sanctions legislation of the Republic of Mauritius
+- Applicable United Nations Security Council resolutions, OFAC, EU, and equivalent international sanctions regimes
+- Such other applicable laws, regulations, and regulatory guidance as may be in force from time to time in the jurisdictions in which the Company operates or offers Services
+
+Where required or permitted by applicable law, including FIAMLA, the Company may report suspicious transactions or activities to the **Financial Intelligence Unit (FIU) of Mauritius** and other competent authorities. Such reporting may occur without prior notice to the user where disclosure is restricted or prohibited by law.
 
 This Policy does not create any additional rights in favour of users and does not limit the Company’s ability to take any action required to comply with legal or regulatory obligations.
 

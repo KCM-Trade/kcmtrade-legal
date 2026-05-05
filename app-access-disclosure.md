@@ -2,7 +2,7 @@
 layout: default
 title: Application Access Disclosure
 effective_date: 27 January 2026
-last_updated: 3 May 2026
+last_updated: 5 May 2026
 ---
 
 This Application Access Disclosure (the “Disclosure”) sets out information regarding access to applications and digital services operated under the **KCM Trade** brand by **Kohle Capital Markets Limited** (the “Company”, “we”, “us”, or “our”).
@@ -77,7 +77,7 @@ The KCM Trade application is built on and integrates the following technology co
 | Social registration authentication | Google Sign-In; Apple Sign-In (iOS); Microsoft MSAL |
 | Address verification (KYC) | Google Maps Platform |
 
-### 4.4 Device Permissions
+### 4.3 Device Permissions
 
 The KCM Trade application requests the following device permissions at runtime. Each permission is requested only when required for the relevant functionality:
 
@@ -90,7 +90,7 @@ The KCM Trade application requests the following device permissions at runtime. 
 | **Push Notifications** | Account alerts, transaction status updates, and platform communications | iOS, Android, Huawei, Web |
 | **App Tracking Transparency (ATT)** | iOS-only consent prompt required before AppsFlyer attribution tracking is activated | iOS only |
 
-### 4.3 KYC-Gated Features
+### 4.4 KYC-Gated Features
 
 Certain features, including live trading, deposits, and withdrawals, are restricted to users who have completed identity verification in accordance with the Company's AML and KYC obligations. This restriction exists to comply with the requirements of the Financial Services Commission of Mauritius and applicable financial crime prevention laws. Demo accounts provided for review purposes are pre-verified and are not subject to these restrictions.Where live account access is not appropriate due to regulatory, security, or compliance considerations, sufficient information will be provided to enable a meaningful review of the application’s functionality.
 
