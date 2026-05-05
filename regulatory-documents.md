@@ -8,6 +8,24 @@ This page provides access to official regulatory and licensing documents issued 
 
 ---
 
+## Client Onboarding Documents
+
+The following documents form part of the client agreement framework that users are required to read, acknowledge, and agree to during account registration and onboarding with KCM Trade. These documents are provided by the Company's client portal (mt5.kohlecapital.com) at the point of account opening.
+
+| Document | Version | Description |
+|---|---|---|
+| [Client Agreement](https://mt5.kohlecapital.com/uploads/public/company-documents/2023/07/25/f8145c3e55db696c942459dee419ed76.pdf){:target="_blank" rel="noopener noreferrer"} | v5 | The primary contractual agreement between the user and Kohle Capital Markets Limited governing the user's access to and use of the trading Services. |
+| [Services Agreement](https://mt5.kohlecapital.com/uploads/public/company-documents/2023/08/28/fbdb69b24c33de0595de9e06acebaac2.pdf){:target="_blank" rel="noopener noreferrer"} | v5 | Describes the scope, terms, and conditions applicable to the specific services provided by the Company under the KCM Trade platform. |
+| [Order Execution Policy](https://mt5.kohlecapital.com/uploads/public/company-documents/2023/08/28/39fbff2753561a6a6e997a869186d015.pdf){:target="_blank" rel="noopener noreferrer"} | v2 | Sets out the Company's approach to executing client orders, including execution venues, best execution obligations, and order handling procedures. |
+| [AML Policy](https://mt5.kohlecapital.com/uploads/public/company-documents/2023/08/28/841a91292bb5ce6a23d1ddf73c753189.pdf){:target="_blank" rel="noopener noreferrer"} | v4 | Anti-Money Laundering Policy governing client identification, verification, and financial crime prevention procedures applicable at account opening and on an ongoing basis. |
+| [Complaint Handling Procedure](https://mt5.kohlecapital.com/uploads/public/company-documents/2023/08/28/0afc6b802be145ae88073b6cb371b63d.pdf){:target="_blank" rel="noopener noreferrer"} | v2 | Sets out the procedure for submitting, investigating, and resolving complaints, including escalation to the FSC Mauritius. |
+| [Privacy Policy](https://mt5.kohlecapital.com/uploads/public/company-documents/2023/08/28/a3910d705fcaa6e4958bfa8bbb544331.pdf){:target="_blank" rel="noopener noreferrer"} | v5 | Describes how the Company collects, processes, stores, and protects personal data in connection with the Services. |
+| [Conflict of Interest Policy](https://mt5.kohlecapital.com/uploads/public/company-documents/2023/08/28/542d3b7c02555fa78de5a3309f7085cd.pdf){:target="_blank" rel="noopener noreferrer"} | v4 | Sets out the Company's framework for identifying, managing, and disclosing conflicts of interest, including those arising from the Company acting as principal or market maker. |
+| [Risk Disclosure Statement](https://mt5.kohlecapital.com/uploads/public/company-documents/2023/08/28/4ff398f3fa372f9bb8f117c55f499bf8.pdf){:target="_blank" rel="noopener noreferrer"} | v4 | Discloses the material risks associated with trading leveraged and derivative financial instruments, including CFDs and foreign exchange contracts. |
+| [Product Specification](https://mt5.kohlecapital.com/uploads/public/company-documents/2023/08/28/2ecbc2a508df38127f6d132de7b90400.pdf){:target="_blank" rel="noopener noreferrer"} | v4 | Details the specifications of the financial instruments available on the KCM Trade platform, including trading hours, margins, spreads, and contract sizes. |
+
+---
+
 ## Licences — Kohle Capital Markets Limited (Mauritius)
 
 | Document | Description |

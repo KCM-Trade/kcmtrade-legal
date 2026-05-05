@@ -7,7 +7,21 @@ last_updated: 5 May 2026
 
 These Terms of Service (the “Terms”) govern access to and use of digital services, platforms, applications, and related products operated under the **KCM Trade** brand (the “Services”) by **Kohle Capital Markets Limited** (the “Company”, “we”, “us”, or “our”).
 
-By accessing or using the Services, you (“User”, “you”, or “your”) acknowledge that you have read, understood, and agree to be bound by these Terms, together with all policies and disclosures incorporated by reference.
+By accessing or using the Services, you ("User", "you", or "your") acknowledge that you have read, understood, and agree to be bound by these Terms, together with all policies and disclosures incorporated by reference, including the following documents which form part of the client agreement framework presented at account registration:
+
+| Document | Version |
+|---|---|
+| [Client Agreement](https://mt5.kohlecapital.com/uploads/public/company-documents/2023/07/25/f8145c3e55db696c942459dee419ed76.pdf){:target="_blank" rel="noopener noreferrer"} | v5 |
+| [Services Agreement](https://mt5.kohlecapital.com/uploads/public/company-documents/2023/08/28/fbdb69b24c33de0595de9e06acebaac2.pdf){:target="_blank" rel="noopener noreferrer"} | v5 |
+| [Order Execution Policy](https://mt5.kohlecapital.com/uploads/public/company-documents/2023/08/28/39fbff2753561a6a6e997a869186d015.pdf){:target="_blank" rel="noopener noreferrer"} | v2 |
+| [AML Policy](https://mt5.kohlecapital.com/uploads/public/company-documents/2023/08/28/841a91292bb5ce6a23d1ddf73c753189.pdf){:target="_blank" rel="noopener noreferrer"} | v4 |
+| [Complaint Handling Procedure](https://mt5.kohlecapital.com/uploads/public/company-documents/2023/08/28/0afc6b802be145ae88073b6cb371b63d.pdf){:target="_blank" rel="noopener noreferrer"} | v2 |
+| [Privacy Policy](https://mt5.kohlecapital.com/uploads/public/company-documents/2023/08/28/a3910d705fcaa6e4958bfa8bbb544331.pdf){:target="_blank" rel="noopener noreferrer"} | v5 |
+| [Conflict of Interest Policy](https://mt5.kohlecapital.com/uploads/public/company-documents/2023/08/28/542d3b7c02555fa78de5a3309f7085cd.pdf){:target="_blank" rel="noopener noreferrer"} | v4 |
+| [Risk Disclosure Statement](https://mt5.kohlecapital.com/uploads/public/company-documents/2023/08/28/4ff398f3fa372f9bb8f117c55f499bf8.pdf){:target="_blank" rel="noopener noreferrer"} | v4 |
+| [Product Specification](https://mt5.kohlecapital.com/uploads/public/company-documents/2023/08/28/2ecbc2a508df38127f6d132de7b90400.pdf){:target="_blank" rel="noopener noreferrer"} | v4 |
+
+All documents above are available on the [Regulatory Documents]({{ '/regulatory-documents.html' | relative_url }}) page.
 
 ---
 
@@ -86,7 +100,7 @@ Orders submitted through the Services are subject to market conditions, system a
 
 The Company may act as principal or counterparty to transactions. Execution may involve slippage, re-quotes, partial fills, or delays.
 
-Details regarding order handling and execution are set out in the Company’s Order Execution Policy.
+Details regarding order handling and execution are set out in the Company's [Order Execution Policy](https://mt5.kohlecapital.com/uploads/public/company-documents/2023/08/28/39fbff2753561a6a6e997a869186d015.pdf){:target="_blank" rel="noopener noreferrer"}.
 
 ---
 
@@ -254,7 +268,20 @@ In a force majeure event, the Company may suspend the Services, close positions,
 
 ## 24. Entire Agreement
 
-These Terms, together with the Privacy Policy, Risk Disclosure Statement, AML and KYC Policy, Regulatory and Licensing Disclosure, Complaints Policy, Cookie Policy, and any other policies or disclosures incorporated herein by reference, constitute the entire agreement between the Company and the user with respect to the subject matter hereof and supersede all prior or contemporaneous agreements, representations, warranties, and understandings, whether written or oral.
+These Terms, together with the following documents (collectively, the "Agreement"), constitute the entire agreement between the Company and the user with respect to the Services and supersede all prior or contemporaneous agreements, representations, warranties, and understandings, whether written or oral:
+
+- [Client Agreement (v5)](https://mt5.kohlecapital.com/uploads/public/company-documents/2023/07/25/f8145c3e55db696c942459dee419ed76.pdf){:target="_blank" rel="noopener noreferrer"}
+- [Services Agreement (v5)](https://mt5.kohlecapital.com/uploads/public/company-documents/2023/08/28/fbdb69b24c33de0595de9e06acebaac2.pdf){:target="_blank" rel="noopener noreferrer"}
+- [Order Execution Policy (v2)](https://mt5.kohlecapital.com/uploads/public/company-documents/2023/08/28/39fbff2753561a6a6e997a869186d015.pdf){:target="_blank" rel="noopener noreferrer"}
+- [AML Policy (v4)](https://mt5.kohlecapital.com/uploads/public/company-documents/2023/08/28/841a91292bb5ce6a23d1ddf73c753189.pdf){:target="_blank" rel="noopener noreferrer"}
+- [Complaint Handling Procedure (v2)](https://mt5.kohlecapital.com/uploads/public/company-documents/2023/08/28/0afc6b802be145ae88073b6cb371b63d.pdf){:target="_blank" rel="noopener noreferrer"}
+- [Privacy Policy (v5)](https://mt5.kohlecapital.com/uploads/public/company-documents/2023/08/28/a3910d705fcaa6e4958bfa8bbb544331.pdf){:target="_blank" rel="noopener noreferrer"}
+- [Conflict of Interest Policy (v4)](https://mt5.kohlecapital.com/uploads/public/company-documents/2023/08/28/542d3b7c02555fa78de5a3309f7085cd.pdf){:target="_blank" rel="noopener noreferrer"}
+- [Risk Disclosure Statement (v4)](https://mt5.kohlecapital.com/uploads/public/company-documents/2023/08/28/4ff398f3fa372f9bb8f117c55f499bf8.pdf){:target="_blank" rel="noopener noreferrer"}
+- [Product Specification (v4)](https://mt5.kohlecapital.com/uploads/public/company-documents/2023/08/28/2ecbc2a508df38127f6d132de7b90400.pdf){:target="_blank" rel="noopener noreferrer"}
+- Any other policies or disclosures incorporated herein by reference
+
+In the event of any conflict or inconsistency between these Terms and any of the above documents, these Terms shall prevail to the extent of such conflict unless otherwise expressly stated in the relevant document.
 
 ---
 
