@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Jurisdictional Availability — KCM Trade
-last_updated: 4 May 2026
+last_updated: 5 May 2026
 ---
 
 > **For Platform Reviewers (Apple App Store, Google Play Store, Huawei AppGallery):**  
@@ -28,9 +28,11 @@ last_updated: 4 May 2026
 
 ## 2. Regulatory Basis for Global Distribution
 
-Kohle Capital Markets Limited holds both a **Global Business Licence (GBL)** and an **Investment Dealer Licence** issued by the FSC Mauritius. Together, these authorisations permit the Company to conduct investment dealing and provide financial services to clients globally from Mauritius under the Mauritius Global Business regime.
+Kohle Capital Markets Limited holds both a **Global Business Licence (GBL)** and an **Investment Dealer Licence** issued by the FSC Mauritius. Together, these authorisations permit the Company to conduct investment dealing and provide financial services to clients **worldwide** from Mauritius under the Mauritius Global Business regime.
 
-The Company's Business Plan, as approved by the FSC Mauritius and formally amended by **Written Resolutions of Directors dated 2 May 2024**, designates a global client base across approximately **150 jurisdictions** spanning Asia, Europe, Africa, the Americas, and Oceania.
+The KCM Trade application is therefore available for download and use in **all jurisdictions globally**, except those listed in Section 3 below, where access is restricted by reason of local licensing law or applicable international sanctions.
+
+The Company's Business Plan, as approved by the FSC Mauritius and formally amended by **Written Resolutions of Directors dated 2 May 2024**, designates a worldwide client base spanning Asia, Europe, Africa, the Americas, and Oceania.
 
 Jurisdiction-specific legal opinions have also been obtained confirming the Company's regulatory position in key markets:
 
@@ -44,9 +46,9 @@ All documents are available on the [Regulatory Documents]({{ '/regulatory-docume
 
 ---
 
-## 3. Explicitly Restricted Jurisdictions
+## 3. Restricted Jurisdictions (Exceptions to Global Availability)
 
-The KCM Trade application is **not available** and is **geo-restricted** from the following jurisdictions. The app is not listed on any storefront in these regions, and server-side controls prevent account creation and login for users identified as residing in or accessing from these jurisdictions.
+Notwithstanding the global availability described in Section 2, the KCM Trade application is **not available** and is **geo-restricted** from the following jurisdictions. The app is not listed on any storefront in these regions, and server-side controls prevent account creation and login for users identified as residing in or accessing from these jurisdictions.
 
 ### 3.1 Jurisdictions Restricted by Law
 
@@ -77,9 +79,9 @@ The following table summarises the current distribution configuration across eac
 
 | Platform | Distribution Status | Geo-Restrictions Applied | App ID / Reference |
 |---|---|---|---|
-| **Apple App Store** | Available | US, Canada, Japan, North Korea, Iran, Syria, Sudan excluded from salable storefronts | App ID: `6717598984` |
-| **Google Play Store** | Available | US, Canada, Japan, North Korea, Iran, Syria, Sudan excluded | Package: `com.kcmtrade.app` |
-| **Huawei AppGallery** | Available | Restricted jurisdictions excluded per AppGallery configuration | — |
+| **Apple App Store** | **Available Worldwide** | US, Canada, Japan, North Korea, Iran, Syria, Sudan excluded from salable storefronts | App ID: `6717598984` |
+| **Google Play Store** | **Available Worldwide** | US, Canada, Japan, North Korea, Iran, Syria, Sudan excluded | Package: `com.kcmtrade.app` |
+| **Huawei AppGallery** | **Available Worldwide** | Restricted jurisdictions excluded per AppGallery configuration | — |
 
 Geo-restrictions are implemented at two levels:
 1. **Storefront exclusion** — the app is not listed or available for download in restricted regions on each platform.
