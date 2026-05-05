@@ -51,7 +51,7 @@ Periods of low liquidity may increase the risk of slippage, delayed execution, o
 
 ## 5. Counterparty and Execution Risk
 
-In certain transactions, the Company may act as principal or counterparty.
+In certain transactions, the Company may act as principal or counterparty to a user's trade. This means the Company takes the opposite side of the user's position. Where the Company acts as market maker, a potential conflict of interest may exist between the Company's interest and the user's interest in trade execution. The Company manages such conflicts in accordance with its internal conflicts of interest policy and its obligations as a licensed Investment Dealer under the Securities Act 2005 (Mauritius).
 
 Execution of orders is subject to market conditions, system availability, and liquidity. Slippage, re-quotes, partial fills, or execution delays may occur.
 
@@ -85,11 +85,19 @@ Such charges accrue on a daily basis and may represent a significant cumulative 
 
 Financial markets may open at prices significantly different from the previous close — commonly referred to as "gapping" — due to events occurring outside trading hours, including economic data releases, geopolitical developments, or other market-moving announcements.
 
-Gap events may result in orders being executed at prices materially worse than intended, and losses may exceed any stop-loss orders placed or the available account balance.
+Gap events may result in orders being executed at prices materially worse than intended, and losses may exceed any stop-loss orders placed or the available account balance. Negative balance protection measures apply under normal market conditions; however, the Company cannot guarantee protection against all gap events.
 
 ---
 
-## 10. Technology and Platform Risk
+## 10. Concentration Risk
+
+Holding positions that are concentrated in a single instrument, sector, currency pair, or correlated group of instruments increases exposure to adverse movements in those specific markets.
+
+Users are encouraged to consider the risks of concentration when determining the composition and size of their trading portfolio. Diversification does not guarantee against loss.
+
+---
+
+## 11. Technology and Platform Risk
 
 The Services are delivered through electronic systems, including websites, mobile applications, APIs, and third-party platforms.
 
@@ -97,7 +105,7 @@ Users acknowledge the risk of system failures, connectivity issues, latency, har
 
 ---
 
-## 11. Third-Party Service Risk
+## 12. Third-Party Service Risk
 
 The Services may rely on third-party service providers, including liquidity providers, technology vendors, and infrastructure providers.
 
@@ -105,7 +113,7 @@ Failures, delays, or disruptions affecting such third parties may impact the ava
 
 ---
 
-## 12. Regulatory and Legal Risk
+## 13. Regulatory and Legal Risk
 
 Changes in laws, regulations, regulatory guidance, or enforcement practices may affect the availability, legality, or terms of the Services.
 
@@ -113,7 +121,7 @@ Users are responsible for ensuring that their use of the Services complies with 
 
 ---
 
-## 13. No Guarantee of Profit
+## 14. No Guarantee of Profit
 
 There is no guarantee that users will achieve profits through the use of the Services.
 
@@ -121,7 +129,7 @@ Trading results may vary, and losses may be substantial.
 
 ---
 
-## 14. No Investment Advice
+## 15. No Investment Advice
 
 The Services are provided on an execution-only basis.
 
@@ -129,7 +137,7 @@ Nothing in the Services or this Disclosure constitutes investment advice, tradin
 
 ---
 
-## 15. Suitability and Independent Advice
+## 16. Suitability and Independent Advice
 
 Users are solely responsible for assessing the suitability of the Services and the risks associated with trading.
 
@@ -137,7 +145,7 @@ Users should seek independent professional advice where appropriate.
 
 ---
 
-## 16. Amendments
+## 17. Amendments
 
 The Company may amend this Disclosure from time to time to reflect changes in:
 
@@ -149,7 +157,7 @@ Any amendments shall take effect upon publication, as indicated by the updated *
 
 ---
 
-## 17. Contact Information
+## 18. Contact Information
 
 For enquiries relating to this Risk Disclosure Statement, please contact:
 

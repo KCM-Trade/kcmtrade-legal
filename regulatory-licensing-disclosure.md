@@ -67,7 +67,9 @@ Services are provided on an execution-only basis. The Company does not provide i
 
 ## 4. Role of the Company in Transactions
 
-In connection with certain transactions, the Company may act as principal or counterparty to client trades.
+In connection with certain transactions, the Company may act as principal or counterparty to client trades. In this capacity, the Company acts as market maker and takes the opposite side of client positions. This structure may give rise to a potential conflict of interest between the interests of the Company and those of its clients.
+
+The Company manages such conflicts of interest through its internal policies, which are maintained in accordance with its obligations as a licensed Investment Dealer under the **Securities Act 2005 (Mauritius)** and applicable FSC Mauritius guidelines. The Company is required to act fairly and in the best interests of its clients in connection with the execution of orders, as further described in the Company's Order Execution Policy.
 
 Prices may be derived from third-party liquidity providers, and execution may be subject to market conditions, including slippage, re-quotes, and partial fills, as further described in the Company’s Order Execution Policy and Terms of Service.
 

@@ -2,7 +2,7 @@
 layout: default
 title: Complaints Policy
 effective_date: 1 March 2018
-last_updated: 3 May 2026
+last_updated: 5 May 2026
 ---
 
 This Complaints Policy (the “Policy”) sets out the procedures adopted by **Kohle Capital Markets Limited** (the “Company”, “we”, “us”, or “our”) for the receipt, handling, investigation, and resolution of complaints in relation to digital services, platforms, and applications operated under the **KCM Trade** brand (the “Services”).
@@ -64,17 +64,27 @@ Where practicable, complaints should include sufficient information to enable ef
 
 Upon receipt of a complaint, the Company will:
 
-- Acknowledge receipt within a reasonable timeframe  
-- Record the complaint in its internal complaints register  
-- Conduct an impartial investigation, which may include review of records, system logs, and consultation with relevant internal departments  
+- **Acknowledge** receipt in writing within **5 business days**  
+- **Record** the complaint in its internal complaints register with a unique reference number  
+- **Conduct** an impartial investigation, which may include review of records, system logs, transaction data, and consultation with relevant internal departments  
+- **Provide a substantive response** within **45 business days** of receipt of the complaint, or such shorter period as may be required by applicable regulatory guidelines  
 
-The Company may request additional information where necessary to complete the investigation.
+Where the investigation cannot be completed within 45 business days, the Company will notify the complainant of the delay, provide reasons, and indicate the expected date of completion.
+
+The Company may request additional information or documentation where necessary to complete the investigation. The 45-business-day period may be paused while awaiting a response to such a request.
 
 ---
 
 ## 6. Resolution and Response
 
-Following completion of the investigation, the Company will communicate its findings to the complainant and, where applicable, outline any remedial actions taken.
+Following completion of the investigation, the Company will communicate its findings to the complainant in writing and, where applicable, outline any remedial actions taken or proposed.
+
+The Company's response will include:
+
+- A summary of the complaint as understood by the Company  
+- The outcome of the investigation and the basis for the Company's determination  
+- Any remedial action offered or taken  
+- Details of the complainant's right to escalate the matter to the FSC Mauritius if not satisfied with the outcome  
 
 The Company’s response does not constitute an admission of liability.
 
