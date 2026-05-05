@@ -47,7 +47,7 @@ Complaints should be submitted through the Company’s authorised communication 
 
 ### 4.1 Email
 **Email:**  
-support@kcmtrade.com
+CS@kcmtrade.com
 
 ### 4.2 Telephone Support
 **International Hotline:**  
@@ -139,7 +139,7 @@ Any amendments shall take effect upon publication, as indicated by the updated *
 For enquiries relating to this Complaints Policy, please contact:
 
 **Kohle Capital Markets Limited**  
-Email: support@kcmtrade.com  
+Email: CS@kcmtrade.com  
 Telephone (International): +230 5297 0961  
 Telephone (Local): +230 4672 000  
 Website: https://www.kcmtrade.com  

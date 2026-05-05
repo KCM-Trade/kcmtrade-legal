@@ -169,7 +169,7 @@ Any amendments will be effective upon publication, as indicated by the updated *
 For enquiries relating to this Policy or compliance matters, please contact:
 
 **Kohle Capital Markets Limited**  
-Email: support@kcmtrade.com  
+Email: CS@kcmtrade.com  
 Website: https://www.kcmtrade.com  
 
 ---

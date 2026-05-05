@@ -154,7 +154,7 @@ These documents form part of the Company’s broader legal, contractual, and reg
 For enquiries relating to these documents or compliance matters, please refer to:
 
 **Kohle Capital Markets Limited**  
-Email: support@kcmtrade.com  
+Email: CS@kcmtrade.com  
 Telephone (International): +230 5297 0961  
 Telephone (Local): +230 4672 000  
 Website: https://www.kcmtrade.com  

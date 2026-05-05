@@ -137,7 +137,7 @@ Any amendments shall take effect upon publication, as indicated by the updated *
 For enquiries relating to application access or review procedures, please contact:
 
 **Kohle Capital Markets Limited**  
-Email: support@kcmtrade.com  
+Email: CS@kcmtrade.com  
 Website: https://www.kcmtrade.com  
 
 ---

@@ -150,7 +150,7 @@ Any amendments shall take effect upon publication, as indicated by the updated *
 For questions regarding this Cookie Policy or the Company’s data practices, please contact:
 
 **Kohle Capital Markets Limited**  
-Email: support@kcmtrade.com  
+Email: CS@kcmtrade.com  
 Website: https://www.kcmtrade.com  
 
 ---

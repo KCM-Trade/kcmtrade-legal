@@ -196,7 +196,7 @@ Any amendments shall take effect upon publication, as indicated by the updated *
 For questions or requests relating to this Privacy Policy or personal data processing, please contact:
 
 **Kohle Capital Markets Limited**  
-Email: support@kcmtrade.com  
+Email: CS@kcmtrade.com  
 Website: https://www.kcmtrade.com  
 
 ---

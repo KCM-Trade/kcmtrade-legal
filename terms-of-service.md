@@ -174,7 +174,7 @@ These Terms are governed by and construed in accordance with the laws of the **R
 For enquiries relating to these Terms or the Services, please contact:
 
 **Kohle Capital Markets Limited**  
-Email: support@kcmtrade.com  
+Email: CS@kcmtrade.com  
 Website: https://www.kcmtrade.com  
 
 ---

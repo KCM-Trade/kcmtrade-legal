@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Regulatory Documents
-last_updated: 4 May 2026
+last_updated: 5 May 2026
 ---
 
 This page provides access to official regulatory and licensing documents issued to or in respect of **Kohle Capital Markets Limited** (KCM Trade) and its related Australian entity **Kohle Capital Markets Pty Ltd** (KCM Trade Plus). These documents are made available for verification purposes by authorised parties, counterparties, and regulators.
@@ -46,3 +46,31 @@ This page provides access to official regulatory and licensing documents issued 
 ---
 
 > These documents are provided in their original issued form. For enquiries regarding any document, please refer to the [Contact]({{ '/contact.html' | relative_url }}) page.
+
+---
+
+## Verify Our Licences Online
+
+You can independently verify KCM Trade's regulatory status directly on the official regulator websites.
+
+### FSC Mauritius — Kohle Capital Markets Limited
+
+**Register of Licensees:** [fscmauritius.org](https://www.fscmauritius.org/en){:target="_blank" rel="noopener noreferrer"}
+
+1. Go to **https://www.fscmauritius.org/en**
+2. Under the **Supervision** menu, select **Register of Licensee**
+3. On the Register of Licensees page, click **Register of Licensee** again
+4. In the **Name** field, type **Kohle Capital Markets Limited** and click **Submit**
+5. The result will show: **Kohle Capital Markets Limited** — Licence No. C117022600 — Type of Licence: SEC-2.1B Investment Dealer (Full Service Dealer excluding Underwriting)
+
+---
+
+### ASIC — Kohle Capital Markets Pty Ltd (Australia)
+
+**ASIC Professional Registers:** [asic.gov.au](https://www.asic.gov.au){:target="_blank" rel="noopener noreferrer"}
+
+1. Go to **https://www.asic.gov.au**
+2. Under **Search ASIC registers**, select **Professional Registers**
+3. In the search field, type **489437** and click **Search**
+4. Find and click **KOHLE CAPITAL MARKETS PTY LTD** in the results
+5. The record will show: AFSL No. 489437 — Status: Current — ABN: 26 612 429 553 — Principal place of business: L 2 673 Bourke St Melbourne VIC 3000
