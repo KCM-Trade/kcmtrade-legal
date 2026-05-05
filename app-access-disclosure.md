@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Application Access Disclosure
-effective_date: 27 January 2026
+effective_date: 1 March 2018
 last_updated: 5 May 2026
 ---
 

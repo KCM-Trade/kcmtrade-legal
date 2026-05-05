@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Privacy Policy
-effective_date: 27 January 2026
+effective_date: 1 March 2018
 last_updated: 4 May 2026
 ---
 
