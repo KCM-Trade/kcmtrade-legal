@@ -8,6 +8,133 @@ This page provides access to official regulatory and licensing documents issued 
 
 ---
 
+## Corporate Group Structure
+
+The following entities form the KCM Group and are referenced across the Company's regulatory and legal documents.
+
+### Group Entities (Regulated / Licensed)
+
+---
+
+#### KCM Group Holdings Limited
+**Role:** Ultimate parent holding company of the KCM Group  
+**Jurisdiction:** —  
+**Registration No.:** —  
+**Regulator:** —  
+**Brand(s):** —  
+**Notes:** The parent entity under which all KCM Group operating and technology subsidiaries sit.
+
+---
+
+#### Kohle Capital Markets Limited
+**Role:** Primary licensed financial services operating entity — global  
+**Brand:** KCM Trade  
+**Jurisdiction:** Republic of Mauritius  
+**Registration No.:** C153797 C1/GBL (Registrar of Companies, Mauritius)  
+**Regulator:** Financial Services Commission of Mauritius (FSC Mauritius)  
+**Licences:**
+
+| Licence | Code | Enabling Legislation | Effective |
+|---|---|---|---|
+| Global Business Licence (GBL) | FS-4.1 | Section 72(6), Financial Services Act 2007 | 1 March 2018 |
+| Investment Dealer Licence (Full Service Dealer, Excluding Underwriting) | SEC-2.1B | Section 29, Securities Act 2005 | 1 March 2018 |
+
+**FSC Licence No.:** C117022600  
+**D-U-N-S® Number:** 851762462  
+**Registered Address:** The Cyberati Lounge, Ground Floor, The Catalyst, Silicon Avenue, 40 Cybercity, Ebène 72201, Republic of Mauritius  
+**Registered Agent Address (D&B / Apple records):** C/o Credentia International Management Ltd, Quatre Bornes, 72201, Republic of Mauritius  
+**Phone:** +230 5297 0961 / +230 4672 000  
+**Email:** CS@kcmtrade.com  
+**Services:** CFD and FOREX trading services, copy trading, signals and market analysis. Serves clients globally except Australia and other geo-restricted jurisdictions.
+
+---
+
+#### Kohle Capital Markets Pty Ltd
+**Role:** Australian licensed financial services operating entity  
+**Brand:** KCM Trade Plus  
+**Jurisdiction:** Australia  
+**ACN:** 612 429 553  
+**ABN:** 26 612 429 553  
+**Regulator:** Australian Securities and Investments Commission (ASIC)  
+**Licence:** Australian Financial Services Licence (AFSL) No. 489437  
+**Licence Effective Date:** 18 September 2023  
+**AFSL Authorisations:**
+- General financial product advice to retail and wholesale clients in relation to: deposit products, derivatives, foreign exchange contracts
+- Dealing in derivatives and foreign exchange contracts on behalf of another person (retail and wholesale clients)
+- Issuing derivatives to wholesale clients only
+
+**Registered Address:** Level 2, 673 Bourke Street, Melbourne VIC 3000, Australia  
+**Phone:** +61 02 8211 0406  
+**Email:** CS@kcmtrade.com.au  
+**Website:** [www.kcmtradeplus.com.au](https://www.kcmtradeplus.com.au/)  
+**Services:** Provides financial product advice and dealing in derivatives/foreign exchange contracts to Australian residents only. Operates independently from Kohle Capital Markets Limited (Mauritius).
+
+---
+
+#### Kohle Technology Limited
+**Role:** Technology entity — mobile application publisher  
+**Jurisdiction:** Hong Kong  
+**Registration No.:** —  
+**Regulator:** —  
+**D-U-N-S® Number:** 687081741 (Hong Kong)  
+**App Store Identifiers:**
+
+| Platform | Role | Identifier |
+|---|---|---|
+| Apple App Store | Developer Program Entity | Team ID: `5R6LHTN3GA` (Program: Apple Developer Program, enrolled as Organisation) |
+| Google Play Store | Developer Account Entity | Developer Account ID: `5716757513289039936` (Developer Name: KCM Trade) |
+
+**Notes:** Kohle Technology Limited is the entity under which the KCM Trade mobile application is published on the Apple App Store and Google Play Store. The financial services and regulatory obligations for the platform remain those of Kohle Capital Markets Limited (FSC Mauritius, Licence No. C117022600).
+
+---
+
+### Registered Agent
+
+| Entity | Role | Address |
+|---|---|---|
+| **Credentia International Management Ltd** | Registered agent for Kohle Capital Markets Limited in Mauritius | C/o Credentia International Management Ltd, Quatre Bornes, 72201, Republic of Mauritius |
+
+> The registered agent address appears in D-U-N-S® records and Apple Developer Program records. The Company's principal place of business is The Cyberati Lounge, Ground Floor, The Catalyst, Silicon Avenue, 40 Cybercity, Ebène 72201, Republic of Mauritius.
+
+### Key Identifiers Summary
+
+| Entity | Identifier | Value |
+|---|---|---|
+| Kohle Capital Markets Limited | FSC Licence No. | C117022600 |
+| Kohle Capital Markets Limited | Companies Act Registration | C153797 C1/GBL |
+| Kohle Capital Markets Limited | D-U-N-S® Number | 851762462 |
+| Kohle Capital Markets Pty Ltd | AFSL No. | 489437 |
+| Kohle Capital Markets Pty Ltd | ABN | 26 612 429 553 |
+| Kohle Capital Markets Pty Ltd | ACN | 612 429 553 |
+| Kohle Technology Limited | D-U-N-S® Number | 687081741 |
+| Kohle Technology Limited | Apple Team ID | 5R6LHTN3GA |
+| Kohle Technology Limited | Google Play Developer Account ID | 5716757513289039936 |
+
+### Technology Service Providers
+
+The following third-party companies provide technology infrastructure and services that support the KCM Trade platform. These entities are referenced in the Company's Terms of Service, Privacy Policy, and Data Safety disclosures.
+
+| Provider | Jurisdiction | Service |
+|---|---|---|
+| **MetaQuotes Ltd** (MT4 / MT5) | Cyprus | Trading platform infrastructure and order execution environment |
+| **Leverate** | Israel | Trading platform technology and liquidity infrastructure |
+| **FX Back Office (FXBO)** | — | Client relationship management (CRM), account administration, and back-office operations |
+| **ShuftiPro** | United Kingdom | Identity verification (KYC), document review, biometric checks, and AML screening |
+| **Pelican Trading** | — | Copy trading infrastructure and trade replication services |
+| **Acuity Trading** | United Kingdom | Market signals, analysis tools, and financial education content |
+| **Convrs.io** | — | Live support chat and in-app client messaging |
+| **AppsFlyer** | Israel | Mobile attribution, install tracking, in-app conversion analytics, and deep link routing |
+| **OneSignal** | United States | Push notification delivery |
+| **Firebase (Google LLC)** | United States | Firebase Cloud Messaging (FCM) — push notification infrastructure |
+| **SendGrid / Amazon SES** | United States | Transactional email delivery (OTP, account notifications) |
+| **Google LLC** | United States | Google Sign-In authentication; Google Maps Platform (address verification); Google Analytics 4; Google Tag Manager |
+| **Apple Inc.** | United States | Apple Sign-In authentication (iOS) |
+| **Microsoft Corporation** | United States | Microsoft MSAL — Microsoft account authentication |
+| **Cloudflare, Inc.** | United States | DNS, CDN, and website performance/security |
+| **Meta Platforms, Inc.** | United States | Meta Pixel — advertising conversion tracking and marketing analytics |
+
+---
+
 ## Client Onboarding Documents
 
 The following documents form part of the client agreement framework that users are required to read, acknowledge, and agree to during account registration and onboarding with KCM Trade. These documents are provided by the Company's client portal (mt5.kohlecapital.com) at the point of account opening.
