@@ -41,8 +41,9 @@ The following entities form the KCM Group and are referenced across the Company'
 
 **FSC Licence No.:** C117022600  
 **D-U-N-S® Number:** 851762462  
-**Registered Address:** The Cyberati Lounge, Ground Floor, The Catalyst, Silicon Avenue, 40 Cybercity, Ebène 72201, Republic of Mauritius  
-**Registered Agent Address (D&B / Apple records):** C/o Credentia International Management Ltd, Quatre Bornes, 72201, Republic of Mauritius  
+**Date of Incorporation:** 20 February 2018  
+**Registered Address (Companies Act):** The Cyberati Lounge, C/o Credentia International Management Ltd, Ground Floor, The Catalyst, Silicon Avenue, 40 Cybercity, 72201 Ebène, Republic of Mauritius  
+**Principal Place of Business (Rental Address):** Second Floor, The Cyberati Lounge 4.0, The Catalyst, Silicon Avenue, 40 Cybercity, 72201 Ebène, Republic of Mauritius  
 **Phone:** +230 5297 0961 / +230 4672 000  
 **Email:** CS@kcmtrade.com  
 **Services:** CFD and FOREX trading services, copy trading, signals and market analysis. Serves clients globally except Australia and other geo-restricted jurisdictions.
@@ -94,7 +95,7 @@ The following entities form the KCM Group and are referenced across the Company'
 |---|---|---|
 | **Credentia International Management Ltd** | Registered agent for Kohle Capital Markets Limited in Mauritius | C/o Credentia International Management Ltd, Quatre Bornes, 72201, Republic of Mauritius |
 
-> The registered agent address appears in D-U-N-S® records and Apple Developer Program records. The Company's principal place of business is The Cyberati Lounge, Ground Floor, The Catalyst, Silicon Avenue, 40 Cybercity, Ebène 72201, Republic of Mauritius.
+> The registered agent address (Quatre Bornes) appears in D-U-N-S® records and Apple Developer Program records. The Company's registered address per the Registrar of Companies is The Cyberati Lounge, C/o Credentia International Management Ltd, Ground Floor, The Catalyst, Silicon Avenue, 40 Cybercity, 72201 Ebène, Republic of Mauritius. The Company's principal place of business (rental address) is **Second Floor, The Cyberati Lounge 4.0, The Catalyst, Silicon Avenue, 40 Cybercity, 72201 Ebène, Republic of Mauritius**.
 
 ### Key Identifiers Summary
 
@@ -180,7 +181,7 @@ Kohle Capital Markets Limited has been assigned a **D-U-N-S® Number** by Dun & 
 | **D-U-N-S® Number** | 851762462 |
 | **Registered Address (D&B record)** | C/o Credentia International Management Ltd, Quatre Bornes, 72201, Republic of Mauritius |
 
-> The address recorded in the D-U-N-S® entry reflects the Company's registered agent (Credentia International Management Ltd). The Company's principal place of business is The Cyberati Lounge, Ground Floor, The Catalyst, Silicon Avenue, 40 Cybercity, Ebène 72201, Republic of Mauritius.
+> The address recorded in the D-U-N-S® entry reflects the Company's registered agent (Credentia International Management Ltd). The Company's principal place of business (rental address) is **Second Floor, The Cyberati Lounge 4.0, The Catalyst, Silicon Avenue, 40 Cybercity, 72201 Ebène, Republic of Mauritius**.
 
 The D-U-N-S® Number can be used by counterparties, platform operators, and institutions to independently verify the Company's existence and identity through the Dun & Bradstreet global database at [dnb.com](https://www.dnb.com){:target="_blank" rel="noopener noreferrer"}.
 

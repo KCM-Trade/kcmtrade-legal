@@ -25,7 +25,8 @@ last_updated: 6 May 2026
 | **Licence No.** | C117022600 |
 | **Global Business Licence** | Code FS-4.1 — issued under Section 72(6) of the Financial Services Act 2007 — effective 1 March 2018 |
 | **Investment Dealer Licence** | Code SEC-2.1B (Full Service Dealer, Excluding Underwriting) — issued under Section 29 of the Securities Act 2005 — effective 1 March 2018 |
-| **Registered Address** | The Cyberati Lounge, Ground Floor, The Catalyst, Silicon Avenue, 40 Cybercity, Ebène 72201, Republic of Mauritius |
+| **Registered Address (Companies Act)** | The Cyberati Lounge, C/o Credentia International Management Ltd, Ground Floor, The Catalyst, Silicon Avenue, 40 Cybercity, 72201 Ebène, Republic of Mauritius |
+| **Principal Place of Business** | Second Floor, The Cyberati Lounge 4.0, The Catalyst, Silicon Avenue, 40 Cybercity, 72201 Ebène, Republic of Mauritius |
 
 **Licence documents:** Available on the [Regulatory Documents]({{ '/regulatory-documents.html' | relative_url }}) page.
 
@@ -176,8 +177,8 @@ The following documents are available for platform review purposes. All document
 For questions relating to this disclosure, licensing evidence, or jurisdictional matters from platform review teams or regulators:
 
 **Kohle Capital Markets Limited**  
-The Cyberati Lounge, Ground Floor, The Catalyst  
-Silicon Avenue, 40 Cybercity, Ebène 72201  
+Second Floor, The Cyberati Lounge 4.0, The Catalyst  
+Silicon Avenue, 40 Cybercity, 72201 Ebène  
 Republic of Mauritius  
 
 Refer to the [Contact]({{ '/contact.html' | relative_url }}) page for current contact details.

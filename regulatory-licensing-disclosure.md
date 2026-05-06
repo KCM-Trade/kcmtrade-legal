@@ -22,10 +22,14 @@ Republic of Mauritius
 **Date of Incorporation:**  
 20 February 2018
 
-**Registered Office:**  
-C/o Credentia International Management Ltd  
-The Cyberati Lounge, Ground Floor, The Catalyst, Silicon Avenue  
+**Registered Office (Companies Act):**  
+The Cyberati Lounge, C/o Credentia International Management Ltd  
+Ground Floor, The Catalyst, Silicon Avenue  
 40 Cybercity, 72201 Ebène, Republic of Mauritius
+
+**Principal Place of Business (Rental Address):**  
+Second Floor, The Cyberati Lounge 4.0, The Catalyst  
+Silicon Avenue, 40 Cybercity, 72201 Ebène, Republic of Mauritius
 
 **Company Registration Number (Registrar of Companies, Mauritius):**  
 C153797 C1/GBL
