@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Regulatory Documents
-last_updated: 5 May 2026
+last_updated: 6 May 2026
 ---
 
 This page provides access to official regulatory and licensing documents issued to or in respect of **Kohle Capital Markets Limited** (KCM Trade) and its related Australian entity **Kohle Capital Markets Pty Ltd** (KCM Trade Plus). These documents are made available for verification purposes by authorised parties, counterparties, and regulators.
@@ -40,6 +40,53 @@ The following documents form part of the client agreement framework that users a
 | Document | Description |
 |---|---|
 | [Australian Financial Services Licence — AFSL 489437]({{ '/docs/kohle-capital-markets-pty-ltd-afsl-489437-2023.pdf' | relative_url }}){:target="_blank" rel="noopener noreferrer"} | Australian Securities and Investments Commission (ASIC) — Australian Financial Services Licence (AFSL No. 489437) issued to Kohle Capital Markets Pty Ltd (ABN: 26 612 429 553; ACN: 612 429 553) pursuant to Section 913B of the Corporations Act 2001. Authorises the provision of general financial product advice to retail and wholesale clients in relation to deposit products, derivatives, and foreign exchange contracts; and dealing in derivatives and foreign exchange contracts. Effective 18 September 2023. |
+
+---
+
+## Company Identification
+
+Kohle Capital Markets Limited has been assigned a **D-U-N-S® Number** by Dun & Bradstreet — the globally recognised standard for unique business identification.
+
+| Field | Detail |
+|---|---|
+| **Company** | Kohle Capital Markets Limited |
+| **D-U-N-S® Number** | 851762462 |
+| **Registered Address (D&B record)** | C/o Credentia International Management Ltd, Quatre Bornes, 72201, Republic of Mauritius |
+
+> The address recorded in the D-U-N-S® entry reflects the Company's registered agent (Credentia International Management Ltd). The Company's principal place of business is The Cyberati Lounge, Ground Floor, The Catalyst, Silicon Avenue, 40 Cybercity, Ebène 72201, Republic of Mauritius.
+
+The D-U-N-S® Number can be used by counterparties, platform operators, and institutions to independently verify the Company's existence and identity through the Dun & Bradstreet global database at [dnb.com](https://www.dnb.com){:target="_blank" rel="noopener noreferrer"}.
+
+### Apple Developer Program Membership
+
+The KCM Trade application on the Apple App Store is published under the **Apple Developer Program** account registered to **Kohle Capital Markets Limited**.
+
+| Field | Detail |
+|---|---|
+| **Entity Name** | Kohle Capital Markets Limited |
+| **Team ID** | 5R6LHTN3GA |
+| **Program** | Apple Developer Program |
+| **Enrolled As** | Organization |
+| **D-U-N-S® Number** | 851762462 |
+| **Phone** | +852 3980 9116 |
+| **Registered Address (Apple record)** | C/o Credentia International Management Ltd, Quatre Bornes, 72201, Mauritius |
+
+The Team ID and D-U-N-S® Number can be used by Apple App Store reviewers to verify the publisher identity of applications submitted under this membership.
+
+### Google Play Console Developer Account
+
+The KCM Trade application on Google Play is published under the developer account associated with **Kohle Technology Limited** (Hong Kong).
+
+| Field | Detail |
+|---|---|
+| **Developer Name** | KCM Trade |
+| **Account Type** | Organisation |
+| **Developer Account ID** | 5716757513289039936 |
+| **Entity Name** | Kohle Technology Limited |
+| **D-U-N-S® Number** | 687081741 |
+| **D-U-N-S® Jurisdiction** | Hong Kong |
+
+The Developer Account ID can be used by Google Play reviewers to verify the publisher identity of applications submitted under this account. The financial services and regulatory obligations for the KCM Trade platform are those of **Kohle Capital Markets Limited** (FSC Mauritius, Licence No. C117022600).
 
 ---
 
