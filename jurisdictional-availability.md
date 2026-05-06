@@ -1,11 +1,11 @@
 ---
 layout: default
 title: Jurisdictional Availability — KCM Trade
-last_updated: 5 May 2026
+last_updated: 6 May 2026
 ---
 
 > **For Platform Reviewers (Apple App Store, Google Play Store, Huawei AppGallery):**  
-> This page provides documentary evidence of the regulatory basis under which the KCM Trade application is distributed, the jurisdictions where the app is available, and the jurisdictions where it is explicitly restricted. It is intended to respond to platform review inquiries including **Apple Guideline 3.2.2(viii)** and equivalent policies on other platforms.
+> This page provides documentary evidence of the regulatory basis under which the KCM Trade application is distributed, the jurisdictions where the app is available, and the jurisdictions where it is explicitly restricted. It directly addresses **Apple App Store Review Guideline 3.2.2(viii)**, which requires that apps facilitating CFD or FOREX trading "must be properly licensed in all jurisdictions where the service is available." The Company satisfies this requirement through its FSC Mauritius Global Business Licence and Investment Dealer Licence, supported by independent legal opinions, and through geo-restriction of all jurisdictions where those licences do not apply.
 
 ---
 
@@ -26,23 +26,68 @@ last_updated: 5 May 2026
 
 ---
 
-## 2. Regulatory Basis for Global Distribution
+## 2. Compliance with Apple Guideline 3.2.2(viii) — Licensing in All Available Jurisdictions
 
-Kohle Capital Markets Limited holds both a **Global Business Licence (GBL)** and an **Investment Dealer Licence** issued by the FSC Mauritius. Together, these authorisations permit the Company to conduct investment dealing and provide financial services to clients **worldwide** from Mauritius under the Mauritius Global Business regime.
+Apple App Store Review Guideline 3.2.2(viii) states:
 
-The KCM Trade application is therefore available for download and use in **all jurisdictions globally**, except those listed in Section 3 below, where access is restricted by reason of local licensing law or applicable international sanctions.
+> *"Apps that facilitate binary options trading are not permitted on the App Store. Apps that facilitate trading in contracts for difference ("CFDs") or other derivatives (e.g. FOREX) must be properly licensed in all jurisdictions where the service is available."*
 
-The Company's Business Plan, as approved by the FSC Mauritius and formally amended by **Written Resolutions of Directors dated 2 May 2024**, designates a worldwide client base spanning Asia, Europe, Africa, the Americas, and Oceania.
+The following is the Company's direct response to each element of this requirement.
 
-Jurisdiction-specific legal opinions have also been obtained confirming the Company's regulatory position in key markets:
+### 2.1 Nature of the App — CFD and FOREX; No Binary Options
 
-| Jurisdiction | Opinion | Date | Summary |
+The KCM Trade application facilitates trading in **contracts for difference (CFDs)** and **foreign exchange (FOREX)** instruments only. The application does **not** facilitate binary options trading of any kind. Binary options are not offered, marketed, or available on the platform in any jurisdiction.
+
+### 2.2 Primary Licences — FSC Mauritius
+
+Kohle Capital Markets Limited holds two licences issued by the **Financial Services Commission of Mauritius (FSC Mauritius)**:
+
+| Licence | Code | Authority | Effective |
 |---|---|---|---|
-| **Hong Kong** | So, Lung & Associates (Ref. LP-26185) | 5 March 2024 | No HKSFO Section 115 licence required in the absence of active marketing |
-| **Global / Mauritius GBL scope** | GlobaLex Chambers (Mauritius) | 25 April 2024 | GBL permits global client onboarding subject to enhanced due diligence; no additional licence required |
-| **Thailand** | Siamrungroj Law Office Co., Ltd. | 2 March 2026 | No Thai CFD licence required; permitting app downloads via App Store does not constitute a licensing requirement |
+| **Global Business Licence (GBL)** | FS-4.1 | Section 72(6), Financial Services Act 2007 | 1 March 2018 |
+| **Investment Dealer Licence** (Full Service Dealer, Excluding Underwriting) | SEC-2.1B | Section 29, Securities Act 2005 | 1 March 2018 |
 
-All documents are available on the [Regulatory Documents]({{ '/regulatory-documents.html' | relative_url }}) page.
+The **GBL** is the instrument that authorises the Company to conduct regulated financial services business with clients globally from Mauritius. This is the purpose for which the Mauritius Global Business regime was established under the Financial Services Act 2007 — it enables Mauritius-domiciled entities to serve an international client base under FSC supervision without requiring a separate licence in each client jurisdiction.
+
+The **Investment Dealer Licence** (Code SEC-2.1B) specifically authorises the Company to deal in securities and derivatives — including CFDs and FOREX contracts — on behalf of clients as a full-service dealer.
+
+The FSC Mauritius is a member of the **International Organization of Securities Commissions (IOSCO)** and operates under a recognised regulatory framework aligned with international standards.
+
+### 2.3 "Properly Licensed in All Jurisdictions Where the Service Is Available"
+
+The Company satisfies the "all jurisdictions" requirement through a two-part framework:
+
+**Part A — Jurisdictions where the app IS available:**  
+In every jurisdiction where the KCM Trade application is available for download and use, the Company operates under its FSC Mauritius GBL and Investment Dealer Licence. The GBL regime is specifically designed to authorise global financial services operations from Mauritius. In jurisdictions where the Company has additionally obtained independent legal opinions (see §2.4), those opinions provide express confirmation that no separate local licence is required.
+
+**Part B — Jurisdictions where the app is NOT available (geo-restricted):**  
+The jurisdictions listed in Section 3 (Restricted Jurisdictions) are precisely those where the Company does not hold, or cannot rely on, a licence that is sufficient for local regulatory purposes (e.g. US — no CFTC/NFA registration; Canada — no provincial securities licence; Japan — no FIEA registration). The app is:
+- **Not listed** on the App Store, Google Play, or Huawei AppGallery in those jurisdictions (storefront-level exclusion); and
+- **Server-side blocked** — account registration and login are prevented for users whose IP geolocation, device locale, or declared country of residence corresponds to a restricted jurisdiction.
+
+This ensures that the app is **only available in jurisdictions where the Company is properly licensed**, and is **not available** in jurisdictions where it is not. The requirement of Guideline 3.2.2(viii) is therefore satisfied.
+
+### 2.4 Independent Legal Opinions
+
+To further evidence the Company's regulatory position in specific markets, independent legal opinions have been obtained from qualified local counsel:
+
+| Jurisdiction | Legal Counsel | Date | Conclusion |
+|---|---|---|---|
+| **Hong Kong** | So, Lung & Associates (Ref. LP-26185) | 5 March 2024 | No licence required under HK Securities and Futures Ordinance (SFO) Section 115 in the absence of active marketing directed at HK persons |
+| **Global / Mauritius GBL Scope** | GlobaLex Chambers (Mauritius) | 25 April 2024 | The GBL authorises global client onboarding from Mauritius; no additional local licence is required in non-restricted jurisdictions |
+| **Thailand** | Siamrungroj Law Office Co., Ltd. | 2 March 2026 | No Thai CFD licence required under current Thai law; making the app available via the App Store does not constitute a licensing trigger |
+
+All opinion documents are available on the [Regulatory Documents]({{ '/regulatory-documents.html' | relative_url }}) page.
+
+### 2.5 Summary
+
+| Requirement | How It Is Met |
+|---|---|
+| App facilitates CFDs/FOREX (not binary options) | Confirmed — CFD/FOREX only; binary options not offered |
+| Properly licensed | FSC Mauritius GBL (FS-4.1) + Investment Dealer Licence (SEC-2.1B) |
+| In all jurisdictions where available | GBL authorises global operations; jurisdictions requiring separate licences not held are geo-restricted and excluded from all storefronts |
+| Evidence of licensing | Licence documents publicly available; FSC register verifiable online |
+| Evidence of restrictions | Storefront exclusion + server-side access controls for all restricted jurisdictions |
 
 ---
 
