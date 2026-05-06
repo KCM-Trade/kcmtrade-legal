@@ -100,7 +100,7 @@ Orders submitted through the Services are subject to market conditions, system a
 
 The Company may act as principal or counterparty to transactions. Execution may involve slippage, re-quotes, partial fills, or delays.
 
-Details regarding order handling and execution are set out in the Company's [Order Execution Policy](https://mt5.kohlecapital.com/uploads/public/company-documents/2023/08/28/39fbff2753561a6a6e997a869186d015.pdf){:target="_blank" rel="noopener noreferrer"}.
+Details regarding order handling and execution are set out in the Company's [Order Execution Policy]({{ '/order-execution-policy.html' | relative_url }}) and the full [Order Execution Policy (PDF)](https://mt5.kohlecapital.com/uploads/public/company-documents/2023/08/28/39fbff2753561a6a6e997a869186d015.pdf){:target="_blank" rel="noopener noreferrer"}.
 
 ---
 
@@ -108,7 +108,7 @@ Details regarding order handling and execution are set out in the Company's [Ord
 
 Funds deposited by users are held in accordance with the Company's client money obligations under the regulations of the **Financial Services Commission of Mauritius (FSC Mauritius)** applicable to licensed Investment Dealers.
 
-Client funds are maintained in designated client money accounts that are held separately from the Company's own operational funds. In the event of the Company's insolvency, client money is not available to the general creditors of the Company, subject to the provisions of applicable law and the terms of the relevant banking arrangements.
+Client funds are maintained in designated client money accounts that are held separately from the Company's own operational funds. In the event of the Company's insolvency, client money is not available to the general creditors of the Company, subject to the provisions of applicable law and the terms of the relevant banking arrangements. See the [Client Fund Protection]({{ '/client-fund-protection.html' | relative_url }}) page for full details of the Company's segregation and safeguarding arrangements.
 
 The Company is not a bank or deposit-taking institution and does not guarantee interest on deposited funds unless expressly stated otherwise in applicable documentation.
 

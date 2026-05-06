@@ -51,7 +51,7 @@ Periods of low liquidity may increase the risk of slippage, delayed execution, o
 
 ## 5. Counterparty and Execution Risk
 
-In certain transactions, the Company may act as principal or counterparty to a user's trade. This means the Company takes the opposite side of the user's position. Where the Company acts as market maker, a potential conflict of interest may exist between the Company's interest and the user's interest in trade execution. The Company manages such conflicts in accordance with its internal conflicts of interest policy and its obligations as a licensed Investment Dealer under the Securities Act 2005 (Mauritius).
+In certain transactions, the Company may act as principal or counterparty to a user's trade. This means the Company takes the opposite side of the user's position. Where the Company acts as market maker, a potential conflict of interest may exist between the Company's interest and the user's interest in trade execution. The Company manages such conflicts in accordance with its [Conflicts of Interest Policy]({{ '/conflicts-of-interest-policy.html' | relative_url }}) and its obligations as a licensed Investment Dealer under the Securities Act 2005 (Mauritius).
 
 Execution of orders is subject to market conditions, system availability, and liquidity. Slippage, re-quotes, partial fills, or execution delays may occur.
 
