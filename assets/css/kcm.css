@@ -22,7 +22,7 @@
 html,body{height:100%}
 body{
   margin:0;
-  font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji","Segoe UI Emoji";
+  font-family: 'Plus Jakarta Sans', ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji","Segoe UI Emoji";
   background:
     radial-gradient(1200px 600px at 15% 0%, rgba(245,197,0,.12), transparent 55%),
     radial-gradient(900px 500px at 85% 10%, rgba(57,70,117,.22), transparent 60%),
@@ -201,4 +201,133 @@ a:hover{text-decoration:underline}
   .header-inner{flex-direction:column;align-items:flex-start}
   .nav-list{justify-content:flex-start}
   .page-title{font-size:26px}
+}
+
+/* ── Print / PDF styles ───────────────────────────────────────── */
+@media print{
+  /* Reset colours to black-on-white */
+  *{
+    background:transparent !important;
+    color:#000 !important;
+    box-shadow:none !important;
+    text-shadow:none !important;
+    -webkit-print-color-adjust:exact;
+    print-color-adjust:exact;
+  }
+
+  /* Page setup */
+  @page{
+    size:A4;
+    margin:20mm 18mm 20mm 18mm;
+  }
+
+  html,body{
+    font-size:11pt;
+    line-height:1.5;
+    background:#fff !important;
+    color:#000 !important;
+  }
+
+  /* Hide nav chrome */
+  .site-header,
+  .back-btn,
+  .skip-link{
+    display:none !important;
+  }
+
+  /* Footer — keep company name but strip background */
+  .site-footer{
+    border-top:1px solid #ccc;
+    padding:8pt 0 0;
+    margin-top:16pt;
+  }
+  .site-footer a{color:#000 !important}
+
+  /* Remove decorative borders/backgrounds from panels */
+  .page-head,
+  .content{
+    border:none !important;
+    border-radius:0 !important;
+    padding:0 !important;
+    background:transparent !important;
+  }
+
+  .site-main{padding:0 !important}
+  .container{max-width:100% !important; padding:0 !important}
+
+  /* Typography */
+  .page-title{
+    font-size:18pt;
+    margin-bottom:4pt;
+    border-bottom:2px solid #000;
+    padding-bottom:4pt;
+  }
+  .page-meta{font-size:9pt; color:#444 !important; margin-bottom:12pt}
+
+  .content h2{
+    font-size:13pt;
+    margin-top:16pt;
+    border-bottom:1px solid #999;
+    padding-bottom:3pt;
+  }
+  .content h3{font-size:11pt; margin-top:12pt}
+  .content p{margin:6pt 0}
+  .content ul,.content ol{padding-left:16pt}
+  .content li{margin:3pt 0}
+  .content hr{border-top:1px solid #ccc; margin:10pt 0}
+
+  /* Links — show URL after link text */
+  .content a[href]::after{
+    content:" (" attr(href) ")";
+    font-size:8pt;
+    color:#555 !important;
+    word-break:break-all;
+  }
+  /* Suppress URL expansion for relative/internal links and anchors */
+  .content a[href^="/"]::after,
+  .content a[href^="#"]::after{
+    content:"";
+  }
+
+  /* Blockquotes */
+  .content blockquote{
+    border-left:3px solid #999;
+    background:transparent !important;
+    padding:6pt 10pt;
+    margin:8pt 0;
+    color:#222 !important;
+  }
+
+  /* Tables */
+  .content table{
+    width:100%;
+    border-collapse:collapse;
+    border-radius:0 !important;
+    font-size:9.5pt;
+    page-break-inside:auto;
+  }
+  .content th,.content td{
+    border:1px solid #bbb;
+    padding:5pt 7pt;
+    vertical-align:top;
+  }
+  .content th{
+    background:#eee !important;
+    color:#000 !important;
+    font-weight:700;
+  }
+  .content tr{page-break-inside:avoid}
+
+  /* Code */
+  .content code{
+    background:#f4f4f4 !important;
+    border:1px solid #ccc;
+    padding:1pt 3pt;
+    font-size:9pt;
+    color:#000 !important;
+  }
+
+  /* Avoid page breaks after headings or inside sections */
+  h1,h2,h3{page-break-after:avoid}
+  .content table, .content blockquote{page-break-inside:avoid}
 }
