@@ -86,7 +86,7 @@ The Company engages the following categories of third-party service providers in
 |---|---|---|
 | **FX Back Office (FXBO)** | Client relationship management (CRM), account administration, and back-office operations | [fxbackoffice.com](https://fxbackoffice.com/) |
 | **ShuftiPro** | Identity verification, KYC document review, biometric checks, and AML screening | [shuftipro.com](https://shuftipro.com/) |
-| **Pelican Trading** | Copy trading infrastructure and trade replication services | [pelicantrading.io](https://pelicantrading.io/) |
+| **Pelican Exchange Limited** | Copy trading infrastructure and trade replication services (copy-trade.io platform) | [copy-trade.io](https://copy-trade.io/) |
 | **Acuity Trading** | Market signals, analysis tools, and financial education content delivery | [acuitytrading.com](https://acuitytrading.com/) |
 | **MetaQuotes (MT4 / MT5)** | Trading platform infrastructure and order execution environment | [metaquotes.net](https://www.metaquotes.net/) |
 | **Leverate** | Trading platform technology and liquidity infrastructure | [leverate.com](https://leverate.com/) |

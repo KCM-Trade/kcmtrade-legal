@@ -67,7 +67,7 @@ The KCM Trade application is built on and integrates the following technology co
 | Trading platform | MetaQuotes MT4 / MT5 and Leverate |
 | CRM and back-office | FX Back Office (FXBO) |
 | Identity verification (KYC) | ShuftiPro |
-| Copy trading | Pelican Trading |
+| Copy trading | Pelican Exchange Limited (copy-trade.io) |
 | Signals and education | Acuity Trading |
 | Live support chat | Convrs.io |
 | Website hosting | Webflow (via Cloudflare DNS) |

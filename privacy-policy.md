@@ -107,7 +107,7 @@ The Company currently engages the following principal third-party service provid
 |---|---|
 | **FX Back Office (FXBO)** | CRM, account administration, and back-office operations |
 | **ShuftiPro** | Identity verification, KYC document processing, biometric verification, and AML screening |
-| **Pelican Trading** | Copy trading infrastructure and trade replication |
+| **Pelican Exchange Limited** | Copy trading infrastructure and trade replication (copy-trade.io) |
 | **Acuity Trading** | Market signals, analysis tools, and financial education content |
 | **MetaQuotes (MT4 / MT5)** | Trading platform and order execution environment |
 | **Leverate** | Trading platform technology and liquidity infrastructure |

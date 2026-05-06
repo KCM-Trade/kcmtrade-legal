@@ -150,6 +150,8 @@ The Company is committed to maintaining compliance with applicable AML, CTF, and
 - Applicable United Nations Security Council resolutions, OFAC, EU, and equivalent international sanctions regimes
 - Such other applicable laws, regulations, and regulatory guidance as may be in force from time to time in the jurisdictions in which the Company operates or offers Services
 
+Full details of the Company's sanctions compliance framework — including the specific sanctions regimes monitored, screening procedures, and prohibited relationships — are set out in the [Sanctions Policy]({{ '/sanctions-policy.html' | relative_url }}).
+
 Where required or permitted by applicable law, including FIAMLA, the Company may report suspicious transactions or activities to the **Financial Intelligence Unit (FIU) of Mauritius** and other competent authorities. Such reporting may occur without prior notice to the user where disclosure is restricted or prohibited by law.
 
 This Policy does not create any additional rights in favour of users and does not limit the Company’s ability to take any action required to comply with legal or regulatory obligations.

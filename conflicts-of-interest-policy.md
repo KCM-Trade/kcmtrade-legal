@@ -48,7 +48,7 @@ The Company requires all introducing brokers and affiliates to comply with appli
 
 ### 2.4 Copy Trading Arrangements
 
-The Services include copy trading functionality provided through Pelican Trading. A conflict may arise where users copy the positions of other traders who receive remuneration based on the number or activity of their followers, potentially creating incentives that are not aligned with the user's own objectives.
+The Services include copy trading functionality provided through **Pelican Exchange Limited** (operating the platform at copy-trade.io). A conflict may arise where users copy the positions of other traders who receive remuneration based on the number or activity of their followers, potentially creating incentives that are not aligned with the user's own objectives.
 
 Users are advised to review the additional risk disclosures applicable to copy trading before using this feature.
 

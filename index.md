@@ -11,12 +11,18 @@ This site publishes the official legal, regulatory, and compliance documentation
 ## Legal & Compliance Policies
 
 ### Client Agreements and Account Terms
+- [Website Legal Disclaimer]({{ '/website-disclaimer.html' | relative_url }}) — general disclaimer for website visitors
 - [Terms of Service]({{ '/terms-of-service.html' | relative_url }})
 - [Risk Disclosure Statement]({{ '/risk-disclosure.html' | relative_url }})
+- [Client Appropriateness Policy]({{ '/client-appropriateness-policy.html' | relative_url }}) — suitability and appropriateness assessment framework
+- [Leverage and Margin Policy]({{ '/leverage-margin-policy.html' | relative_url }}) — leverage ratios, margin calls, and stop-out
 - [Client Fund Protection]({{ '/client-fund-protection.html' | relative_url }}) — segregation, margin, and safeguarding of deposited funds
 
-### Execution and Conflicts
+### Execution and Trading
 - [Order Execution Policy]({{ '/order-execution-policy.html' | relative_url }}) — best execution, order types, execution factors
+- [Copy Trading — Additional Terms and Risk Disclosure]({{ '/copy-trading-terms.html' | relative_url }}) — Pelican Exchange Limited copy trading service
+
+### Conflicts and Governance
 - [Conflicts of Interest Policy]({{ '/conflicts-of-interest-policy.html' | relative_url }}) — identification and management of conflicts
 
 ### Regulatory and Licensing
@@ -27,6 +33,7 @@ This site publishes the official legal, regulatory, and compliance documentation
 
 ### Compliance Policies
 - [AML and KYC Policy]({{ '/aml-kyc-policy.html' | relative_url }})
+- [Sanctions Policy]({{ '/sanctions-policy.html' | relative_url }}) — sanctions regimes, screening, and prohibited relationships
 - [Complaints Policy]({{ '/complaints-policy.html' | relative_url }})
 - [Privacy Policy]({{ '/privacy-policy.html' | relative_url }})
 - [Cookie Policy]({{ '/cookie-policy.html' | relative_url }})

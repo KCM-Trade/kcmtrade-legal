@@ -121,7 +121,7 @@ The following third-party companies provide technology infrastructure and servic
 | **Leverate** | Israel | Trading platform technology and liquidity infrastructure |
 | **FX Back Office (FXBO)** | — | Client relationship management (CRM), account administration, and back-office operations |
 | **ShuftiPro** | United Kingdom | Identity verification (KYC), document review, biometric checks, and AML screening |
-| **Pelican Trading** | — | Copy trading infrastructure and trade replication services |
+| **Pelican Exchange Limited** | 09437275 (England & Wales) | Copy trading infrastructure and trade replication services (copy-trade.io) |
 | **Acuity Trading** | United Kingdom | Market signals, analysis tools, and financial education content |
 | **Convrs.io** | — | Live support chat and in-app client messaging |
 | **AppsFlyer** | Israel | Mobile attribution, install tracking, in-app conversion analytics, and deep link routing |
