@@ -2,10 +2,16 @@
 layout: default
 title: Contact Information
 effective_date: 1 March 2018
-last_updated: 5 May 2026
+last_updated: 6 May 2026
 ---
 
 This Contact Information page sets out the official communication channels for digital services, platforms, and applications operated under the **KCM Trade** brand by **Kohle Capital Markets Limited** and, in Australia, under the **KCM Trade Plus** brand by **Kohle Capital Markets Pty Ltd**.
+
+> **Contacting the right entity:** KCM Trade and KCM Trade Plus are operated by two **separate legal entities**. Please use the correct contact channel for the platform you use:
+> - **KCM Trade (global)** — kcmtrade.com, MT5 portal, KCM Trade mobile app → Contact **Kohle Capital Markets Limited**: CS@kcmtrade.com
+> - **KCM Trade Plus (Australia)** — kcmtradeplus.com.au → Contact **Kohle Capital Markets Pty Ltd**: cs@kcmtrade.com.au
+>
+> Contacting the wrong entity will result in your enquiry or complaint being redirected, which may cause delays.
 
 ---
 

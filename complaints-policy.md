@@ -2,13 +2,26 @@
 layout: default
 title: Complaints Policy
 effective_date: 1 March 2018
-last_updated: 5 May 2026
+last_updated: 6 May 2026
 ---
 
 This Complaints Policy (the “Policy”) sets out the procedures adopted by **Kohle Capital Markets Limited** (the “Company”, “we”, “us”, or “our”) for the receipt, handling, investigation, and resolution of complaints in relation to digital services, platforms, and applications operated under the **KCM Trade** brand (the “Services”).
 
 This Policy forms part of the Company’s legal and compliance framework and is intended to meet applicable legal, regulatory, and platform governance requirements.
+---
 
+> ## ⚠ Which entity handles your complaint?
+>
+> **KCM Trade** and **KCM Trade Plus** are operated by two separate and legally distinct entities. Please direct your complaint to the correct entity based on the brand and platform you use:
+>
+> | Your Platform | Legal Entity | Complaint Contact | Regulator |
+> |---|---|---|---|
+> | **KCM Trade** (global — kcmtrade.com, MT5 portal, KCM Trade mobile app) | Kohle Capital Markets Limited (Mauritius) | CS@kcmtrade.com \| +230 5297 0961 | FSC Mauritius |
+> | **KCM Trade Plus** (Australia — kcmtradeplus.com.au) | Kohle Capital Markets Pty Ltd (Australia) | cs@kcmtrade.com.au \| +61 02 8211 0406 | ASIC / AFCA |
+>
+> **If you are a KCM Trade (global) client, your complaint must be directed to Kohle Capital Markets Limited.** Kohle Capital Markets Pty Ltd (KCM Trade Plus) is a separate Australian entity and has no authority to investigate or respond to complaints relating to KCM Trade (global) accounts, trading activity, or services. Complaints submitted to KCM Trade Plus in respect of KCM Trade (global) matters will not be actioned and will be redirected.
+>
+> This Policy applies exclusively to **Kohle Capital Markets Limited** and the **KCM Trade** brand.
 ---
 
 ## 1. Purpose

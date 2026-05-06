@@ -93,7 +93,11 @@ Clients of Kohle Capital Markets Pty Ltd (KCM Trade Plus) should refer to the fo
 
 ## 6. Complaints and Dispute Resolution
 
-If you have a complaint regarding services provided by Kohle Capital Markets Pty Ltd, please contact:
+> **Important — KCM Trade Plus complaints only:** This section applies exclusively to complaints regarding services provided by **Kohle Capital Markets Pty Ltd** under the **KCM Trade Plus** brand to Australian clients.
+>
+> If you are a **KCM Trade (global)** client (using kcmtrade.com, the MT5 portal, or the KCM Trade mobile app), your complaint must be directed to **Kohle Capital Markets Limited (Mauritius)** — not to KCM Trade Plus. KCM Trade Plus is a separate Australian entity and cannot investigate or respond to complaints about KCM Trade (global) accounts or services. Please refer to the [Complaints Policy]({{ '/complaints-policy.html' | relative_url }}) page for the correct contact details.
+
+If you have a complaint regarding services provided by Kohle Capital Markets Pty Ltd (KCM Trade Plus), please contact:
 
 **Internal Complaints:**  
 Email: [cs@kcmtrade.com.au](mailto:cs@kcmtrade.com.au)  
