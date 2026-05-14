@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Regulatory Documents
-last_updated: 6 May 2026
+last_updated: 14 May 2026
 ---
 
 This page provides access to official regulatory and licensing documents issued to or in respect of **Kohle Capital Markets Limited** (KCM Trade) and its related Australian entity **Kohle Capital Markets Pty Ltd** (KCM Trade Plus). These documents are made available for verification purposes by authorised parties, counterparties, and regulators.
@@ -142,7 +142,7 @@ The following documents form part of the client agreement framework that users a
 
 | Document | Version | Description |
 |---|---|---|
-| [Client Agreement](https://mt5.kohlecapital.com/uploads/public/company-documents/2023/07/25/f8145c3e55db696c942459dee419ed76.pdf){:target="_blank" rel="noopener noreferrer"} | v5 | The primary contractual agreement between the user and Kohle Capital Markets Limited governing the user's access to and use of the trading Services. |
+| [Client Agreement](https://mt5.kohlecapital.com/uploads/public/company-documents/2026/05/13/d3a9b76b6e14415e8242cd16045ffe0b.pdf){:target="_blank" rel="noopener noreferrer"} | v5 | The primary contractual agreement between the user and Kohle Capital Markets Limited governing the user's access to and use of the trading Services. |
 | [Services Agreement](https://mt5.kohlecapital.com/uploads/public/company-documents/2023/08/28/fbdb69b24c33de0595de9e06acebaac2.pdf){:target="_blank" rel="noopener noreferrer"} | v5 | Describes the scope, terms, and conditions applicable to the specific services provided by the Company under the KCM Trade platform. |
 | [Order Execution Policy](https://mt5.kohlecapital.com/uploads/public/company-documents/2023/08/28/39fbff2753561a6a6e997a869186d015.pdf){:target="_blank" rel="noopener noreferrer"} | v2 | Sets out the Company's approach to executing client orders, including execution venues, best execution obligations, and order handling procedures. |
 | [AML Policy](https://mt5.kohlecapital.com/uploads/public/company-documents/2023/08/28/841a91292bb5ce6a23d1ddf73c753189.pdf){:target="_blank" rel="noopener noreferrer"} | v4 | Anti-Money Laundering Policy governing client identification, verification, and financial crime prevention procedures applicable at account opening and on an ongoing basis. |
