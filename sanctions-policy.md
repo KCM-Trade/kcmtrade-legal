@@ -2,7 +2,7 @@
 layout: default
 title: Sanctions Policy
 effective_date: 1 March 2018
-last_updated: 6 May 2026
+last_updated: 14 May 2026
 ---
 
 This Sanctions Policy (the "Policy") is issued by **Kohle Capital Markets Limited** (the "Company", "we", "us", or "our") and sets out the framework by which the Company identifies, assesses, and manages sanctions risk in connection with digital services operated under the **KCM Trade** brand (the "Services").
@@ -50,6 +50,7 @@ The Company will not:
 - Provide Services to any person resident in or incorporated in a jurisdiction subject to comprehensive sanctions measures, including but not limited to:
   - **North Korea (Democratic People's Republic of Korea)** — subject to UNSC comprehensive sanctions
   - **Iran** — subject to UNSC and multilateral sanctions
+  - **Myanmar** — subject to FATF Call for Action (blacklist) as of October 2022; subject to targeted sanctions under EU, UK, and US regimes
   - **Syria** — subject to UNSC and multilateral sanctions
   - **Sudan** — subject to applicable sanctions measures
 - Facilitate any transaction that would cause the Company or any third party to violate applicable sanctions laws
