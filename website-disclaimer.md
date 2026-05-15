@@ -2,7 +2,7 @@
 layout: default
 title: Website Legal Disclaimer
 effective_date: 1 March 2018
-last_updated: 6 May 2026
+last_updated: 15 May 2026
 ---
 
 This Website Legal Disclaimer (the "Disclaimer") applies to all websites, web applications, web pages, and online materials operated or published by **Kohle Capital Markets Limited** (the "Company", "we", "us", or "our") under the **KCM Trade** brand, including [www.kcmtrade.com](https://www.kcmtrade.com/) and any related subdomains or associated digital properties (collectively, the "Website").
@@ -155,7 +155,15 @@ Personal data collected through the Website is processed in accordance with the 
 
 ---
 
-## 13. Governing Law
+## 13. AI-Powered Features and Tools
+
+Certain features and tools available through the Website and application are powered by artificial intelligence, including the **AI Mentor**, **Analyze Trading**, **AI News**, **Economic Events**, and **IB Promo Generator**. All AI-powered features are provided for informational and educational purposes only and do not constitute regulated financial advice. Full terms and limitations applicable to AI features are set out in the [AI Tools and Features Disclaimer]({{ '/ai-tools-disclaimer.html' | relative_url }}).
+
+Promotional and advertising content produced by or on behalf of the Company, including AI-generated content, AI KOL personas, and AI-assisted creative materials, is subject to the Company's [Marketing and Advertising Compliance Policy]({{ '/marketing-advertising-policy.html' | relative_url }}).
+
+---
+
+## 14. Governing Law
 
 This Disclaimer is governed by and construed in accordance with the laws of the **Republic of Mauritius**.
 
@@ -163,7 +171,7 @@ Any dispute arising from or in connection with this Disclaimer shall be subject 
 
 ---
 
-## 14. Amendments
+## 15. Amendments
 
 The Company may amend this Disclaimer at any time. The current version of this Disclaimer will always be published on this page, as indicated by the **Last Updated** date above.
 

@@ -2,7 +2,7 @@
 layout: default
 title: Conflicts of Interest Policy
 effective_date: 1 March 2018
-last_updated: 6 May 2026
+last_updated: 15 May 2026
 ---
 
 This Conflicts of Interest Policy (the "Policy") is issued by **Kohle Capital Markets Limited** (the "Company", "we", "us", or "our") and sets out how the Company identifies, manages, and discloses conflicts of interest arising in connection with digital services operated under the **KCM Trade** brand (the "Services").
@@ -44,7 +44,7 @@ The Company addresses this conflict by applying consistent, transparent pricing 
 
 The Company may remunerate introducing brokers and affiliates for referring users to the Services. Such remuneration arrangements may create an incentive for referrers to recommend the Services without adequate regard to the user's individual suitability.
 
-The Company requires all introducing brokers and affiliates to comply with applicable laws and the Company's regulatory standards, and to refrain from making claims that misrepresent the Services or the risks involved.
+The Company requires all introducing brokers and affiliates to comply with applicable laws and the Company's regulatory standards, and to refrain from making claims that misrepresent the Services or the risks involved. The standards applicable to IB and affiliate promotional content are set out in the [Marketing and Advertising Compliance Policy]({{ '/marketing-advertising-policy.html' | relative_url }}).
 
 ### 2.4 Copy Trading Arrangements
 
