@@ -2,7 +2,7 @@
 layout: default
 title: Terms of Service
 effective_date: 1 March 2018
-last_updated: 14 May 2026
+last_updated: 15 May 2026
 ---
 
 These Terms of Service (the “Terms”) govern access to and use of digital services, platforms, applications, and related products operated under the **KCM Trade** brand (the “Services”) by **Kohle Capital Markets Limited** (the “Company”, “we”, “us”, or “our”).
@@ -270,7 +270,7 @@ In a force majeure event, the Company may suspend the Services, close positions,
 
 These Terms, together with the following documents (collectively, the "Agreement"), constitute the entire agreement between the Company and the user with respect to the Services and supersede all prior or contemporaneous agreements, representations, warranties, and understandings, whether written or oral:
 
-- [Client Agreement (v5)](https://mt5.kohlecapital.com/uploads/public/company-documents/2023/07/25/f8145c3e55db696c942459dee419ed76.pdf){:target="_blank" rel="noopener noreferrer"}
+- [Client Agreement (v5)](https://mt5.kohlecapital.com/uploads/public/company-documents/2026/05/13/d3a9b76b6e14415e8242cd16045ffe0b.pdf){:target="_blank" rel="noopener noreferrer"}
 - [Services Agreement (v5)](https://mt5.kohlecapital.com/uploads/public/company-documents/2023/08/28/fbdb69b24c33de0595de9e06acebaac2.pdf){:target="_blank" rel="noopener noreferrer"}
 - [Order Execution Policy (v2)](https://mt5.kohlecapital.com/uploads/public/company-documents/2023/08/28/39fbff2753561a6a6e997a869186d015.pdf){:target="_blank" rel="noopener noreferrer"}
 - [AML Policy (v4)](https://mt5.kohlecapital.com/uploads/public/company-documents/2023/08/28/841a91292bb5ce6a23d1ddf73c753189.pdf){:target="_blank" rel="noopener noreferrer"}

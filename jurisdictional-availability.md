@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Jurisdictional Availability — KCM Trade
-last_updated: 6 May 2026
+last_updated: 15 May 2026
 ---
 
 > **For Platform Reviewers (Apple App Store, Google Play Store, Huawei AppGallery):**  
@@ -120,6 +120,7 @@ The following jurisdictions are restricted in compliance with applicable interna
 |---|---|
 | **North Korea (DPRK)** | UN Security Council sanctions; OFAC SDN list |
 | **Iran** | UN, US (OFAC), and EU sanctions |
+| **Myanmar** | FATF Call for Action (blacklist) as of October 2022; targeted sanctions under EU, UK, and US regimes |
 | **Syria** | UN, US (OFAC), and EU sanctions |
 | **Sudan** | UN and US (OFAC) sanctions |
 
@@ -133,8 +134,8 @@ The following table summarises the current distribution configuration across eac
 
 | Platform | Distribution Status | Geo-Restrictions Applied | App ID / Reference |
 |---|---|---|---|
-| **Apple App Store** | **Available Worldwide** | US, Australia, Canada, Japan, North Korea, Iran, Syria, Sudan excluded from salable storefronts | App ID: `6717598984` |
-| **Google Play Store** | **Available Worldwide** | US, Australia, Canada, Japan, North Korea, Iran, Syria, Sudan excluded | Package: `com.kcmtrade.app` |
+| **Apple App Store** | **Available Worldwide** | US, Australia, Canada, Japan, North Korea, Iran, Myanmar, Syria, Sudan excluded from salable storefronts | App ID: `6717598984` |
+| **Google Play Store** | **Available Worldwide** | US, Australia, Canada, Japan, North Korea, Iran, Myanmar, Syria, Sudan excluded | Package: `com.kcmtrade.app` |
 | **Huawei AppGallery** | **Available Worldwide** | US, Australia, Canada, Japan, and sanctioned jurisdictions excluded per AppGallery configuration | — |
 
 Geo-restrictions are implemented at two levels:
