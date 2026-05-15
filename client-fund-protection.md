@@ -2,7 +2,7 @@
 layout: default
 title: Client Fund Protection
 effective_date: 1 March 2018
-last_updated: 6 May 2026
+last_updated: 15 May 2026
 ---
 
 This Client Fund Protection disclosure (the "Disclosure") is issued by **Kohle Capital Markets Limited** (the "Company", "we", "us", or "our") and sets out the arrangements for the safekeeping and protection of funds deposited by users of digital services operated under the **KCM Trade** brand (the "Services").
@@ -93,7 +93,37 @@ Users should however be aware that:
 
 ---
 
-## 8. Regulatory Oversight
+## 8. Professional Indemnity Insurance
+
+In addition to client money segregation and regulatory capital requirements, the Company and its related Australian entity maintain professional indemnity insurance policies with regulated insurers. These policies provide an additional layer of financial protection against qualifying claims arising from the provision of financial services.
+
+### 8.1 Kohle Capital Markets Limited (KCM Trade — Mauritius)
+
+| Detail | Information |
+|---|---|
+| **Insurer** | MUA Ltd |
+| **Policy Number** | 15824/20 |
+| **Insured Entity** | Kohle Capital Markets Limited |
+| **Coverage** | Up to **USD 250,000** |
+
+MUA Ltd is a licensed insurance company regulated in the Republic of Mauritius.
+
+### 8.2 Kohle Capital Markets Pty Ltd (KCM Trade Plus — Australia)
+
+| Detail | Information |
+|---|---|
+| **Insurer** | Insurance Advisernet |
+| **Policy Number** | LAUFI0000004894 |
+| **Insured Entity** | Kohle Capital Markets Pty Ltd |
+| **Coverage** | Up to **USD 2,500,000** |
+
+Insurance Advisernet is an Australian-based insurance network operating under AFSL authorisation.
+
+> **Important:** Insurance policies do not replace the protections afforded by client money segregation. Coverage under any insurance policy is subject to the specific terms, conditions, exclusions, and limits of the relevant policy. Insurance proceeds, if any, are not automatically distributed to clients and do not constitute a guarantee of recovery of client funds. Users should not rely on insurance coverage as a substitute for understanding the risks of trading in leveraged financial instruments.
+
+---
+
+## 9. Regulatory Oversight
 
 The Company's client money arrangements are subject to ongoing supervision by the **FSC Mauritius**. Regulatory enquiries may be directed to:
 
@@ -103,7 +133,7 @@ Licence No. **C117022600**
 
 ---
 
-## 9. User Responsibilities
+## 10. User Responsibilities
 
 Users are responsible for:
 
