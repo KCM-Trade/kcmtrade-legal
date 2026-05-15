@@ -101,7 +101,7 @@ In addition to client money segregation and regulatory capital requirements, the
 
 | Detail | Information |
 |---|---|
-| **Insurer** | MUA Ltd |
+| **Insurer** | [MUA Ltd](https://www.mua.mu) |
 | **Policy Number** | 15824/20 |
 | **Insured Entity** | Kohle Capital Markets Limited |
 | **Coverage** | Up to **USD 250,000** |
@@ -112,7 +112,7 @@ MUA Ltd is a licensed insurance company regulated in the Republic of Mauritius.
 
 | Detail | Information |
 |---|---|
-| **Insurer** | Insurance Advisernet |
+| **Insurer** | [Insurance Advisernet](https://www.insuranceadvisernet.com.au) |
 | **Policy Number** | LAUFI0000004894 |
 | **Insured Entity** | Kohle Capital Markets Pty Ltd |
 | **Coverage** | Up to **USD 2,500,000** |
