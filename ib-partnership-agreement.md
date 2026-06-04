@@ -1,13 +1,15 @@
 ---
 layout: default
-title: Independent Partnership Agreement — Introducing Broker Standard Terms
+title: Independent Partnership Agreement — Introducing Broker (Africa)
 effective_date: 1 June 2026
 last_updated: 5 June 2026
 ---
 
-These Independent Partnership Agreement Standard Terms (the "Agreement") are entered into between **Kohle Capital Markets Limited** (the "Company"), a company incorporated in the Republic of Mauritius (Company Registration No. C153797 C1/GBL), holding an Investment Dealer (Full Service Dealer, Excluding Underwriting) Licence (Licence No. **C117022600**, SEC-2.1B) issued by the **Financial Services Commission of Mauritius (FSC Mauritius)**, with its registered office at The Cyberati Lounge, C/o Credentia International Management Ltd, Ground Floor, The Catalyst, Silicon Avenue, 40 Cybercity, 72201 Ebène, Republic of Mauritius — and the **Partner** (as identified and acknowledged in the execution mechanism applicable to this Agreement).
+These Independent Partnership Agreement — Africa Terms (the "Agreement") are entered into between **Kohle Capital Markets Limited** (the "Company"), a company incorporated in the Republic of Mauritius (Company Registration No. C153797 C1/GBL), holding an Investment Dealer (Full Service Dealer, Excluding Underwriting) Licence (Licence No. **C117022600**, SEC-2.1B) issued by the **Financial Services Commission of Mauritius (FSC Mauritius)**, with its registered office at The Cyberati Lounge, C/o Credentia International Management Ltd, Ground Floor, The Catalyst, Silicon Avenue, 40 Cybercity, 72201 Ebène, Republic of Mauritius — and the **Partner** (as identified and acknowledged in the execution mechanism applicable to this Agreement).
 
-The Company operates trading and financial services under the **KCM Trade** brand. The Partner desires to act as an Introducing Broker of the Company in accordance with the terms and conditions set out herein.
+The Company operates trading and financial services under the **KCM Trade** brand. The Partner desires to act as an Introducing Broker of the Company exclusively within the **Designated Territory** as defined in Clause 1 of this Agreement, in accordance with the terms and conditions set out herein.
+
+> **Territorial Scope:** This Agreement applies exclusively to introducing broker activities conducted within African jurisdictions. The Partner is not authorised under this Agreement to introduce clients or conduct promotional activities outside the Designated Territory. Any activities outside Africa require a separate written agreement duly executed by the Company.
 
 This Agreement shall be read and construed together with the Company's **Compensation Schedule** (the "Compensation Schedule"), which sets out the applicable commission, rebate, and remuneration structure and is incorporated into this Agreement by reference. In the event of any inconsistency between this Agreement and the Compensation Schedule on matters of commercial remuneration only, the Compensation Schedule shall prevail. On all other matters — including compliance, prohibited conduct, data protection, confidentiality, intellectual property, non-circumvention, and brand protection — this Agreement prevails.
 
@@ -33,11 +35,13 @@ In this Agreement, the following terms shall have the meanings set out below:
 
 **"Competing Provider"** means any entity that provides, markets, or facilitates retail or professional access to foreign exchange (forex), contracts for difference (CFDs), margin trading, leveraged derivatives, or substantially similar financial products or services in competition with the Company.
 
+**"Designated Territory"** means the continent of Africa and all sovereign states, territories, and jurisdictions therein, as listed by the African Union, subject to any jurisdiction-specific exclusions imposed by the Company's [Sanctions Policy]({{ '/sanctions-policy.html' | relative_url }}), [AML and KYC Policy]({{ '/aml-kyc-policy.html' | relative_url }}), or [Jurisdictional Availability]({{ '/jurisdictional-availability.html' | relative_url }}) policy from time to time. For the avoidance of doubt, the Partner is not authorised to introduce clients or conduct promotional activities in any jurisdiction outside the Designated Territory under this Agreement.
+
 ---
 
 ## 2. Appointment and Nature of Relationship
 
-**2.1** The Company hereby appoints the Partner as a non-exclusive Introducing Broker of the Company, and the Partner accepts such appointment, subject to the terms and conditions of this Agreement.
+**2.1** The Company hereby appoints the Partner as a non-exclusive Introducing Broker of the Company **exclusively within the Designated Territory**, and the Partner accepts such appointment, subject to the terms and conditions of this Agreement. This appointment confers no rights outside the Designated Territory.
 
 **2.2** The Partner is an independent contractor and not an employee, agent, joint venture partner, or legal representative of the Company. Nothing in this Agreement creates, or shall be construed as creating, any partnership, joint venture, employment, or agency relationship between the Parties.
 
@@ -57,9 +61,9 @@ In this Agreement, the following terms shall have the meanings set out below:
 
 The Parties intend to:
 
-- (a) establish a framework for mutual business growth within the Partner's designated market(s), with an initial focus on the African market;
-- (b) identify, onboard, and support Introduced Clients and sub-IB partners in a compliant and commercially legitimate manner;
-- (c) enhance awareness of KCM Trade's brand, products, and Services across key markets within the Partner's scope;
+- (a) establish a framework for mutual business growth exclusively within the **Designated Territory** (the African market);
+- (b) identify, onboard, and support Introduced Clients and sub-IB partners within the Designated Territory in a compliant and commercially legitimate manner;
+- (c) enhance awareness of KCM Trade's brand, products, and Services across key African markets within the Designated Territory;
 - (d) develop long-term cooperation in a manner that is mutually beneficial, commercially sustainable, and fully compliant with Applicable Law.
 
 ---
@@ -68,15 +72,15 @@ The Parties intend to:
 
 The Partner shall at all times:
 
-- (a) actively promote the Company's business and Services within the Partner's designated market(s) in a professional, ethical, and lawful manner;
-- (b) introduce and engage prospective Introduced Clients and sub-IB partners using only approved, compliant methods and materials;
-- (c) comply fully with all Applicable Law in each jurisdiction in which the Partner conducts activities under this Agreement, including any local licensing, registration, or regulatory authorisation requirements that may apply to the Partner's introducing broker activities in that jurisdiction;
+- (a) actively promote the Company's business and Services exclusively within the **Designated Territory** in a professional, ethical, and lawful manner;
+- (b) introduce and engage prospective Introduced Clients and sub-IB partners **solely within the Designated Territory** using only approved, compliant methods and materials;
+- (c) comply fully with all Applicable Law in each jurisdiction within the Designated Territory in which the Partner conducts activities under this Agreement, including any local licensing, registration, or regulatory authorisation requirements that may apply to the Partner's introducing broker activities in that jurisdiction;
 - (d) comply with the Company's [Marketing and Advertising Compliance Policy]({{ '/marketing-advertising-policy.html' | relative_url }}), including the obligation to include the mandatory risk warning in all promotional materials, to refrain from making profit guarantees or misleading claims, and to obtain the Company's prior written approval for marketing materials before publication;
 - (e) comply with the Company's [AML and KYC Policy]({{ '/aml-kyc-policy.html' | relative_url }}) and [Sanctions Policy]({{ '/sanctions-policy.html' | relative_url }}) insofar as they are applicable to the Partner's introducing activities, including by:
   - not knowingly referring any individual or entity that is a sanctioned person or entity under any applicable sanctions regime;
   - not accepting cash payments, undisclosed third-party remuneration, or any payments that may constitute money laundering proceeds in connection with activities under this Agreement;
   - cooperating fully and promptly with the Company's AML and KYC verification procedures for all Introduced Clients;
-- (f) not refer Introduced Clients from jurisdictions in which the Company does not accept clients, as set out in the Company's [Jurisdictional Availability]({{ '/jurisdictional-availability.html' | relative_url }}) and [Sanctions Policy]({{ '/sanctions-policy.html' | relative_url }});
+- (f) not refer Introduced Clients from jurisdictions outside the **Designated Territory**, or from any jurisdiction within Africa in which the Company does not accept clients, as set out in the Company's [Jurisdictional Availability]({{ '/jurisdictional-availability.html' | relative_url }}) and [Sanctions Policy]({{ '/sanctions-policy.html' | relative_url }});
 - (g) maintain complete, accurate, and up-to-date records of all activities conducted under this Agreement, and retain such records for a minimum period of **five (5) years** from the date of the relevant activity;
 - (h) protect and uphold the reputation, commercial interests, and regulatory standing of the Company at all times.
 
@@ -98,10 +102,10 @@ The Company shall:
 
 **6.1** Subject to prior written approval by the Company in each instance, the Company may, at its sole discretion, provide partial financial support for the Partner's business development and promotional activities, which may include:
 
-- (a) office rental support;
-- (b) event organisation expenses;
-- (c) local marketing campaigns;
-- (d) community engagement activities.
+- (a) office rental support within the Designated Territory;
+- (b) event organisation expenses for events held within the Designated Territory;
+- (c) local marketing campaigns targeting audiences within the Designated Territory;
+- (d) community engagement activities within the Designated Territory.
 
 **6.2** Any marketing support provided under Clause 6.1 is subject to:
 
@@ -205,7 +209,8 @@ The Company shall:
 
 - (a) solicit, re-introduce, redirect, or refer any Introduced Client to any Competing Provider without the Company's prior written consent;
 - (b) use the Company's client relationships, Introduced Client data, or information derived from the IB Platform to benefit any Competing Provider or any other business in competition with the Company;
-- (c) encourage or induce any Introduced Client to transfer their account or assets away from the Company.
+- (c) encourage or induce any Introduced Client to transfer their account or assets away from the Company;
+- (d) conduct introducing broker activities in respect of the same client base or market within the Designated Territory on behalf of any Competing Provider.
 
 **11.2 Non-Solicitation of Staff.** During the term and for twelve (12) months following termination, the Partner shall not solicit or attempt to solicit for employment any employee or officer of the Company who was materially involved in the administration of this Agreement or the management of the IB relationship.
 

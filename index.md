@@ -44,7 +44,7 @@ This site publishes the official legal, regulatory, and compliance documentation
 - [AI Tools and Features Disclaimer]({{ '/ai-tools-disclaimer.html' | relative_url }}) — AI Mentor, Analyze Trading, AI News, Economic Events, IB Promo Generator
 
 ### Partner Programme
-- [Independent Partnership Agreement — Introducing Broker Standard Terms]({{ '/ib-partnership-agreement.html' | relative_url }}) — binding IB agreement covering roles, prohibited conduct, brand protection, non-circumvention, and compensation framework
+- [Independent Partnership Agreement — Introducing Broker (Africa)]({{ '/ib-partnership-agreement.html' | relative_url }}) — binding IB agreement for African market partners covering roles, prohibited conduct, brand protection, non-circumvention, and compensation framework
 
 ### Platform and App
 - [Application Access Disclosure]({{ '/app-access-disclosure.html' | relative_url }})
