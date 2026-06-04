@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Legal & Compliance
-last_updated: 15 May 2026
+last_updated: 5 June 2026
 ---
 
 This site publishes the official legal, regulatory, and compliance documentation for services operated under the **KCM Trade** brand by **Kohle Capital Markets Limited** (Mauritius).
@@ -42,6 +42,9 @@ This site publishes the official legal, regulatory, and compliance documentation
 ### Marketing, Advertising and AI
 - [Marketing and Advertising Compliance Policy]({{ '/marketing-advertising-policy.html' | relative_url }}) — financial promotion standards, AI-generated ads, influencer/KOL, IB promo compliance
 - [AI Tools and Features Disclaimer]({{ '/ai-tools-disclaimer.html' | relative_url }}) — AI Mentor, Analyze Trading, AI News, Economic Events, IB Promo Generator
+
+### Partner Programme
+- [Independent Partnership Agreement — Introducing Broker Standard Terms]({{ '/ib-partnership-agreement.html' | relative_url }}) — binding IB agreement covering roles, prohibited conduct, brand protection, non-circumvention, and compensation framework
 
 ### Platform and App
 - [Application Access Disclosure]({{ '/app-access-disclosure.html' | relative_url }})
