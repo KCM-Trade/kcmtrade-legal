@@ -45,6 +45,7 @@ This site publishes the official legal, regulatory, and compliance documentation
 
 ### Partner Programme
 - [Independent Partnership Agreement — Introducing Broker (Africa)]({{ '/ib-partnership-agreement.html' | relative_url }}) — binding IB agreement for African market partners covering roles, prohibited conduct, brand protection, non-circumvention, and compensation framework
+- [Independent Partnership Agreement — Introducing Broker (Global)]({{ '/ib-partnership-agreement-global.html' | relative_url }}) — binding IB agreement for partners operating outside Africa, covering multi-jurisdictional compliance, local regulatory authorisation obligations, prohibited conduct, brand protection, and compensation framework
 
 ### Platform and App
 - [Application Access Disclosure]({{ '/app-access-disclosure.html' | relative_url }})
