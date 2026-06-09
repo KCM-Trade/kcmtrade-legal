@@ -158,6 +158,7 @@ The following documents form part of the client agreement framework that users a
 
 | Document | Description |
 |---|---|
+| [Business Registration Card]({{ '/docs/kcml-business-registration-card-2024-05-21.pdf' | relative_url }}){:target="_blank" rel="noopener noreferrer"} | Government of Mauritius — Corporate and Business Registration Department — Business Registration Card issued to Kohle Capital Markets Limited (Business Name: KCM Trade) under Section 8 of the Business Registration Act 2002. Business Registration Number: C18153797. Issued 21 May 2024. |
 | [Global Business Licence]({{ '/docs/kcml-global-business-licence-2020-01-28.pdf' | relative_url }}){:target="_blank" rel="noopener noreferrer"} | FSC Mauritius — Global Business Licence (Licence No. C117022600, Code FS-4.1) issued to Kohle Capital Markets Limited under Section 72(6) of the Financial Services Act. Effective 1 March 2018; certificate dated 28 January 2020. |
 | [Investment Dealer Licence]({{ '/docs/kcml-investment-dealer-licence-2020-01-28.pdf' | relative_url }}){:target="_blank" rel="noopener noreferrer"} | FSC Mauritius — Investment Dealer (Full Service Dealer, Excluding Underwriting) Licence (Licence No. C117022600, Code SEC-2.1B) issued to Kohle Capital Markets Limited pursuant to Section 29 of the Securities Act 2005, Rule 4 of the Securities (Licensing) Rules 2007, and the Financial Services (Consolidated Licensing and Fees) Rules 2008. Effective 1 March 2018; certificate dated 28 January 2020. |
 
