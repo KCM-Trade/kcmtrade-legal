@@ -2,7 +2,7 @@
 layout: default
 title: Data Safety and Processing Disclosure
 effective_date: 1 March 2018
-last_updated: 5 May 2026
+last_updated: 10 July 2026
 ---
 
 This Data Safety and Processing Disclosure (the “Disclosure”) describes how **Kohle Capital Markets Limited** (the “Company”, “we”, “us”, or “our”) collects, uses, stores, and protects data in connection with digital services operated under the **KCM Trade** brand (the “Services”).
@@ -87,7 +87,9 @@ The Company engages the following categories of third-party service providers in
 | **FX Back Office (FXBO)** | Client relationship management (CRM), account administration, and back-office operations | [fxbackoffice.com](https://fxbackoffice.com/) |
 | **ShuftiPro** | Identity verification, KYC document review, biometric checks, and AML screening | [shuftipro.com](https://shuftipro.com/) |
 | **Pelican Exchange Limited** | Copy trading infrastructure and trade replication services (copy-trade.io platform) | [copy-trade.io](https://copy-trade.io/) |
-| **Acuity Trading** | Market signals, analysis tools, and financial education content delivery | [acuitytrading.com](https://acuitytrading.com/) |
+| **Acuity Trading** | Market signals (Signal Centre), market sentiment, economic calendar data, analysis tools, and financial education content delivery | [acuitytrading.com](https://acuitytrading.com/) |
+| **Financial Modeling Prep (FMP)** | Financial market news and market data aggregation for in-application news and market-data features | [financialmodelingprep.com](https://financialmodelingprep.com/) |
+| **OpenRouter** | AI model gateway and routing for AI-assisted informational features. Transmits prompt data — which, for account-aware features, may include trading account data (balance, equity, open positions, profit/loss, and trade history) — to the underlying AI model provider servicing the request | [openrouter.ai](https://openrouter.ai/) |
 | **MetaQuotes (MT4 / MT5)** | Trading platform infrastructure and order execution environment | [metaquotes.net](https://www.metaquotes.net/) |
 | **Leverate** | Trading platform technology and liquidity infrastructure | [leverate.com](https://leverate.com/) |
 | **Convrs.io** | Live support chat and in-app messaging | [convrs.io](https://convrs.io/) |

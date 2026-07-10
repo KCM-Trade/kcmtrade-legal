@@ -2,7 +2,7 @@
 layout: default
 title: AI Tools and Features Disclaimer
 effective_date: 15 May 2026
-last_updated: 15 May 2026
+last_updated: 10 July 2026
 ---
 
 This AI Tools and Features Disclaimer (the "Disclaimer") is issued by **Kohle Capital Markets Limited** (the "Company", "we", "us", or "our"), operating under the **KCM Trade** brand and regulated by the **Financial Services Commission of Mauritius (FSC Mauritius)** under Licence No. **C117022600** (Investment Dealer, Full Service Dealer, SEC-2.1B).
@@ -168,7 +168,9 @@ The AI Features may process certain user-provided data and trading account data 
 
 Users must not input sensitive personal information — including government-issued identification numbers, passwords, financial account credentials, or third-party confidential information — into any AI Feature prompt, chat interface, or input field.
 
-The AI Features may utilise third-party AI model and technology providers. Users' inputs and related data processed through AI Features may be transmitted to those third-party providers in accordance with their applicable terms. These providers operate as sub-processors under the Company's data processing arrangements. Users should review the [Data Safety and Processing Disclosure]({{ '/data-safety.html' | relative_url }}) for details of the Company's sub-processor relationships.
+The AI Features may utilise third-party AI model and technology providers, including **OpenRouter** (an AI model gateway) and the underlying AI model providers that OpenRouter routes requests to. Users' inputs and related data processed through AI Features may be transmitted to those third-party providers in accordance with their applicable terms. These providers operate as sub-processors under the Company's data processing arrangements. Users should review the [Data Safety and Processing Disclosure]({{ '/data-safety.html' | relative_url }}) and [Privacy Policy]({{ '/privacy-policy.html' | relative_url }}) for details of the Company's sub-processor relationships.
+
+Certain AI Features are **account-aware** — for example, features that review a user's positions, perform a pre-trade check, or provide account-based guidance. Where a user invokes such a feature, the Company transmits relevant **trading account data — which may include account balance, equity, open positions, profit and loss, and trade history — to the AI sub-processor** in order to generate the requested output. This data is transmitted solely to service the user's request, is not used by the Company to provide personalised financial advice or a recommendation, and is subject to the cross-border transfer safeguards described in the [Privacy Policy]({{ '/privacy-policy.html' | relative_url }}). Market data, signals, sentiment, economic-calendar, and news content presented within or alongside the AI Features is sourced from independent third-party providers (including **Acuity Trading** and **Financial Modeling Prep**); the Company does not generate this data and does not guarantee its accuracy, completeness, or timeliness.
 
 ---
 
