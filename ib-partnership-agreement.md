@@ -2,7 +2,7 @@
 layout: default
 title: Independent Partnership Agreement — Introducing Broker (Africa)
 effective_date: 1 June 2026
-last_updated: 5 June 2026
+last_updated: 18 July 2026
 ---
 
 These Independent Partnership Agreement — Africa Terms (the "Agreement") are entered into between **Kohle Capital Markets Limited** (the "Company"), a company incorporated in the Republic of Mauritius (Company Registration No. C153797 C1/GBL), holding an Investment Dealer (Full Service Dealer, Excluding Underwriting) Licence (Licence No. **C117022600**, SEC-2.1B) issued by the **Financial Services Commission of Mauritius (FSC Mauritius)**, with its registered office at The Cyberati Lounge, C/o Credentia International Management Ltd, Ground Floor, The Catalyst, Silicon Avenue, 40 Cybercity, 72201 Ebène, Republic of Mauritius — and the **Partner** (as identified and acknowledged in the execution mechanism applicable to this Agreement).
@@ -28,6 +28,8 @@ In this Agreement, the following terms shall have the meanings set out below:
 **"Confidential Information"** means all information disclosed by either Party to the other in connection with this Agreement that is marked as confidential, or that a reasonable person would consider to be confidential given its nature and the circumstances of disclosure, including but not limited to commercial terms, commission structures, client data, business strategies, technical information, and marketing plans.
 
 **"KCM IP"** means the KCM Trade brand name, trade marks, logos, domain names, design assets, approved marketing templates, and all other intellectual property owned by or licensed to the Company in connection with the KCM Trade brand.
+
+**"KCM Group"** means KCM Group Holdings Limited (the ultimate parent holding company) together with each of its subsidiaries and affiliates from time to time, including Kohle Capital Markets Limited (Mauritius), Kohle Capital Markets Pty Ltd (Australia), and Kohle Technology Limited (Hong Kong). Each entity within the KCM Group is a separate legal person.
 
 **"Applicable Law"** means all applicable laws, regulations, rules, guidance, orders, and binding regulatory requirements in force from time to time in any jurisdiction relevant to the activities carried out under this Agreement.
 
@@ -134,6 +136,8 @@ The Company shall:
 
 **7.5 Clawback.** In addition to the Company's rights under Clause 8.3(b), the Company may reclaim any commissions paid to the Partner within the preceding **six (6) months** that are subsequently determined to have been derived directly or indirectly from prohibited trading activity as described in Clause 8, notwithstanding that such commissions were paid in good faith at the time of payment. The Partner shall repay any such amounts within fourteen (14) days of written demand.
 
+**7.6 Tax and Withholding.** The Partner is solely responsible for all taxes, duties, levies, withholding taxes, and social contributions arising in connection with commissions received under this Agreement, in each jurisdiction where the Partner is subject to tax. Where applicable law requires the Company to withhold any taxes from commission payments, the Company shall withhold accordingly and remit to the relevant authority, and commission statements shall reflect any such withholding. The Company does not provide tax advice to the Partner, and the Partner should obtain independent tax advice as appropriate.
+
 ---
 
 ## 8. Prohibited Trading Activities
@@ -148,13 +152,15 @@ The Company shall:
 - (d) use of gap trading strategies in conjunction with maximum leverage positions, or any similar strategy designed to exploit price gaps or overnight market discontinuities for the purpose of obtaining profit in a manner inconsistent with legitimate market participation;
 - (e) arbitrage strategies executed during Abnormal Market Conditions, where "Abnormal Market Conditions" means any circumstance in which the Company determines, acting reasonably, that pricing is materially disrupted, including as a result of exchange outages, data feed errors, or system malfunctions;
 - (f) any trading strategy characterised by a pattern of activity with no genuine commercial or hedging rationale, where the primary or predominant purpose is to extract profit from pricing anomalies, system limitations, or temporal inefficiencies rather than legitimate directional or risk-management activity;
-- (g) any other act or omission that violates applicable regulatory provisions, the Company's Terms of Service, or the Company's principles of fair and legitimate trading.
+- (g) coordinated or related-party trading activity designed to generate artificial commission flows, including but not limited to circular trading, offsetting positions across related accounts, and volume inflation without genuine risk transfer;
+- (h) any other act or omission that violates applicable regulatory provisions, the Company's Terms of Service, or the Company's principles of fair and legitimate trading.
 
 **8.3** The Company reserves the right, at its sole and absolute discretion, to:
 
 - (a) reject, suspend, block, or terminate any Introduced Client account where such account is associated with suspected or confirmed prohibited activity;
 - (b) adjust, cancel, or permanently withhold commissions, rebates, and any other remuneration derived directly or indirectly from prohibited trading behaviour, including compensation already credited to the Partner's account that has not yet been withdrawn;
-- (c) suspend or terminate this Agreement immediately and without prior notice in the event of any material violation of this Clause 8 by the Partner or by Introduced Clients, where the Company determines, acting reasonably, that the Partner knew or ought to have known of such conduct.
+- (c) suspend or terminate this Agreement immediately and without prior notice in the event of any material violation of this Clause 8 by the Partner or by Introduced Clients, where the Company determines, acting reasonably, that the Partner knew or ought to have known of such conduct;
+- (d) report any suspected prohibited conduct to the FSC Mauritius, the Financial Intelligence Unit of Mauritius (FIU), and any other competent authority as required by Applicable Law.
 
 **8.4** The Partner shall remain responsible for taking reasonable steps to ensure that all Introduced Clients operate in a fair, commercially legitimate, and compliant manner. The Partner shall promptly notify the Company upon becoming aware of any suspected prohibited activity by an Introduced Client.
 
@@ -188,6 +194,12 @@ The Company shall:
 - (b) remove or irreversibly delete all KCM IP materials from any platform, website, application, or digital channel under the Partner's control or influence;
 - (c) certify in writing to the Company that it has complied with this Clause 9.6 upon request.
 
+**9.7 AI-Generated Promotional Content.** Where the Partner utilises any AI tool — including but not limited to the Company's IB Promo Generator — to generate promotional content referencing KCM Trade, the Partner acknowledges the terms of the Company's [AI Tools and Features Disclaimer]({{ '/ai-tools-disclaimer.html' | relative_url }}) §7, and specifically that:
+
+- (a) all such content is draft material only and does not constitute the Company's approval for publication;
+- (b) the Partner bears sole and full compliance responsibility for any AI-generated content it publishes;
+- (c) all AI-generated promotional content must comply with the [Marketing and Advertising Compliance Policy]({{ '/marketing-advertising-policy.html' | relative_url }}) and the financial promotion laws of the target jurisdiction.
+
 ---
 
 ## 10. Confidentiality
@@ -214,11 +226,13 @@ The Company shall:
 
 **11.2 Non-Solicitation of Staff.** During the term and for twelve (12) months following termination, the Partner shall not solicit or attempt to solicit for employment any employee or officer of the Company who was materially involved in the administration of this Agreement or the management of the IB relationship.
 
+**11.3 Reasonableness and Severance of Restrictions.** The Parties acknowledge that the restrictions in Clauses 11.1 and 11.2 are reasonable and necessary to protect the Company's legitimate business interests, client relationships, and confidential commercial information, having regard to the geographic scope of the Designated Territory and the nature of the IB relationship. If any court of competent jurisdiction determines that any such restriction is unenforceable as drafted, the Parties agree that the court may modify the restriction to the minimum extent necessary to render it enforceable, and each restriction (whether as to duration, scope, or territory) shall be treated as severable such that the invalidity of one does not affect the enforceability of the others.
+
 ---
 
 ## 12. Competitor Disclosure
 
-**12.1** The Partner shall promptly disclose to the Company in writing any existing or proposed commercial relationship with any Competing Provider under which the Partner introduces, promotes, or refers clients to that Competing Provider.
+**12.1** The Partner shall promptly, and in any event within **fourteen (14) days** of its commencement, disclose to the Company in writing any existing or proposed commercial relationship with any Competing Provider under which the Partner introduces, promotes, or refers clients to that Competing Provider.
 
 **12.2** The Company may, upon receipt of such disclosure and at its discretion, require the Partner to elect which relationship to maintain as a condition of continuing this Agreement. Failure to disclose any such relationship within fourteen (14) days of its commencement shall constitute a material breach of this Agreement.
 
@@ -252,14 +266,16 @@ The Company shall:
 
 ## 15. Indemnification
 
-The Partner agrees to indemnify, defend, and hold harmless the Company and its affiliates, officers, directors, employees, and agents (the "Indemnified Parties") from and against any and all claims, demands, actions, regulatory proceedings, losses, damages, fines, penalties, liabilities, costs, and expenses (including reasonable legal fees) arising from or in connection with:
+The Partner agrees to indemnify, defend, and hold harmless the Company and each member of the KCM Group, and their respective officers, directors, employees, agents, and licensors (the "Indemnified Parties") from and against any and all claims, demands, actions, regulatory proceedings, losses, damages, fines, penalties, liabilities, costs, and expenses (including reasonable legal fees) arising from or in connection with:
 
 - (a) any breach or alleged breach of this Agreement by the Partner;
-- (b) any unlawful, negligent, or fraudulent act or omission by the Partner in connection with activities under this Agreement;
+- (b) any unlawful, negligent, or fraudulent act or omission by the Partner, or by any sub-IB, agent, employee, or affiliate engaged by the Partner, in connection with activities under this Agreement;
 - (c) any non-compliant marketing or promotional material published by the Partner or by any sub-IB or affiliate engaged by the Partner;
 - (d) any regulatory action taken against the Company or the Indemnified Parties as a direct or indirect consequence of the Partner's activities under this Agreement;
 - (e) any violation of Applicable Law by the Partner in any jurisdiction in which the Partner conducts activities;
-- (f) any breach by the Partner of its non-circumvention, non-disparagement, or competitor disclosure obligations under Clauses 11, 12, and 13.
+- (f) any failure by the Partner to obtain or maintain any licence, registration, or authorisation required in the Designated Territory;
+- (g) any breach by the Partner of its non-circumvention, non-disparagement, or competitor disclosure obligations under Clauses 11, 12, and 13;
+- (h) any data protection breach or unlawful processing of personal data by the Partner.
 
 This indemnity obligation survives the termination or expiry of this Agreement without limitation in time.
 

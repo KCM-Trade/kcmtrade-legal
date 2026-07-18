@@ -2,7 +2,7 @@
 layout: default
 title: Client Fund Protection
 effective_date: 1 March 2018
-last_updated: 15 May 2026
+last_updated: 18 July 2026
 ---
 
 This Client Fund Protection disclosure (the "Disclosure") is issued by **Kohle Capital Markets Limited** (the "Company", "we", "us", or "our") and sets out the arrangements for the safekeeping and protection of funds deposited by users of digital services operated under the **KCM Trade** brand (the "Services").
@@ -95,7 +95,7 @@ Users should however be aware that:
 
 ## 8. Professional Indemnity Insurance
 
-In addition to client money segregation and regulatory capital requirements, the Company and its related Australian entity maintain professional indemnity insurance policies with regulated insurers. These policies provide an additional layer of financial protection against qualifying claims arising from the provision of financial services.
+In addition to client money segregation and regulatory capital requirements, the Company maintains professional indemnity insurance with a regulated insurer. This policy provides an additional layer of financial protection against qualifying claims arising from the provision of financial services to **KCM Trade (Mauritius)** clients. The coverage applicable to KCM Trade (Mauritius) clients is described in section 8.1 below; the separate arrangement maintained by the Australian entity is described in section 8.2 for information only and does not benefit KCM Trade (Mauritius) clients.
 
 ### 8.1 Kohle Capital Markets Limited (KCM Trade — Mauritius)
 
@@ -109,6 +109,8 @@ In addition to client money segregation and regulatory capital requirements, the
 MUA Ltd is a licensed insurance company regulated in the Republic of Mauritius.
 
 ### 8.2 Kohle Capital Markets Pty Ltd (KCM Trade Plus — Australia)
+
+> **Applies to KCM Trade Plus (Australia) clients only.** The professional indemnity insurance described in this section is maintained by **Kohle Capital Markets Pty Ltd** (AFSL 489437), a separate legal entity, in respect of financial services it provides to its Australian clients. It does **not** extend to, and may not be relied upon by, clients of Kohle Capital Markets Limited (KCM Trade — Mauritius), whose applicable cover is described in section 8.1 above.
 
 | Detail | Information |
 |---|---|

@@ -2,7 +2,7 @@
 layout: default
 title: Privacy Policy
 effective_date: 1 March 2018
-last_updated: 10 July 2026
+last_updated: 18 July 2026
 ---
 
 This Privacy Policy (the “Policy”) describes how **Kohle Capital Markets Limited** (the “Company”, “we”, “us”, or “our”) collects, uses, stores, discloses, and protects personal data in connection with digital services operated under the **KCM Trade** brand (the “Services”).
@@ -138,7 +138,7 @@ Each provider is engaged under contractual terms that restrict processing to the
 
 Personal data may be processed or stored in jurisdictions outside the user’s country of residence.
 
-Where cross-border transfers occur, the Company implements appropriate safeguards in accordance with applicable data protection laws.
+Where cross-border transfers occur, the Company implements appropriate safeguards in accordance with applicable data protection laws, including the Data Protection Act 2017 of Mauritius where applicable. Such safeguards may include transferring personal data to jurisdictions recognised as providing an adequate level of protection, or putting in place contractual protections (such as standard contractual clauses) with the recipient that require it to protect the data to a standard consistent with this Policy.
 
 ---
 
@@ -148,13 +148,15 @@ The Company implements reasonable technical and organisational measures designed
 
 Such measures may include access controls, encryption, monitoring, and regular review of security practices. However, no system can be guaranteed to be completely secure.
 
+In the event of a personal data breach that is likely to result in a risk to the rights and interests of affected individuals, the Company will notify the relevant supervisory authority and, where required by applicable law, the affected individuals without undue delay after becoming aware of the breach.
+
 ---
 
 ## 8. Data Retention
 
 Personal data is retained only for as long as necessary to fulfil the purposes described in this Policy or to comply with applicable legal, regulatory, or contractual obligations.
 
-Retention periods may vary depending on the nature of the data and applicable requirements.
+Retention periods vary depending on the nature of the data and applicable requirements. In particular, identity verification, transaction, and account records that the Company is required to keep under applicable anti-money-laundering and financial-services legislation are retained for the minimum periods prescribed by that legislation — generally not less than **seven (7) years** following the end of the client relationship or the completion of the relevant transaction — after which personal data is deleted or anonymised unless a longer period is required by law or is necessary for the establishment, exercise, or defence of legal claims.
 
 ---
 

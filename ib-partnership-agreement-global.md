@@ -2,7 +2,7 @@
 layout: default
 title: Independent Partnership Agreement — Introducing Broker (Global)
 effective_date: 5 June 2026
-last_updated: 5 June 2026
+last_updated: 18 July 2026
 ---
 
 These Independent Partnership Agreement — Global Terms (the "Agreement") are entered into between **Kohle Capital Markets Limited** (the "Company"), a company incorporated in the Republic of Mauritius (Company Registration No. C153797 C1/GBL), holding an Investment Dealer (Full Service Dealer, Excluding Underwriting) Licence (Licence No. **C117022600**, SEC-2.1B) and a Global Business Licence (FS-4.1) issued by the **Financial Services Commission of Mauritius (FSC Mauritius)** under the Financial Services Act 2007 and the Securities Act 2005, with its registered office at The Cyberati Lounge, C/o Credentia International Management Ltd, Ground Floor, The Catalyst, Silicon Avenue, 40 Cybercity, 72201 Ebène, Republic of Mauritius — and the **Partner** (as identified and acknowledged in the execution mechanism applicable to this Agreement).
@@ -43,7 +43,7 @@ In this Agreement, the following terms shall have the meanings set out below:
 
 **"Local Regulatory Authorisation"** means any licence, registration, authorisation, exemption, or approval required under the laws of a particular jurisdiction for the Partner to lawfully carry on introducing broker activities in that jurisdiction.
 
-**"KCM Group"** means Kohle Capital Markets Limited (Mauritius), Kohle Capital Markets Pty Ltd (Australia), Kohle Technology Limited (Hong Kong), and any other entity that is from time to time a subsidiary or affiliate of Kohle Capital Markets Limited.
+**"KCM Group"** means KCM Group Holdings Limited (the ultimate parent holding company) together with each of its subsidiaries and affiliates from time to time, including Kohle Capital Markets Limited (Mauritius), Kohle Capital Markets Pty Ltd (Australia), and Kohle Technology Limited (Hong Kong). Each entity within the KCM Group is a separate legal person; membership of the KCM Group does not render one entity liable for the obligations of, or the services provided by, another.
 
 **"Abnormal Market Conditions"** means any circumstance in which the Company determines, acting reasonably, that pricing is materially disrupted, including as a result of exchange outages, data feed errors, illiquid conditions, or system malfunctions.
 

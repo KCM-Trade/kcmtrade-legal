@@ -2,7 +2,7 @@
 layout: default
 title: Website Legal Disclaimer
 effective_date: 1 March 2018
-last_updated: 15 May 2026
+last_updated: 18 July 2026
 ---
 
 This Website Legal Disclaimer (the "Disclaimer") applies to all websites, web applications, web pages, and online materials operated or published by **Kohle Capital Markets Limited** (the "Company", "we", "us", or "our") under the **KCM Trade** brand, including [www.kcmtrade.com](https://www.kcmtrade.com/) and any related subdomains or associated digital properties (collectively, the "Website").
@@ -54,7 +54,8 @@ In particular, the Website is not directed at, and does not constitute an offer 
 - **Canada**
 - **Japan**
 - **Australia** (Australian residents should refer to the [Australian Entity — KCM Trade Plus]({{ '/australia-disclosure.html' | relative_url }}) page)
-- Any other jurisdiction in which access to the Website or use of the Services would be contrary to applicable law or regulation
+- Jurisdictions subject to comprehensive or targeted sanctions or FATF counter-measures, including North Korea, Iran, Myanmar, Syria, and Sudan
+- Any other jurisdiction restricted under the Company's [Sanctions Policy]({{ '/sanctions-policy.html' | relative_url }}) or [Jurisdictional Availability]({{ '/jurisdictional-availability.html' | relative_url }}) policy, or in which access to the Website or use of the Services would be contrary to applicable law or regulation
 
 Persons in jurisdictions where access to this Website is restricted or prohibited are responsible for ensuring compliance with applicable local laws. Accessing the Website from a restricted jurisdiction does not constitute an entitlement to access the Services.
 
@@ -179,7 +180,7 @@ Continued access to or use of the Website following any amendment constitutes ac
 
 ---
 
-## 15. Contact Information
+## 16. Contact Information
 
 For enquiries regarding this Disclaimer, please contact:
 

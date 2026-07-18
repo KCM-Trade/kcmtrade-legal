@@ -2,7 +2,7 @@
 layout: default
 title: Marketing and Advertising Compliance Policy
 effective_date: 15 May 2026
-last_updated: 15 May 2026
+last_updated: 18 July 2026
 ---
 
 This Marketing and Advertising Compliance Policy (the "Policy") is issued by **Kohle Capital Markets Limited** (the "Company", "we", "us", or "our"), operating under the **KCM Trade** brand and regulated by the **Financial Services Commission of Mauritius (FSC Mauritius)** under Licence No. **C117022600** (Investment Dealer, Full Service Dealer, SEC-2.1B).
@@ -161,7 +161,9 @@ All social media advertising must comply with the advertising policies of the re
 
 ### 6.2 Geo-Targeting
 
-All paid social media and digital advertising must be geo-targeted to exclude jurisdictions in which the Services are restricted or prohibited, as listed in the Company's [Jurisdictional Availability]({{ '/jurisdictional-availability.html' | relative_url }}) policy, including but not limited to: United States, Canada, Japan, North Korea, Iran, Myanmar, Syria, and Sudan.
+All paid social media and digital advertising for **KCM Trade** (Kohle Capital Markets Limited, Mauritius) must be geo-targeted to exclude jurisdictions in which the Services are restricted or prohibited, as listed in the Company's [Jurisdictional Availability]({{ '/jurisdictional-availability.html' | relative_url }}) policy, including but not limited to: United States, Canada, Japan, Australia, North Korea, Iran, Myanmar, Syria, and Sudan.
+
+Australia is excluded from KCM Trade (Mauritius) advertising because Australian residents are served exclusively by the separate Australian entity, **Kohle Capital Markets Pty Ltd** (KCM Trade Plus, AFSL 489437). This exclusion does not restrict advertising lawfully conducted by or on behalf of Kohle Capital Markets Pty Ltd, targeting Australia under its own AFSL.
 
 Targeting parameters applied to each campaign must be documented and retained.
 
