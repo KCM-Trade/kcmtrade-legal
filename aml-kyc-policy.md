@@ -2,7 +2,7 @@
 layout: default
 title: AML and KYC Policy
 effective_date: 1 March 2018
-last_updated: 14 May 2026
+last_updated: 18 July 2026
 ---
 
 This Anti-Money Laundering and Know-Your-Customer Policy (the “Policy”) sets out the principles, standards, and procedures adopted by **Kohle Capital Markets Limited** (the “Company”, “we”, “us”, or “our”) in connection with the provision of services under the **KCM Trade** platform (the “Services”).
@@ -119,9 +119,11 @@ As of **13 February 2026**, the FATF identifies the following jurisdictions as h
 The Company applies its most restrictive controls to accounts and transactions connected with these jurisdictions, consistent with the [Sanctions Policy]({{ '/sanctions-policy.html' | relative_url }}).
 
 **Jurisdictions Under Increased Monitoring (FATF Grey List)**  
-As of **13 February 2026**, the FATF identifies the following 23 jurisdictions as being subject to increased monitoring due to identified AML/CFT/CPF deficiencies:
+As of **13 February 2026**, the FATF identifies the following 22 jurisdictions as being subject to increased monitoring due to identified AML/CFT/CPF deficiencies:
 
-Algeria, Angola, Bolivia, British Virgin Islands, Bulgaria, Cameroon, Côte d'Ivoire, Democratic Republic of the Congo, Haiti, Kenya, Kuwait, Laos, Lebanon, Monaco, Namibia, Nepal, Papua New Guinea, Senegal, South Sudan, Syria, Venezuela, Vietnam, Yemen
+Algeria, Angola, Bolivia, British Virgin Islands, Bulgaria, Cameroon, Côte d'Ivoire, Democratic Republic of the Congo, Haiti, Kenya, Kuwait, Laos, Lebanon, Monaco, Namibia, Nepal, Papua New Guinea, Senegal, South Sudan, Venezuela, Vietnam, Yemen
+
+Syria is not treated as a monitoring-only jurisdiction: the provision of Services to persons resident or incorporated in Syria is prohibited under the [Sanctions Policy]({{ '/sanctions-policy.html' | relative_url }}).
 
 Customers connected with these jurisdictions are subject to Enhanced Due Diligence, including additional documentation requirements, enhanced source of funds and wealth verification, and heightened transaction monitoring.
 

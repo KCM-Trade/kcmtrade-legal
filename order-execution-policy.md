@@ -2,7 +2,7 @@
 layout: default
 title: Order Execution Policy
 effective_date: 1 March 2018
-last_updated: 6 May 2026
+last_updated: 18 July 2026
 ---
 
 This Order Execution Policy (the "Policy") is issued by **Kohle Capital Markets Limited** (the "Company", "we", "us", or "our") and sets out the principles, standards, and arrangements by which the Company handles and executes orders on behalf of users of digital services operated under the **KCM Trade** brand (the "Services").
@@ -20,6 +20,8 @@ This Policy applies to:
 - All orders placed through the KCM Trade platform, mobile application, and associated digital services
 - All financial instruments available through the Services, including Contracts for Difference (CFDs) and foreign exchange (forex) instruments
 - All users who place orders through the Services
+
+The Company provides its Services on an **execution-only** basis. The Company does not provide investment advice, personal recommendations, or discretionary management, and nothing in the execution of an order constitutes advice on the merits or suitability of any transaction. Users are solely responsible for their own trading decisions.
 
 ---
 
@@ -134,7 +136,21 @@ Users will be notified of any material changes to this Policy in accordance with
 
 ---
 
-## 11. Consent
+## 11. Limitation of Liability
+
+The Company takes all sufficient steps to obtain the best possible result for its clients in accordance with this Policy. However, to the maximum extent permitted by applicable law, the Company is not liable for:
+
+- Slippage, requotes, gapping, or the price at which an order is executed under prevailing market conditions
+- The rejection, cancellation, delay, or partial fill of any order
+- Latency, disconnection, or failure of internet connectivity, trading platforms, or third-party infrastructure outside the Company's reasonable control
+- Losses arising from the user's own trading decisions, instructions, or use of the Services
+- Any indirect, consequential, incidental, or special loss
+
+Nothing in this Policy limits the Company's liability for fraud, gross negligence, or any liability that cannot be excluded or limited under applicable law. This Policy is to be read together with the limitation of liability provisions of the [Terms of Service]({{ '/terms-of-service.html' | relative_url }}).
+
+---
+
+## 12. Consent
 
 By accessing the Services and placing orders through the KCM Trade platform, users are deemed to have read, understood, and consented to this Order Execution Policy and the execution arrangements described herein.
 

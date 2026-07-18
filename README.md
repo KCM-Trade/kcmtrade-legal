@@ -1,4 +1,4 @@
-[# KCM Trade  
+# KCM Trade  
 ## Legal, Regulatory, and Compliance Documentation Repository
 
 This repository contains the official legal, regulatory, and compliance documentation applicable to digital services, platforms, and applications operated under the **KCM Trade** brand by **Kohle Capital Markets Limited** (the “Company”).
@@ -74,6 +74,10 @@ These documents should be read together, as they are interrelated and incorporat
   https://kcm-trade.github.io/kcmtrade-legal/regulatory-licensing-disclosure  
   Provides information regarding the Company’s legal entity, licensing, and regulatory status.
 
+- **Website Legal Disclaimer**  
+  https://kcm-trade.github.io/kcmtrade-legal/website-disclaimer  
+  General disclaimer governing use of the website and the information published on it.
+
 ---
 
 ### 4.2 Compliance and Governance Documents
@@ -82,9 +86,25 @@ These documents should be read together, as they are interrelated and incorporat
   https://kcm-trade.github.io/kcmtrade-legal/aml-kyc-policy  
   Describes the Company’s anti-money laundering, counter-terrorism financing, and client verification framework.
 
+- **Sanctions Policy**  
+  https://kcm-trade.github.io/kcmtrade-legal/sanctions-policy  
+  Sets out the Company’s approach to international sanctions compliance and restricted jurisdictions.
+
 - **Complaints Policy**  
   https://kcm-trade.github.io/kcmtrade-legal/complaints-policy  
   Sets out the procedures for the submission, handling, investigation, and escalation of complaints, including escalation to the Financial Services Commission of Mauritius.
+
+- **Conflicts of Interest Policy**  
+  https://kcm-trade.github.io/kcmtrade-legal/conflicts-of-interest-policy  
+  Describes how the Company identifies, manages, and discloses conflicts of interest.
+
+- **Client Appropriateness Policy**  
+  https://kcm-trade.github.io/kcmtrade-legal/client-appropriateness-policy  
+  Explains the appropriateness and suitability assessment framework applied to clients.
+
+- **Client Fund Protection**  
+  https://kcm-trade.github.io/kcmtrade-legal/client-fund-protection  
+  Describes client money segregation arrangements and the limits of applicable protections.
 
 - **Data Safety and Processing Disclosure**  
   https://kcm-trade.github.io/kcmtrade-legal/data-safety  
@@ -96,15 +116,63 @@ These documents should be read together, as they are interrelated and incorporat
 
 ---
 
-### 4.3 Platform Review, Access, and Support
+### 4.3 Trading and Product Documents
+
+- **Leverage and Margin Policy**  
+  https://kcm-trade.github.io/kcmtrade-legal/leverage-margin-policy  
+  Explains leverage limits, margin requirements, margin close-out, and negative balance protection.
+
+- **Order Execution Policy**  
+  https://kcm-trade.github.io/kcmtrade-legal/order-execution-policy  
+  Describes how client orders are handled and executed, including the Company’s execution model.
+
+- **Copy Trading — Additional Terms and Risk Disclosure**  
+  https://kcm-trade.github.io/kcmtrade-legal/copy-trading-terms  
+  Governs the copy trading service provided through third-party infrastructure and its associated risks.
+
+- **Marketing and Advertising Policy**  
+  https://kcm-trade.github.io/kcmtrade-legal/marketing-advertising-policy  
+  Sets out advertising standards, including obligations applicable to Introducing Brokers and partners.
+
+- **AI Tools and Features Disclaimer**  
+  https://kcm-trade.github.io/kcmtrade-legal/ai-tools-disclaimer  
+  Disclaims reliance on AI-generated features and allocates responsibility for their use.
+
+---
+
+### 4.4 Platform Review, Access, and Support
 
 - **Application Access Disclosure**  
   https://kcm-trade.github.io/kcmtrade-legal/app-access-disclosure  
   Provides information relevant to application access, restrictions, and platform review procedures.
 
+- **Jurisdictional Availability**  
+  https://kcm-trade.github.io/kcmtrade-legal/jurisdictional-availability  
+  Sets out the jurisdictions where the application is available and where it is restricted, for platform review.
+
+- **Regulatory Documents**  
+  https://kcm-trade.github.io/kcmtrade-legal/regulatory-documents  
+  Provides access to official regulatory and licensing documents for verification by authorised parties.
+
 - **Contact Information**  
   https://kcm-trade.github.io/kcmtrade-legal/contact  
   Sets out official customer support and compliance contact details, including email and telephone support.
+
+---
+
+### 4.5 Related Entity and Partnership Documents
+
+- **Australian Entity — KCM Trade Plus**  
+  https://kcm-trade.github.io/kcmtrade-legal/australia-disclosure  
+  Relates exclusively to the separate Australian entity, Kohle Capital Markets Pty Ltd (AFSL 489437).
+
+- **Independent Partnership Agreement — Africa Terms**  
+  https://kcm-trade.github.io/kcmtrade-legal/ib-partnership-agreement  
+  Introducing Broker partnership agreement governing partners under the Africa terms.
+
+- **Independent Partnership Agreement — Global Terms**  
+  https://kcm-trade.github.io/kcmtrade-legal/ib-partnership-agreement-global  
+  Introducing Broker partnership agreement governing partners under the global terms.
 
 ---
 
@@ -162,4 +230,3 @@ Website: https://www.kcmtrade.com
 ---
 
 © 2026 Kohle Capital Markets Limited. All rights reserved.
-](https://kcm-trade.github.io/kcmtrade-legal/privacy-policy.html  )

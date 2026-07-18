@@ -2,12 +2,13 @@
 layout: default
 title: Complaints Policy
 effective_date: 1 March 2018
-last_updated: 6 May 2026
+last_updated: 18 July 2026
 ---
 
 This Complaints Policy (the “Policy”) sets out the procedures adopted by **Kohle Capital Markets Limited** (the “Company”, “we”, “us”, or “our”) for the receipt, handling, investigation, and resolution of complaints in relation to digital services, platforms, and applications operated under the **KCM Trade** brand (the “Services”).
 
 This Policy forms part of the Company’s legal and compliance framework and is intended to meet applicable legal, regulatory, and platform governance requirements.
+
 ---
 
 > ## ⚠ Which entity handles your complaint?

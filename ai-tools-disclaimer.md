@@ -2,7 +2,7 @@
 layout: default
 title: AI Tools and Features Disclaimer
 effective_date: 15 May 2026
-last_updated: 10 July 2026
+last_updated: 18 July 2026
 ---
 
 This AI Tools and Features Disclaimer (the "Disclaimer") is issued by **Kohle Capital Markets Limited** (the "Company", "we", "us", or "our"), operating under the **KCM Trade** brand and regulated by the **Financial Services Commission of Mauritius (FSC Mauritius)** under Licence No. **C117022600** (Investment Dealer, Full Service Dealer, SEC-2.1B).
@@ -116,6 +116,10 @@ The **AI News** feature aggregates, summarises, and presents market news and fin
 
 > **Note on counterparty interest:** As an FX and CFD broker operating a market-maker model, the Company may act as principal counterparty to trades executed through the Services. The Company may therefore have a direct financial interest in the outcome of trades placed in response to information displayed in AI News. Users should be aware of this potential conflict of interest and are encouraged to consult the [Conflicts of Interest Policy]({{ '/conflicts-of-interest-policy.html' | relative_url }}) and [Regulatory and Licensing Disclosure]({{ '/regulatory-licensing-disclosure.html' | relative_url }}).
 
+---
+
+## 6. Economic Events
+
 The **Economic Events** feature provides AI-processed information about scheduled economic data releases, central bank decisions, and geopolitical announcements.
 
 - Economic event data, release times, and consensus forecasts are sourced from third-party providers; the Company does not independently verify the accuracy of this data and it may be subject to revision or late changes
@@ -125,6 +129,10 @@ The **Economic Events** feature provides AI-processed information about schedule
 - Users trade economic events at their own risk
 
 > **Note on counterparty interest:** As an FX and CFD broker operating a market-maker model, the Company may act as principal counterparty to trades placed in anticipation of or reaction to economic data releases. The Company may therefore have a direct financial interest in the outcome of such trades. Users should review the [Conflicts of Interest Policy]({{ '/conflicts-of-interest-policy.html' | relative_url }}) and [Regulatory and Licensing Disclosure]({{ '/regulatory-licensing-disclosure.html' | relative_url }}).
+
+---
+
+## 7. IB Promo Generator
 
 The **IB Promo Generator** is an AI-powered tool that enables Introducing Brokers (IBs) and authorised partners to generate draft promotional content and marketing material templates.
 
