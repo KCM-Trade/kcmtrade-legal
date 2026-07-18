@@ -22,6 +22,18 @@
   <link rel="canonical" href="{{ site.url }}{{ site.baseurl }}{{ page.url }}">
   <title>{% if page.title %}{{ page.title | escape }} — {% endif %}{{ site.title | escape }}</title>
 
+  <!-- Apply saved theme before paint to avoid a flash -->
+  <script>
+    (function(){
+      try{
+        var t = localStorage.getItem('kcm-theme');
+        if(t === 'light' || t === 'dark'){
+          document.documentElement.setAttribute('data-theme', t);
+        }
+      }catch(e){}
+    })();
+  </script>
+
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,400&display=swap">
@@ -45,6 +57,17 @@
           <span class="brand-subtitle">Legal & Compliance</span>
         </span>
       </a>
+
+      <button
+        type="button"
+        class="theme-toggle"
+        aria-label="Switch to dark theme"
+        aria-pressed="false"
+        title="Toggle light / dark theme"
+      >
+        <span class="icon-moon" aria-hidden="true">&#9789;</span>
+        <span class="icon-sun" aria-hidden="true">&#9788;</span>
+      </button>
     </div>
   </header>
 
@@ -80,5 +103,36 @@
       </div>
     </div>
   </footer>
+
+  <script>
+    (function(){
+      var root = document.documentElement;
+      var btn = document.querySelector('.theme-toggle');
+      if(!btn) return;
+
+      function currentTheme(){
+        var explicit = root.getAttribute('data-theme');
+        if(explicit) return explicit;
+        return window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+      }
+
+      function syncButton(mode){
+        var isDark = mode === 'dark';
+        btn.setAttribute('aria-pressed', String(isDark));
+        btn.setAttribute('aria-label', isDark ? 'Switch to light theme' : 'Switch to dark theme');
+      }
+
+      // Reflect the active theme in the button without persisting a choice
+      // the visitor hasn't actively made.
+      syncButton(currentTheme());
+
+      btn.addEventListener('click', function(){
+        var next = currentTheme() === 'dark' ? 'light' : 'dark';
+        root.setAttribute('data-theme', next);
+        try{ localStorage.setItem('kcm-theme', next); }catch(e){}
+        syncButton(next);
+      });
+    })();
+  </script>
 </body>
 </html>
